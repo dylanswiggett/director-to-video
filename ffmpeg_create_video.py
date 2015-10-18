@@ -73,7 +73,20 @@ def draw_mouth(mouth, character, x, y, width, height):
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
-    character[y0:y1,x0:x1] = cv2.bitwise_and(character[y0:y1,x0:x1], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
+    fit_mask = numpy.float32(fit_mask) / 255.0
+    char_region = numpy.float32(character[y0:y1,x0:x1])
+    inverse_fit_mask = fit_mask * -1 + 1.0
+    mul = cv2.multiply(char_region, fit_mask)
+    m1 = cv2.mean(mul)
+    m2 = cv2.mean(fit_mask)
+    avg = numpy.float32(map(lambda x, y: x/(y * 255.0) if y else 0.0, m1, m2))
+    r = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[0]
+    g = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[1]
+    b = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[2]
+    rgb = cv2.merge((r,g,b))
+    fit_image = cv2.multiply(numpy.float32(fit_image), rgb)
+    fit_image = cv2.multiply(fit_image, inverse_fit_mask)
+    character[y0:y1,x0:x1] = numpy.uint8(mul + fit_image * 1.2)
 
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
@@ -137,7 +150,7 @@ def create_video(script):
         script.characters[character].voice = i % 4
         i += 1
 
-    for scene in script.scenes[:10]:
+    for scene in script.scenes[:2]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
