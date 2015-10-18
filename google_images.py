@@ -72,7 +72,9 @@ def find_character(query):
   if os.path.exists(BASE_PATH + '/' + query + '.jpg'):
     print "Reusing cached image..."
     img = cv2.imread(BASE_PATH + '/' + query + '.jpg')
-    results = fd.detect_face(img)
+    results = False
+    while not results:
+      results = fd.detect_face(img)
     return (results, img)
   if not os.path.exists(BASE_PATH):
     os.makedirs(BASE_PATH)
