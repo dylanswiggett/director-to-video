@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import subprocess
 import numpy
 import cv2
