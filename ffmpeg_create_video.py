@@ -75,7 +75,9 @@ def draw_mouth(mouth, character, x, y, width, height):
     fit_height, fit_width = fit_image.shape[0:2]
     y_offset = y + (height - fit_height)
     x_offset = x + (width - fit_width) / 2
-    character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = cv2.bitwise_and(character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
+    y0, y1 = y_offset, (y_offset+fit_height)
+    x0, x1 = x_offset, (x_offset+fit_width)
+    character[y0:y1,x0:x1] = cv2.bitwise_and(character[y0:y1,x0:x1], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
 
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
@@ -140,7 +142,7 @@ def create_video(script):
         i += 1
 
 
-    for scene in script.scenes[:5]:
+    for scene in script.scenes[:1]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
@@ -167,7 +169,10 @@ def create_video(script):
 
                     for mouth in mouths:
                         frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
-                        cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0))
+                        # supertitles
+                        text_size = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, 1.0, 2)
+                        text_point = ((HORIZONTAL_RESOLUTION - text_size[0][0])/2, 50)
+                        cv2.putText(frame, text, text_point, cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0), 2)
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
                     while (float(totalframes) / 24.0 - audioManager.curlen()) < .1:
