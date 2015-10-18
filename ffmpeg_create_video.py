@@ -149,15 +149,16 @@ def create_video(script):
             for text in re.split(r"[.,!:;?]+", text_full):
                 if len(text) > 0:
                     # Begin hax to make voices line up
-                    mouths = voice.generate_line(character.voice, text)
                     off = float(totalframes) / 24.0 - audioManager.curlen()
+                    off -= .1
+                    if off < 0:
+                        off = 0
+                        print "THIS SHOULD ACTUALLY NEVER HAPPEN."
+                    voice.generate_line(character.voice, text)
                     starttime = audioManager.curlen() + off
-                    if off < 0: off = 0
                     audioManager.addAudio('tmp/tmp.wav', off)
                     length = audioManager.curlen() - starttime
-                    dialogframes = float(len(mouths)) / 24.0
-        #            if length != 0:
-        #                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
+                    mouths = voice.generate_line(character.voice, text, length=length)
                     # End hax
 
                     for mouth in mouths:

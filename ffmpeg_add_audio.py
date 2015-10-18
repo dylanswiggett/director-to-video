@@ -40,8 +40,8 @@ class OutputAudio:
         for line in commands.getstatusoutput(command)[1:]:
             if "Duration" in line:
                 res = re.search(r'(\d+):(\d+):(\d+).(\d+)', line)
-                h,m,s,ms = res.group(1), res.group(2), res.group(3), res.group(4)
-                return int(h) * 3600.0 + int(m) * 60.0 + int(s) + int(ms) * .001
+                h,m,s,cs = res.group(1), res.group(2), res.group(3), res.group(4)
+                return int(h) * 3600.0 + int(m) * 60.0 + int(s) + int(cs) * .01
         return 0
 
 
