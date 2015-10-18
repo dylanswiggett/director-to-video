@@ -21,15 +21,17 @@ ffmpeg_create_video_command = ['ffmpeg',
 	'%s.mp4' % VIDEO_FILENAME
 	]
 
-import scipy.ndimage
+import cv2
 
-cat_image = scipy.ndimage.imread('tmp/cat.jpg')
-cat2_image = scipy.ndimage.imread('tmp/cat2.jpg')
+cat_image = cv2.imread('tmp/cat.jpg')
+cat2_image = cv2.imread('tmp/cat2.jpg')
 
 pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 
-for i in range(240):
-	pipe.stdin.write(cat_image.tostring())
-	pipe.stdin.write(cat2_image.tostring())
+for i in range(10):
+	for j in range(12):
+		pipe.stdin.write(cat_image.tostring())
+	for j in range(12):
+		pipe.stdin.write(cat2_image.tostring())
 
 pipe.stdin.close()
