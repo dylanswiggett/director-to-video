@@ -108,7 +108,7 @@ def find_character(query):
             keyword = character_lookup_keywords[keywords_i - len(character_lookup_keywords)]
             character_name = query[:-1]
         else:
-            character_name = 'FACE'
+            character_name = 'person'
         print "Searching for " + character_name + " " + keyword + " " + str(start)
         BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
                  'v=1.0&q=' + character_name + '+' + keyword + '&start=%d'

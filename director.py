@@ -10,7 +10,7 @@ import ffmpeg_create_video as ffcv
 import cv2
 import sys
 
-TESTFILE_PATH = "the-defector.txt"
+TESTFILE_PATH = "all-good-things.txt"
 
 def main():
     if len(sys.argv) == 2:
