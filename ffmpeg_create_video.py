@@ -43,7 +43,7 @@ def as_background_image(img):
 	if ratio > ASPECT_RATIO:
 		background_image = cv2.resize(img, (int(VERTICAL_RESOLUTION * ratio), VERTICAL_RESOLUTION))
 	elif ratio < ASPECT_RATIO:
-		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, int(VERTICAL_RESOLUTION / ratio)))
+		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, int(HORIZONTAL_RESOLUTION / ratio)))
 	else:
 		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION))
 	return background_image[0:VERTICAL_RESOLUTION, 0:HORIZONTAL_RESOLUTION]
