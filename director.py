@@ -8,11 +8,15 @@ import star_trek_parse as parser
 import google_images as gi
 import ffmpeg_create_video as ffcv
 import cv2
+import sys
 
 TESTFILE_PATH = "clues.txt"
 
 def main():
-    script = parser.parse(TESTFILE_PATH)
+    if len(sys.argv) == 2:
+        script = parser.parse(sys.argv[1])
+    else:
+        script = parser.parse(TESTFILE_PATH)
     for scene in script.scenes:
         scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
     print "Casting..."
