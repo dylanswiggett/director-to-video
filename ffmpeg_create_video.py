@@ -8,6 +8,7 @@ import re
 
 import star_trek_parse
 
+import pick_voice as pv
 import google_images as gi
 import ffmpeg_add_audio as ffaa
 import voice
@@ -69,7 +70,7 @@ def draw_mouth(mouth, character, x, y, width, height):
     fit_image = fit_character(mouth[0], width, height)
     fit_mask = fit_character(mouth[1], width, height)
     fit_height, fit_width = fit_image.shape[0:2]
-    y_offset = y + (height - fit_height)
+    y_offset = y + (height - fit_height) * 1.3
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
@@ -97,12 +98,12 @@ def as_background_image(image):
 def draw_scene(background, characters_fg, characters_bg, speaking, mouth, first_line):
     background = copy.copy(background)
     speaking_img = copy.copy(speaking.image)
+    scale = 2
     if not speaking.loc:
         print "Error, could not find mouth location"
         x, y, w, h = 0, 0, 100, 100
     else:
         x, y, w, h = speaking.loc['mouth']
-        scale = 2
     draw_mouth(mouth, speaking_img, x-w/scale, y-w/scale, w*scale, h*scale)
     # place characters in background
     dx_bg = HORIZONTAL_RESOLUTION / (len(characters_bg) * 2 - 1)
@@ -126,7 +127,7 @@ def create_video(script):
     audioManager = ffaa.OutputAudio()
     i = 0
     for character in script.characters:
-        script.characters[character].voice = i % 4
+        script.characters[character].voice = pv.pick_voice(script, character)
         i += 1
 
     for scene in script.scenes[:10]:
