@@ -4,6 +4,17 @@ import script as s
 import sys
 import re
 
+keywords = {
+    'ENTERS': s.ENTER,
+    'ENTER': s.ENTER,
+    'EXIT': s.EXIT,
+    'EXITS': s.EXIT,
+    'WITHDRAW': s.EXIT,
+    'WITHDRAWS': s.EXIT,
+    'LEAVE': s.EXIT,
+    'LEAVES': s.EXIT
+}
+
 def parse(path):
     f = open(path, 'r')
 
@@ -45,10 +56,9 @@ def parse(path):
     curscene = []
     for line in f:
         if line.strip() == "THE END" or re.match("^\d+.*$", line):
-            if "CONTINUED" in line or "ANGLE" in line: # Don't split up scenes.
-                continue
-            if not ("INT." in line or "EXT." in line):
-                continue
+            if "CONTINUED" in line or "ANGLE" in line or \
+               not ("INT." in line or "EXT." in line):
+                curscene[0] = scenetexts[-1][0]
             scenetexts.append(curscene)
             curscene = []
             if line.strip() == "THE END":
@@ -93,7 +103,24 @@ def parse(path):
             tabs, line = line
 
             if tabs == 1: # Stage direction
-                scene.addDirection(s.StageDirection(line))
+                direction = s.StageDirection(line)
+                scene.addDirection(direction)
+                sentences = line.split('.')
+                for sentence in sentences:
+                    sentence = re.sub('[^\s\w]', '', sentence.upper())
+                    words = sentence.split()
+                    action = s.BACKGROUND
+                    for act in [keywords[k] for k in keywords if k in sentence]:
+                        action = act
+                        break
+                    chars = set()
+                    for character in script.characters.values():
+                        if character.name in words:
+                            chars.add(character)
+                    for char in chars:
+                        direction.addAction(action, char)
+                        print (action, char.name)
+                    
             elif tabs == 3: # Dialog
                 scene.addDirection(s.Dialog(curchar, line))
             elif tabs == 4: # Stage direction for character

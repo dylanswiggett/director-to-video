@@ -2,6 +2,11 @@
 
 from difflib import SequenceMatcher
 
+# Stage directions:
+ENTER = 0
+EXIT = 1
+BACKGROUND = 2
+
 def similar(a, b):
     return SequenceMatcher(None, a, b).ratio()
 
@@ -14,6 +19,10 @@ class StageDirection:
     def __init__(self, text, character=None):
         self.text = text
         self.character = character
+        self.actions = []
+
+    def addAction(self, action, obj):
+        self.actions.append((action, obj))
 
 class Character:
     def __init__(self, name):
