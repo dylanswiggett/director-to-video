@@ -16,6 +16,7 @@ def find_image(query):
     Don't print or republish images without permission.
     I used this to train a learning algorithm.
     """
+    query = query.replace('/', ' ')
     path = 'tmp/scenes'
     BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
                'v=1.0&q=' + query + '+star+trek&start=%d&userip=69.91.178.167'
@@ -65,6 +66,7 @@ def find_character(query):
     Don't print or republish images without permission.
     I used this to train a learning algorithm.
     """
+    query = query.replace('/', ' ')
     path = 'tmp/characters'
     BASE_PATH = path
     keywords_i = 0
