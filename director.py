@@ -13,10 +13,10 @@ TESTFILE_PATH = "clues.txt"
 
 def main():
     script = parser.parse(TESTFILE_PATH)
-    scene = script.scenes[12]
-    scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
+    for scene in script.scenes:
+        scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
     print "Casting..."
-    for character in scene.characters:
+    for character in script.characters.values():
         print(character.name)
         character_data = gi.find_character(character.name)
         loc, image = character_data

@@ -119,43 +119,45 @@ def draw_scene(background, characters, speaking, mouth, first_line):
 
 def create_video(script):
     pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
-    scene = script.scenes[12]
-    audioManager = ffaa.OutputAudio()
-    setting_image = as_background_image(scene.setting.image)
-    nchars = len(scene.characters) + 2
-    dx = HORIZONTAL_RESOLUTION/nchars
-    i = 0
     totalframes = 0
-    for character in scene.characters:
-        character.voice = i % 4
+    audioManager = ffaa.OutputAudio()
+    i = 0
+    for character in script.characters:
+        script.characters[character].voice = i % 4
         i += 1
+
     first_line = True
-    for line in scene.directions:
-        if not isinstance(line, Dialog):
-            continue
-        text, character = line.text, line.character
+    for scene in script.scenes[:10]:
+        setting_image = as_background_image(scene.setting.image)
+        nchars = len(scene.characters) + 2
+        dx = HORIZONTAL_RESOLUTION/nchars
 
-        # Begin hax to make voices line up
-        mouths = voice.generate_line(character.voice, text)
-        off = float(totalframes - 1) / 24.0 - audioManager.curlen()
-        starttime = audioManager.curlen() + off
-        if off < 0: off = 0
-        audioManager.addAudio('tmp/tmp.wav', off)
-        length = audioManager.curlen() - starttime
-        dialogframes = float(len(mouths)) / 24.0
-        if length != 0:
-            mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
-        # End hax
+        for line in scene.directions:
+            if not isinstance(line, Dialog):
+                continue
+            text, character = line.text, line.character
 
-        for mouth in mouths:
-            frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
-            pipe.stdin.write(frame.tostring())
-            totalframes += 1
-        for i in range(0,5):
-            frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
-            pipe.stdin.write(frame.tostring())
-            totalframes += 1
-        first_line = False
+            # Begin hax to make voices line up
+            mouths = voice.generate_line(character.voice, text)
+            off = float(totalframes - 1) / 24.0 - audioManager.curlen()
+            starttime = audioManager.curlen() + off
+            if off < 0: off = 0
+            audioManager.addAudio('tmp/tmp.wav', off)
+            length = audioManager.curlen() - starttime
+            dialogframes = float(len(mouths)) / 24.0
+            if length != 0:
+                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
+            # End hax
+
+            for mouth in mouths:
+                frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
+                pipe.stdin.write(frame.tostring())
+                totalframes += 1
+            for i in range(0,5):
+                frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
+                pipe.stdin.write(frame.tostring())
+                totalframes += 1
+            first_line = False
     pipe.stdin.close()
     pipe.wait()
     audioManager.combineWith('tmp/out.mp4', 'movie.mkv')
