@@ -7,3 +7,5 @@ TEXT=$4
 
 espeak -s 140 -v mb-$VOICE -q -p $PITCH --pho --phonout=tmp/tmp.pho "$TEXT"
 mbrola -v $VOLUME /usr/share/mbrola/$VOICE/$VOICE tmp/tmp.pho tmp/tmp.wav 
+
+cat tmp/tmp.pho
