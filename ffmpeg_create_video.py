@@ -139,21 +139,21 @@ def create_video(script):
 
             # Begin hax to make voices line up
             mouths = voice.generate_line(character.voice, text)
-            off = float(totalframes - 1) / 24.0 - audioManager.curlen()
+            off = float(totalframes) / 24.0 - audioManager.curlen()
             starttime = audioManager.curlen() + off
             if off < 0: off = 0
             audioManager.addAudio('tmp/tmp.wav', off)
             length = audioManager.curlen() - starttime
             dialogframes = float(len(mouths)) / 24.0
-            if length != 0:
-                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
+#            if length != 0:
+#                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
             # End hax
 
             for mouth in mouths:
                 frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
                 pipe.stdin.write(frame.tostring())
                 totalframes += 1
-            for i in range(0,5):
+            while (float(totalframes) / 24.0 - audioManager.curlen()) < .5:
                 frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
                 pipe.stdin.write(frame.tostring())
                 totalframes += 1

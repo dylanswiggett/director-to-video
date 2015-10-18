@@ -40,10 +40,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
 
         while totaloffset + dur >= curframeend:
             mouths.append(face)
-            off = curframeend - totaloffset
-            totaloffset += off
             curframeend += framelen
-            dur -= off
         totaloffset += dur
 
     return mouths
