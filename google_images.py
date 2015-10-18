@@ -17,7 +17,7 @@ def find_image(query):
   """
   path = 'tmp/scenes'
   BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
-             'v=1.0&q=' + query + '&start=%d'
+             'v=1.0&q=' + query + '+star+trek&start=%d'
 
   BASE_PATH = path
 
