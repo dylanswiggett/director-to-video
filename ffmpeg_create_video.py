@@ -45,29 +45,33 @@ def draw_image(src, dst, x, y, width=0, height=0):
     else:
         dst[y:(y+height), x:(x+width)] = cv2.resize(src, (width, height))
 
-def fit_character(char, width, height):
+def fit_character(char, width, height, face):
     char_height, char_width = char.shape[0:2]
     char_ratio = float(char_width) / float(char_height)
     fit_ratio = float(width) / float(height)
     fit_image = None
+    if face is not None and float(char_height) / float(char_width) < 0.5:
+        print "Character sizes: %d %d" % (char_height, char_width)
+        char = char[face[1]:face[1]+face[3], face[0]:face[0]+face[2]]
     if char_ratio > fit_ratio:
         fit_image = cv2.resize(char, (width, int(width / char_ratio)))
     elif char_ratio < fit_ratio:
         fit_image = cv2.resize(char, (int(height * char_ratio), height))
     else:
         fit_image = cv2.resize(char, (width, height))
+
     return fit_image
 
-def draw_character(char, scene, x, y, width, height):
-    fit_image = fit_character(char, width, height)
+def draw_character(char, scene, x, y, width, height, face):
+    fit_image = fit_character(char, width, height, face)
     fit_height, fit_width = fit_image.shape[0:2]
     y_offset = y + (height - fit_height)
     x_offset = x + (width - fit_width) / 2
     scene[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = fit_image
 
 def draw_mouth(mouth, character, x, y, width, height):
-    fit_image = fit_character(mouth[0], width, height)
-    fit_mask = fit_character(mouth[1], width, height)
+    fit_image = fit_character(mouth[0], width, height, None)
+    fit_mask = fit_character(mouth[1], width, height, None)
     fit_height, fit_width = fit_image.shape[0:2]
     y_offset = y + (height - fit_height)
     x_offset = x + (width - fit_width) / 2
@@ -111,7 +115,7 @@ def draw_scene(background, characters, speaking, mouth, first_line):
             character = character_list[i]
             c_img = speaking_img if i == speaking_index else character.image
             background_space = int(0.4 * VERTICAL_RESOLUTION)
-            draw_character(c_img, background, dx * i, background_space, dx - 20, VERTICAL_RESOLUTION - background_space)
+            draw_character(c_img, background, dx * i, background_space, dx - 20, VERTICAL_RESOLUTION - background_space, character.loc['face'])
     else:
         speaking_x = 0
         if n_characters == 1 or speaking_index < (n_characters / 2):
@@ -119,7 +123,7 @@ def draw_scene(background, characters, speaking, mouth, first_line):
         else:
             speaking_x = int(0.8 * HORIZONTAL_RESOLUTION)
         speaking_width = int(0.38 * HORIZONTAL_RESOLUTION)
-        fit_image = fit_character(speaking_img, speaking_width, VERTICAL_RESOLUTION)
+        fit_image = fit_character(speaking_img, speaking_width, VERTICAL_RESOLUTION, speaking.loc['face'])
         fit_height, fit_width = fit_image.shape[0:2]
         y_offset = VERTICAL_RESOLUTION - fit_height
         x_offset = speaking_x - fit_width / 2
