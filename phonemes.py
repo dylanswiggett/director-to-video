@@ -5,7 +5,7 @@ CDG = "CDGKNRSThYZ.jpg"
 E = "E.jpg"
 FV = "FV.jpg"
 L = "L.jpg"
-MBP = "MGP.jpg"
+MBP = "MBP.jpg"
 O = "O.jpg"
 U = "U.jpg"
 WQ = "WQ.jpg"
@@ -66,7 +66,7 @@ phonemes = {
     'i@': CDG, # ?
     '0': O,
     'V': U,
-    'u:': O,
+    'u:': U,
     'U': U,
     'U@': U, # ?
     'O:': O, # ?
@@ -84,5 +84,11 @@ phonemes = {
     'e': E,
     'o': O,
     'y': O, # ?
-    'Y': O # ?
+    'Y': O, # ?
+
+    # Misc?
+    'Q': O, # ?
+
+    # Break
+    '_': REST
     }
