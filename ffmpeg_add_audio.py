@@ -19,7 +19,7 @@ class OutputAudio:
         commands.getstatusoutput(command)
         command = "sox %s %spad.wav %s %s" % \
                   (self.path, self.path, "tmp/out.wav", temppath)
-        
+
         for line in commands.getstatusoutput(command):
             print line
         subprocess.Popen(['mv', temppath, self.path]).wait()
@@ -43,7 +43,7 @@ class OutputAudio:
                 h,m,s,ms = res.group(1), res.group(2), res.group(3), res.group(4)
                 return int(h) * 3600.0 + int(m) * 60.0 + int(s) + int(ms) * .001
         return 0
-                
+
 
 if __name__=="__main__":
     aud = OutputAudio()

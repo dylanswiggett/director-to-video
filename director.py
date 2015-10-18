@@ -12,17 +12,17 @@ import cv2
 TESTFILE_PATH = "clues.txt"
 
 def main():
-  script = parser.parse(TESTFILE_PATH)
-  scene = script.scenes[10]
-  scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
-  print "Casting..."
-  for character in scene.characters:
-    print(character.name)
-    character_data = gi.find_character(character.name)
-    loc, image = character_data
-    print loc
-    character.loc = loc
-    character.image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
-  ffcv.create_video(script)
+    script = parser.parse(TESTFILE_PATH)
+    scene = script.scenes[10]
+    scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
+    print "Casting..."
+    for character in scene.characters:
+        print(character.name)
+        character_data = gi.find_character(character.name)
+        loc, image = character_data
+        print loc
+        character.loc = loc
+        character.image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
+    ffcv.create_video(script)
 if __name__=="__main__":
-    main()    
+    main()

@@ -3,7 +3,7 @@
 from difflib import SequenceMatcher
 
 def similar(a, b):
-        return SequenceMatcher(None, a, b).ratio()
+    return SequenceMatcher(None, a, b).ratio()
 
 class Dialog:
     def __init__(self, character, text):
@@ -51,7 +51,7 @@ class Script:
         self.scenes = []
         self.characters = dict()
         self.settings = dict()
-        
+
     def addScene(self, scene):
         self.scenes.append(scene)
 

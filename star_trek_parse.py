@@ -91,7 +91,7 @@ def parse(path):
         curchar = None
         for line in actuallines:
             tabs, line = line
-            
+
             if tabs == 1: # Stage direction
                 scene.addDirection(s.StageDirection(line))
             elif tabs == 3: # Dialog
