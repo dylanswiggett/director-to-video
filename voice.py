@@ -4,6 +4,7 @@ import subprocess
 import phonemes as ph
 import ffmpeg_create_video as v
 import ffmpeg_add_audio as a
+import pipes
 
 # Voices:
 #  0: British Male
@@ -49,7 +50,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
 def generate_line(voice_num, line, scale=1.0):
   voice, pitch, volume = voices[voice_num]
-  phonemes = subprocess.check_output(["./voice.sh", voice, pitch, volume, line])
+  phonemes = subprocess.check_output(["./voice.sh", voice, pitch, volume, pipes.quote(line)])
   
   lines = phonemes.split("\n")
   phones = []
