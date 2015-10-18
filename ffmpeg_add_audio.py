@@ -20,8 +20,7 @@ class OutputAudio:
         command = "sox %s %spad.wav %s %s" % \
                   (self.path, self.path, "tmp/out.wav", temppath)
 
-        for line in commands.getstatusoutput(command):
-            print line
+        commands.getstatusoutput(command)
         subprocess.Popen(['mv', temppath, self.path]).wait()
 
     def addSpeech(self, text, audiodelay, voice=("en1","50","2"), temppath="tmp/espeak_tmp.wav"):

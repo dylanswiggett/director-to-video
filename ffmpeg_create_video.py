@@ -136,7 +136,7 @@ def create_video(script):
         i += 1
 
 
-    for scene in script.scenes[:1]:
+    for scene in script.scenes[:5]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
@@ -166,7 +166,7 @@ def create_video(script):
                         cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0))
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
-                    while (float(totalframes) / 24.0 - audioManager.curlen()) < .5:
+                    while (float(totalframes) / 24.0 - audioManager.curlen()) < .1:
                         frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1

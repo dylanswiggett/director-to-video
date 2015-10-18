@@ -29,14 +29,10 @@ def generate_mouths(voice_num, phones, fps=24, length=None):
 
     mouths = []
 
-    print phones
-
     scale = 1.0
     if length:
         actuallen = float(sum(phone[1] for phone in phones)) / 1000.0 # to seconds
         scale = float(length) / actuallen
-        print length, actuallen
-        print "scale:", scale
 
     for phone in phones:
         p, dur = phone
