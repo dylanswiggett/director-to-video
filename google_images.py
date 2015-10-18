@@ -73,8 +73,11 @@ def find_character(query):
     print "Reusing cached image..."
     img = cv2.imread(BASE_PATH + '/' + query + '.jpg')
     results = False
-    while not results:
+    tries = 0
+    while not results and tries < 20:
+      print "Trying to find face again"
       results = fd.detect_face(img)
+      tries += 1
     return (results, img)
   if not os.path.exists(BASE_PATH):
     os.makedirs(BASE_PATH)
@@ -101,14 +104,14 @@ def find_character(query):
 
       file = open(os.path.join(BASE_PATH, '%s.jpg') % query, 'w')
       try:
-        arr = np.asarray(bytearray(image_r.content), dtype=np.uint8)
-        img = cv2.imdecode(arr,-1) # 'load it as it is'
+        Image.open(StringIO(image_r.content)).save(file)
+        file.close()
+        img = cv2.imread(BASE_PATH + '/' + query + '.jpg')
         # save a copy of the image
         results = fd.detect_face(img)
         print(results)
         if not results:
           continue
-        Image.open(StringIO(image_r.content)).save(file)
         return (results, img)
       except:
         # Throw away some gifs...blegh.

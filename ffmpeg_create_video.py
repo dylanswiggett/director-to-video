@@ -100,7 +100,7 @@ def draw_scene(background, characters, speaking, mouth):
 
 def create_video(script):
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
-	scene = script.scenes[10]
+	scene = script.scenes[12]
         audioManager = ffaa.OutputAudio()
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
