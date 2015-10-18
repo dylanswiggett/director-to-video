@@ -60,7 +60,7 @@ def find_image(query):
         start += 4
 
 
-character_lookup_keywords = ['', 'character', 'face', 'profile', 'head']
+character_lookup_keywords = ['character', 'star+trek']
 def find_character(query):
     """Download full size images from Google image search.
     Don't print or republish images without permission.
@@ -86,12 +86,22 @@ def find_character(query):
 
     start = 0 # Google's start query string parameter for pagination.
     while True:
-        if start > 8:
+        if start > 3:
             keywords_i += 1
             start = 0
-        print "Searching for " + query + " " + character_lookup_keywords[keywords_i] + " " + str(start)
+        keyword = ""
+        character_name = ""
+        if keywords_i < len(character_lookup_keywords):
+            keyword = character_lookup_keywords[keywords_i]
+            character_name = query
+        elif (keywords_i < 2 * len(character_lookup_keywords)) and query.lower().endswith('s'):
+            keyword = character_lookup_keywords[keywords_i - len(character_lookup_keywords)]
+            character_name = query[:-1]
+        else:
+            character_name = 'FACE'
+        print "Searching for " + character_name + " " + keyword + " " + str(start)
         BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
-                 'v=1.0&q=' + query + '+' + character_lookup_keywords[keywords_i] + '&start=%d'
+                 'v=1.0&q=' + character_name + '+' + keyword + '&start=%d'
         r = requests.get(BASE_URL % start)
         for image_info in json.loads(r.text)['responseData']['results']:
             url = image_info['unescapedUrl']
