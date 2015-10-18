@@ -65,6 +65,14 @@ def draw_character(char, scene, x, y, width, height):
     x_offset = x + (width - fit_width) / 2
     scene[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = fit_image
 
+def draw_mouth(mouth, character, x, y, width, height):
+    fit_image = fit_character(mouth[0], width, height)
+    fit_mask = fit_character(mouth[1], width, height)
+    fit_height, fit_width = fit_image.shape[0:2]
+    y_offset = y + (height - fit_height)
+    x_offset = x + (width - fit_width) / 2
+    character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = cv2.bitwise_and(character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
+
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
     image_ratio = float(image_width) / float(image_height)
@@ -93,12 +101,12 @@ def draw_scene(background, characters, speaking, mouth, first_line):
     else:
         x, y, w, h = speaking.loc['mouth']
         scale = 2
-    draw_character(mouth, speaking_img, x-w/scale, y-w/(scale*0.8), w*scale, h*scale)
+    draw_mouth(mouth, speaking_img, x-w/scale, y-w/scale, w*scale, h*scale)
     character_list = list(characters)
     speaking_index = character_list.index(speaking)
     n_characters = len(character_list)
     dx = HORIZONTAL_RESOLUTION / n_characters
-    if first_line or (n_characters <= 2):
+    if (first_line and n_characters > 1) or (n_characters == 2):
         for i in range(n_characters):
             character = character_list[i]
             c_img = speaking_img if i == speaking_index else character.image
@@ -106,11 +114,11 @@ def draw_scene(background, characters, speaking, mouth, first_line):
             draw_character(c_img, background, dx * i, background_space, dx - 20, VERTICAL_RESOLUTION - background_space)
     else:
         speaking_x = 0
-        if speaking_index < (n_characters / 2):
-            speaking_x = HORIZONTAL_RESOLUTION / 3
+        if n_characters == 1 or speaking_index < (n_characters / 2):
+            speaking_x = int(0.2 * HORIZONTAL_RESOLUTION)
         else:
-            speaking_x = 2 * HORIZONTAL_RESOLUTION / 3
-        speaking_width = HORIZONTAL_RESOLUTION / 3
+            speaking_x = int(0.8 * HORIZONTAL_RESOLUTION)
+        speaking_width = int(0.38 * HORIZONTAL_RESOLUTION)
         fit_image = fit_character(speaking_img, speaking_width, VERTICAL_RESOLUTION)
         fit_height, fit_width = fit_image.shape[0:2]
         y_offset = VERTICAL_RESOLUTION - fit_height
@@ -127,38 +135,39 @@ def create_video(script):
         script.characters[character].voice = i % 4
         i += 1
 
-    first_line = True
-    for scene in script.scenes[:5]:
+
+    for scene in script.scenes[:1]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
 
+        first_line = True
         for line in scene.directions:
             if not isinstance(line, Dialog):
                 continue
             text_full, character = line.text, line.character
             for text in re.split(r"[.,!:;]+", text_full):
                 if len(text) > 0:
-                    print "Saying line: %s" % text
+                    text, character = line.text, line.character
+
                     # Begin hax to make voices line up
                     mouths = voice.generate_line(character.voice, text)
-                    off = float(totalframes - 1) / 24.0 - audioManager.curlen()
+                    off = float(totalframes) / 24.0 - audioManager.curlen()
                     starttime = audioManager.curlen() + off
                     if off < 0: off = 0
                     audioManager.addAudio('tmp/tmp.wav', off)
                     length = audioManager.curlen() - starttime
                     dialogframes = float(len(mouths)) / 24.0
-                    if length != 0:
-                        mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
+        #            if length != 0:
+        #                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
                     # End hax
 
                     for mouth in mouths:
                         frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
-                           
-                        cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 255))
+                        cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0))
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
-                    for i in range(0,5):
+                    while (float(totalframes) / 24.0 - audioManager.curlen()) < .5:
                         frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
