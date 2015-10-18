@@ -135,8 +135,7 @@ def create_video(script):
         script.characters[character].voice = i % 4
         i += 1
 
-
-    for scene in script.scenes[:5]:
+    for scene in script.scenes[:10]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
