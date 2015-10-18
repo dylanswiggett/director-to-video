@@ -112,7 +112,7 @@ def parse(path):
 if __name__=="__main__":
 
     if len(sys.argv) != 2:
-        print "USAGE: ./star-trek-parse <scriptpath>"
+        print "USAGE: ./star_trek_parse <scriptpath>"
         exit(1)
 
     print "Parsing script from %s" % sys.argv[1]
