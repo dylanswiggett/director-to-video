@@ -21,13 +21,18 @@ voices = [
 
 mouth_images = dict()
 
-def generate_mouths(voice_num, phones, fps=24, scale=1.0):
+def generate_mouths(voice_num, phones, fps=24, length=None):
     framelen = 1000.0 / fps # ms
 
     totaloffset = 0
     curframeend = 0
 
     mouths = []
+
+    scale = 1.0
+    if length:
+        actuallen = float(sum(phone[1] for phone in phones)) / 1000.0 # to seconds
+        scale = float(length) / actuallen
 
     for phone in phones:
         p, dur = phone
@@ -36,7 +41,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
             face = ph.phonemes[p]
         else:
             face = ph.REST
-            print "Unknown phoneme", p
+            #print "Unknown phoneme", p
 
         while totaloffset + dur >= curframeend:
             mouths.append(face)
@@ -46,7 +51,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
     return mouths
 
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
-def generate_line(voice_num, line, scale=1.0):
+def generate_line(voice_num, line, length=None):
     voice, pitch, volume = voices[voice_num]
     line = line.replace("'", "")
     phonemes = subprocess.check_output(["./voice.sh", voice, pitch, volume, pipes.quote(line)])
@@ -60,7 +65,7 @@ def generate_line(voice_num, line, scale=1.0):
         p, time = phon[0], phon[1]
         phones.append((p, int(time)))
 
-    mouths = generate_mouths(voice_num, phones, scale=scale)
+    mouths = generate_mouths(voice_num, phones, length=length)
     mouth_img_list = []
     for mouth in mouths:
         if not mouth in mouth_images:
