@@ -70,7 +70,7 @@ def draw_mouth(mouth, character, x, y, width, height):
     fit_image = fit_character(mouth[0], width, height)
     fit_mask = fit_character(mouth[1], width, height)
     fit_height, fit_width = fit_image.shape[0:2]
-    y_offset = y + (height - fit_height) * 1.3
+    y_offset = y + (height - fit_height) * 1.5
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
