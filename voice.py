@@ -45,6 +45,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
             curframeend += framelen
             dur -= off
         totaloffset += dur
+
     return mouths
 
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
@@ -68,6 +69,8 @@ def generate_line(voice_num, line, scale=1.0):
             path = "mouths/" + mouth
             mouth_images[mouth] = v.load_image(path)
         mouth_img_list.append(mouth_images[mouth])
+    if len(mouth_img_list) == 0:
+        mouth_img_list.append(mouth_images["Rest.jpg"])
     return mouth_img_list
 
 if __name__ == "__main__":
