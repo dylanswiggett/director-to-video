@@ -12,10 +12,10 @@ import ffmpeg_add_audio as a
 #
 
 voices = [
-  ("en1", "50", "3"),
-  ("us1", "50", "2"),
-  ("us2", "50", "3"),
-  ("us3", "50", "3")
+  ("en1", "50", "2"),
+  ("us1", "50", "1"),
+  ("us2", "50", "2"),
+  ("us3", "50", "2")
 ]
 
 mouth_images = dict()
@@ -47,7 +47,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
   return mouths
 
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
-def generate_line(voice_num, line):
+def generate_line(voice_num, line, scale=1.0):
   voice, pitch, volume = voices[voice_num]
   phonemes = subprocess.check_output(["./voice.sh", voice, pitch, volume, line])
   
@@ -60,7 +60,7 @@ def generate_line(voice_num, line):
     p, time = phon[0], phon[1]
     phones.append((p, int(time)))
 
-  mouths = generate_mouths(voice_num, phones)
+  mouths = generate_mouths(voice_num, phones, scale=scale)
   mouth_img_list = []
   for mouth in mouths:
     if not mouth in mouth_images:
