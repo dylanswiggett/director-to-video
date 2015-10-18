@@ -70,7 +70,7 @@ def draw_mouth(mouth, character, x, y, width, height):
     fit_image = fit_character(mouth[0], width, height)
     fit_mask = fit_character(mouth[1], width, height)
     fit_height, fit_width = fit_image.shape[0:2]
-    y_offset = y + (height - fit_height) * 1.5
+    y_offset = y + fit_height / 6
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
@@ -143,7 +143,7 @@ def create_video(script):
         script.characters[character].voice = pv.pick_voice(script, character)
         i += 1
 
-    for scene in script.scenes[:10]:
+    for scene in script.scenes[:4]:
         characters_on_stage = list(scene.characters)
         characters_on_stage = sorted(characters_on_stage, key=lambda character: character.name)
         characters_in_background = list()
