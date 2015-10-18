@@ -131,6 +131,7 @@ def create_video(script):
 
     for scene in script.scenes[:10]:
         characters_on_stage = list(scene.characters)
+        characters_on_stage = sorted(characters_on_stage, key=lambda character: character.name)
         characters_in_background = list()
 
         setting_image = as_background_image(scene.setting.image)
