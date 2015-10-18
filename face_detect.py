@@ -20,6 +20,9 @@ face_classifier = cv2.CascadeClassifier(FACESET)
 mouth_classifier = cv2.CascadeClassifier(MOUTHSET)
 eye_classifier = cv2.CascadeClassifier(EYESET)
 
+def has_face(img):
+    return len(face_classifier.detectMultiScale(img)) > 0
+
 # returns information about image
 def detect_face(img):
     faces = face_classifier.detectMultiScale(img)

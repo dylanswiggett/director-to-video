@@ -48,6 +48,8 @@ def find_image(query):
             try:
                 arr = np.asarray(bytearray(image_r.content), dtype=np.uint8)
                 img = cv2.imdecode(arr,-1) # 'load it as it is'
+                if fd.has_face(img):
+                    continue
                 # save a copy of the image
                 Image.open(StringIO(image_r.content)).save(file)
                 return img
