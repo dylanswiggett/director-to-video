@@ -5,6 +5,10 @@ import numpy
 import cv2
 import copy
 
+import star_trek_parse
+
+import google_images as gi
+
 ASPECT_RATIO = 16.0 / 9.0
 VERTICAL_RESOLUTION = 720
 HORIZONTAL_RESOLUTION = int(VERTICAL_RESOLUTION * ASPECT_RATIO)
@@ -44,6 +48,22 @@ def as_background_image(img):
 		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION))
 	return background_image[0:VERTICAL_RESOLUTION, 0:HORIZONTAL_RESOLUTION]
 
+def create_video(script):
+	setting_images = dict()
+	for setting in script.settings:
+		setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
+	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
+	for scene in script.scenes:
+		setting_image = setting_images[scene.setting]
+		for j in range(24):
+			pipe.stdin.write(setting_image.tostring())
+	pipe.stdin.close()
+
+if __name__=="__main__":
+	script = star_trek_parse.parse('the-defector.txt')
+	create_video(script)
+
+"""
 cat_closed_image = as_background_image(load_image('characters/cat.jpg'))
 #cat_closed_image = cv2.imread('characters/cat.jpg')
 cat_open_image = copy.copy(cat_closed_image)
@@ -64,3 +84,4 @@ for i in range(5):
 		pipe.stdin.write(cat_open_image.tostring())
 
 pipe.stdin.close()
+"""
