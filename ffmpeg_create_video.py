@@ -26,22 +26,38 @@ ffmpeg_create_video_command = ['ffmpeg',
 	'%s.mp4' % VIDEO_FILENAME
 	]
 
+def load_image(filename):
+	return cv2.cvtColor(cv2.imread(filename), cv2.COLOR_BGR2RGB)
+
 def draw_image(src, dst, x, y, width, height):
 	dst[y:(y+height), x:(x+width)] = cv2.resize(src, (width, height))
 
-cat_closed_image = cv2.imread('characters/cat.jpg')
+def as_background_image(img):
+	height, width = img.shape[0:2]
+	ratio = float(width) / float(height)
+	background_image = None
+	if ratio > ASPECT_RATIO:
+		background_image = cv2.resize(img, (int(VERTICAL_RESOLUTION * ratio), VERTICAL_RESOLUTION))
+	elif ratio < ASPECT_RATIO:
+		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, int(VERTICAL_RESOLUTION / ratio)))
+	else:
+		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION))
+	return background_image[0:VERTICAL_RESOLUTION, 0:HORIZONTAL_RESOLUTION]
+
+cat_closed_image = as_background_image(load_image('characters/cat.jpg'))
+#cat_closed_image = cv2.imread('characters/cat.jpg')
 cat_open_image = copy.copy(cat_closed_image)
 
-mouth_closed_image = cv2.imread('mouths/Rest.jpg')
+mouth_closed_image = load_image('mouths/Rest.jpg')
 draw_image(mouth_closed_image, cat_closed_image, 350, 250, 100, 100);
-mouth_open_image = cv2.imread('mouths/O.jpg')
+mouth_open_image = load_image('mouths/O.jpg')
 draw_image(mouth_open_image, cat_open_image, 350, 250, 100, 100);
 
 #cv2.rectangle(cat_open_image, (400, 200), (500, 300), (0, 0, 0), thickness=-1)
 
 pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 
-for i in range(10):
+for i in range(5):
 	for j in range(12):
 		pipe.stdin.write(cat_closed_image.tostring())
 	for j in range(12):
