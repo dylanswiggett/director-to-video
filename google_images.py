@@ -105,5 +105,5 @@ def find_character(query):
     start += 4
 
 # Example use
-find_character('data')
-find_image('the bridge')
+# find_character('data')
+# find_image('the bridge')
