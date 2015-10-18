@@ -38,11 +38,11 @@ class OutputAudio:
     def curlen(self):
         command = 'soxi %s' % self.path
         for line in commands.getstatusoutput(command)[1:]:
-            print line
             if "Duration" in line:
                 res = re.search(r'(\d+):(\d+):(\d+).(\d+)', line)
                 h,m,s,ms = res.group(1), res.group(2), res.group(3), res.group(4)
                 return int(h) * 3600.0 + int(m) * 60.0 + int(s) + int(ms) * .001
+        return 0
                 
 
 if __name__=="__main__":

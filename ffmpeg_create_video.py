@@ -106,10 +106,12 @@ def create_video(script):
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
         i = 0
+        totalframes = 0
         for character in scene.characters:
             character.voice = i % 4 
             i += 1
         for line in scene.directions:
+            startframes = totalframes
             if not isinstance(line, Dialog):
                     continue
             text, character = line.text, line.character
@@ -117,8 +119,16 @@ def create_video(script):
             for mouth in mouths:
                 frame = draw_scene(setting_image, scene.characters, character, mouth)
                 pipe.stdin.write(frame.tostring())
-            audioManager.addAudio('tmp/tmp.wav', 0)
+                totalframes += 1
+            for i in range(0,5):
+                    frame = draw_scene(setting_image, scene.characters, character, mouths[-1])
+                    pipe.stdin.write(frame.tostring())
+                    totalframes += 1
+            off = float(startframes) / 24.0 - audioManager.curlen()
+            if off < 0: off = 0
+            audioManager.addAudio('tmp/tmp.wav', off)
 	pipe.stdin.close()
+        pipe.wait()
         audioManager.combineWith('tmp/out.mp4', 'movie.mkv')
 
 if __name__=="__main__":
