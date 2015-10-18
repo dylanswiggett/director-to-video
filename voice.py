@@ -12,10 +12,10 @@ import ffmpeg_add_audio as a
 #
 
 voices = [
-  ("en1", "50", "2"),
-  ("us1", "50", "1"),
-  ("us2", "50", "2"),
-  ("us3", "50", "2")
+  ("en1", "50", "3"),
+  ("us1", "50", "2"),
+  ("us2", "50", "3"),
+  ("us3", "50", "3")
 ]
 
 mouth_images = dict()
@@ -70,14 +70,16 @@ def generate_line(voice_num, line):
   return mouth_img_list
 
 if __name__ == "__main__":
-  text = "Data says I am incapable of any feeling. I do not think that that is a correct statement, but the matter will require further analysis. Now I am simply talking for a long time, because I do not care if I experience emotion. I am rather more interested in whether or not my lips sync properly with my audio, since I do try to act human if possible."
-  au = a.OutputAudio()
-  au.addAudio("tmp/tmp.wav", 0)
+#  text = "Data says I am incapable of any feeling. I do not think that that is a correct statement, but the matter will require further analysis. Now I am simply talking for a long time, because I do not care if I experience emotion. I am rather more interested in whether or not my lips sync properly with my audio, since I do try to act human if possible."
 
-  mouth_images = generate_line(0, text)
+  text = "Space, the final frontier. These are the voyages of the starship enterprise. Its ongoing mission: to explore strange new worlds. To seek out new life, and new civilizations. To boldly go where no one has gone before. Dooooo dooooo.... doooo, dooo dooo dooo doooooooooooooooooooo... dooooo, dooooo.... dooooo, dooo doooo doooo dooooooooooo..... dooooo doooooooo, dooooo dooooooo, dooo dooo dooo dooo doooooooo..... dooooooo..... dooo doooo, doooooooooo....... dooo, dooo, dooo, dooooooooooooooooooooooooooooooo"
+  au = a.OutputAudio()
+  mouth_images = generate_line(0, text)  
+  au.addAudio("tmp/tmp.wav", 0)
+  
   pipe = subprocess.Popen(v.ffmpeg_create_video_command, stdin = subprocess.PIPE)
   for m in mouth_images:
     pipe.stdin.write(v.as_background_image(m).tostring())
   pipe.stdin.close()
 
-  au.combineWith("out.mp4", "final.mkv")
+  au.combineWith("tmp/out.mp4", "final.mkv")
