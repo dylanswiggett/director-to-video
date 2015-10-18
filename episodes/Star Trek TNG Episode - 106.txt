@@ -1,0 +1,6549 @@
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                     "Unification Part I" 
+                          #40275-208 
+                              
+                           Story by 
+                 Rick Berman & Michael Piller 
+                              
+                          Teleplay by 
+                          Jeri Taylor 
+                              
+                          Directed by 
+                          Les Landau 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1991 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+
+                      SEPTEMBER 13, 1991
+
+
+     STAR TREK: "Unification Part I" - REV. 9/18/91 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                     "Unification Part I" 
+
+                             CAST                               
+                              
+            PICARD                   ADMIRAL BRACKETT
+            RIKER                    PERRIN
+            DATA                     SAREK
+            BEVERLY                  B'IJIK
+            TROI                     K'VADA
+            GEORDI                   DOKACHIN
+            WORF                     PARDEK
+                                     NERAL
+            COMPUTER VOICE           SPOCK
+                                     KLINGON COM VOICE
+                                     ROMULAN #1
+                                     ROMULAN SOUP WOMAN
+            Non-Speaking             
+              SUPERNUMERARIES        Non-Speaking  
+              TRANSPORTER OFFICER      ROMULAN FOOT SOLDIER
+                                       N.D. ROMULAN CIVILIANS
+
+       STAR TREK: "Unification Part I" - 9/13/91 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                     "Unification Part I" 
+                      
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              MAIN BRIDGE
+              CAPTAIN'S READY ROOM     STARBASE
+              TRANSPORTER ROOM
+              CORRIDOR                 SURPLUS YARD
+              OBSERVATION LOUNGE
+              CARGO BAY                KLINGON BIRD OF PREY
+              ENGINEERING
+                                       ROMULUS CAPITOL CITY
+                                         ROMULAN STREET
+            VULCAN
+              SAREK'S CEREMONIAL DEATH CHAMBER	DARK SHIP
+          
+            BIRD OF PREY
+              BRIDGE
+              KLINGON QUARTERS
+          
+            ROMULUS CAPITOL CITY
+              ROMULAN OFFICE
+              CAVES/CAVERN
+          
+            B'JIK'S KLINGON BACKGROUND
+              (ON VIEWSCREEN)
+          
+            DOKACHIN'S DEPOT BACKGROUND
+              (ON VIEWSCREEN)
+
+   STAR TREK: "Unification" Pt. I - 9/17/91 - PRONUNCIATION 
+
+                STAR TREK: THE NEXT GENERATION 
+                     "Unification Part I" 
+                      
+                      PRONUNCIATION GUIDE 
+
+               B'IJIK                  BYE-jihk
+               HANOLIN                 hn-OH-lin
+               KLIM DOKACHIN           klim DOCK-uh-chin
+               KROCTON                 CROCK-tahn
+               K'VADA                  kuh-VAH-duh
+               NERAL                   nuh-RAHL
+               PARDEK                  PAHR-dek
+               QUALOR TWO              KWAY-lohr 2
+               T'PAU                   t'-POW (as in pow-wow)
+                 KLINGON                                                
+               Hechu' ghoS             heh-KOO GOHSS
+               Jatlh                   JAHT-leh
+               MeH HoD                 meh-HODE
+               MeHmaH ghoS             meh-mah GOHSS
+               So'wl'chu               sawl-KOO
+
+   STAR TREK: "Unification" Pt. I - REV. 9/18/91 - TEASER   1.
+
+                STAR TREK: THE NEXT GENERATION                  
+                    "Unification, Part I"                          
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - ENTERPRISE AT STARBASE (OPTICAL)
+
+	The ship is docked at the starbase seen in
+	"Redemption."
+
+					PICARD (V.O.)
+			Captain's log, stardate 45233.1.
+			Our terraforming mission to Doraf
+			One has been suddenly cancelled
+			and the Enterprise recalled to
+			Starbase Two-thirty-four. Fleet
+			Admiral Brackett would not discuss
+			the matter on subspace for
+			reasons she said would soon be
+			clear...
+
+2    INT. ENTERPRISE - READY ROOM
+
+	ADMIRAL BRACKETT, regal and poised as ever, with PICARD.
+
+   STAR TREK: "Unification" Pt. I - REV. 9/18/91 - TEASER   2.
+
+2    CONTINUED:
+
+					ADMIRAL BRACKETT
+			I apologize for the mystery,
+			Captain... but we must attempt
+			to contain the information I'm
+			about to reveal to you... at least
+			as long as possible...
+
+					PICARD
+			I will admit you've piqued my
+			curiosity, Admiral.
+
+					ADMIRAL BRACKETT
+			Three weeks ago, one of our most
+			celebrated ambassadors -- an
+			advisor to Federation leaders for
+			generations -- disappeared. He
+			left no word of his destination.
+
+	Brackett moves toward Picard's desk, and activates his
+	computer.
+
+					ADMIRAL BRACKETT
+			Two days ago, intelligence reports
+			placed him on Romulus -- and I
+			assure you it's an unauthorized
+			visit. Computer, initiate linkage
+			between this terminal and starbase
+			computer system alpha-two-nine.
+
+					COMPUTER VOICE
+			Linkage complete.
+
+					PICARD
+			A defection?
+
+					ADMIRAL BRACKETT
+			If it is, the damage to Federation
+			security would be incalculable.
+
+	Brackett taps a few instructions and then gestures for
+	Picard to look.
+
+3    INSERT - MONITOR (OPTICAL)
+
+	A fuzzy, out-of-focus picture, with margins showing
+	on screen, comes into frame -- something obviously
+	taken on a very long lens. There are several blurred
+	figures, none of them identifiable.
+
+   STAR TREK: "Unification" Pt. I - REV. 9/18/91 - TEASER   3.
+
+4    BACK TO SCENE
+
+					ADMIRAL BRACKETT
+			Taken on Romulus, by long-range
+			scanner. Computer, enhance image
+			in section four-delta.
+
+4A   INSERT - MONITOR (OPTICAL)
+
+	as the blurred images come into sharper relief... the
+	center one particularly... and as it becomes focused,
+	we recognize the unmistakable image of Spock, dressed
+	in Romulan clothing.
+
+4B   BACK TO SCENE
+
+	to show Picard's shocked face. On his surprise and the
+	Admiral's grim intent...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT ONE     4.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+		(NOTE: Episode credits fall over opening scenes.)
+
+5    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	coming out of warp.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45236.4.
+			As I study the intelligence
+			reports on Ambassador Spock's
+			disappearance, I cannot help but
+			feel a deeper, more personal
+			concern about this mission, for
+			I know this man through his
+			father. It was barely a year ago
+			that I shared a mind meld with
+			the Vulcan Sarek... now we must
+			meet again as I attempt to find
+			an explanation for his son's
+			actions.
+
+	(Part of the log can fall over the following --)
+
+5A   INT. ENTERPRISE - OBSERVATION LOUNGE
+
+	Moving along several PADDs spread out across the
+	table... as well as other reports... clearly Picard
+	has been doing a great deal of homework... but as we
+	find him he is musing, staring out the window at the
+	stars... Riker ENTERS...
+
+					RIKER
+			We'll be coming into orbit of
+			Vulcan in less than an hour,
+			Captain... you may want to get
+			some rest...
+
+					PICARD
+			Yes, yes, of course, you're
+			right...
+
+	But he doesn't get up, his eye is caught by another
+	PADD on his desk... he's tired, but his mind is busy...
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT ONE     5.
+
+5A   CONTINUED:
+
+					PICARD
+			We should notify Sarek's wife of
+			our plans...
+
+					RIKER
+			All taken care of, sir... she'll
+			be transporting aboard at oh-seven
+			hundred...
+
+					PICARD
+			And Sarek?
+
+					RIKER
+			She says he is too ill to join
+			her.
+
+					PICARD
+				(nods)
+			Not unexpected. The man is dying.
+			And I have the... honor... to
+			bring him the news that his son
+			may have betrayed the Federation.
+
+	Riker sits.
+
+					RIKER
+			How well do you know Spock?
+
+					PICARD
+			I met him only once... what I know
+			of him comes from history books
+			and of course the mind meld with
+			his father...
+
+					RIKER
+			That must cover a lot of ground...
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT ONE     6.
+
+5A   CONTINUED: (2)
+
+					PICARD
+			Not as much as you'd imagine...
+			Sarek and Spock...
+
+	He pauses, inclined not to go any deeper into this...
+
+					PICARD
+			... Well, sometimes, fathers and
+			sons...
+
+	He doesn't need to finish...
+
+					RIKER
+				(from personal
+				 experience)
+			Understood.
+
+	Picard nods, rises and Riker follows suit... Picard
+	gets an additional thought... he picks up a PADD...
+
+					PICARD
+			Oh there was one other thing...
+			take a look at this...
+
+	Hands it to Riker, who glances at it, raises an
+	eyebrow...
+
+					PICARD
+			Something that turned up during
+			the intelligence sweep... what
+			do you make of it?
+
+					RIKER
+				(re: the PADD)
+			Metal fragments, possibly
+			disassembled components,
+			identified as Vulcan... recovered
+			from a downed Ferengi ship...
+
+					PICARD
+			And the crates they were in were
+			marked as medical supplies.
+
+					RIKER
+			Contraband?
+
+	Picard shakes his head, doesn't know... as they EXIT...
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     6A.
+
+5A   CONTINUED: (4)
+
+					PICARD
+			They've been sent to Vulcan for
+			identification... Starfleet has
+			requested we lend them a hand...
+
+	Riker acknowledges and they're out...
+
+5B   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit of Vulcan.
+
+6    INT. TRANSPORTER ROOM (OPTICAL)
+
+	Picard waits with a TRANSPORTER OFFICER as PERRIN
+	MATERIALIZES on the pad. She walks forward, extending
+	her arms, obviously glad to see Picard again. She is
+	as lovely and gracious as ever, her eyes holding the
+	only clue to the pain she carries from Sarek's illness.
+
+					PERRIN
+			Captain Picard...
+
+					PICARD
+			Perrin...
+
+	They shake hands and start toward the door.
+
+					PERRIN
+			It's good to see you again.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     7.
+
+6    CONTINUED:
+
+					PICARD
+			And you. How is Sarek?
+
+	They EXIT the transporter room.
+
+7    INT. CORRIDOR
+
+	as they walk toward a turbolift.
+
+					PERRIN
+			He has good days... and bad days.
+			More and more they're bad...
+
+					PICARD
+			Then the disease has progressed...
+
+					PERRIN
+			It is a cruel killer. Sarek
+			deserves a noble death... instead
+			he is trapped in this lingering
+			madness...
+
+					PICARD
+			It must be very hard for you.
+
+	She casts him a swift glance. Not many people ever
+	think of her feelings, her needs. She is grateful for
+	Picard's sensitivity.
+
+					PERRIN
+			Every day I can share with him
+			is a gift. The pain will be in
+			losing him.
+
+					PICARD
+			I hope that will not be soon.
+
+					PERRIN
+			There's no way to tell. At times
+			I think he won't make it through
+			another night... and then it seems
+			he's strong enough to live for
+			years...
+
+	They walk quietly for a beat, then --
+
+					PICARD
+			I admire your strength more than
+			I can tell you.
+
+	Again, she gives him a sidelong glance, but he's
+	looking straight ahead. They walk on in silence.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     8.
+
+8    INT. READY ROOM
+
+	Picard is at the replicator, just removing two cups
+	of tea. He gives her a cup of steaming tea and she
+	takes it, inhaling the vapor.
+
+					PERRIN
+			Mint tea... it's been years since
+			I've had it... Vulcans have some
+			strange concoction they call
+			"mint"... but you wouldn't
+			recognize it...
+
+	She sips at it, turning away to look out the windows.
+	Picard regards her for a moment, realizing she is
+	reluctant to get into discussion of the real purpose
+	of his visit. But he has no such luxury.
+
+					PICARD
+			Perrin... you know why I've come
+			to Vulcan.
+
+	She seems to stiffen a moment, doesn't turn around,
+	doesn't answer.
+
+					PICARD
+			I must ask you about Spock.
+
+	Now she turns, and there's a bitterness in her eyes
+	that can't be concealed.
+
+					PERRIN
+			He didn't even say good-bye to
+			his father before he left.
+
+					PICARD
+			Is it possible he was abducted?
+
+					PERRIN
+			No. He wrapped up his affairs
+			very carefully. He knew he was
+			going.
+
+					PICARD
+			Do you have any idea why he might
+			have disappeared like this?
+
+	Perrin drills him a look, works to get under control.
+	This whole subject is clearly a sore spot with her.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     9.
+
+8    CONTINUED:
+
+					PERRIN
+			Captain, as far as I'm concerned
+			he disappeared a long time ago.
+
+	She rises, trying to contain her emotions...
+
+					PERRIN
+			Excuse me for sounding like the
+			wicked stepmother...
+
+					PICARD
+			Would it be inappropriate to ask
+			what happened between you and
+			Spock?
+
+					PERRIN
+			Not between us. Between Spock
+			and his father. They had argued
+			for years; that was family...
+			but when the debates over the
+			Cardassian war began, he attacked
+			Sarek's position... publicly...
+			he showed no loyalty to his
+			father...
+
+					PICARD
+			I was not aware that Sarek was
+			offended by Spock's opposition...
+
+					PERRIN
+			I was offended. And I made sure
+			Spock knew it.
+				(beat, softer)
+			I am very protective of my
+			husband. I do not apologize for
+			it.
+
+	A beat.
+
+					PICARD
+			Would Sarek have any idea why
+			Spock might have left?
+
+	Perrin turns and walks away from him, pauses at a
+	distance, hesitates before answering. If it were
+	anyone else, she would never become so personal, so
+	revealing...
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     9A.
+
+8    CONTINUED: (2)
+
+					PERRIN
+			I don't know.
+				(beat)
+			If you could see Sarek as I do...
+			wasting in bed... whispering to
+			himself...
+
+	She turns back to Picard, in anguish.
+
+					PERRIN
+			He wants to see his son... to heal
+			any rifts that still remain...
+			but now it may be too late.
+
+	Her voice breaks and she turns away, not wanting to
+	lose control in front of Picard. He is sobered by her
+	distress.
+
+					PICARD
+				(gently)
+			Perrin... would you allow me to
+			see Sarek?
+
+	She turns back, suffering in her eyes. Hesitates.
+
+					PERRIN
+			If it were anyone else... I would
+			never permit it.
+
+	A beat as she looks into his eyes. Deciding --
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT ONE     10.
+
+8    CONTINUED: (3)
+
+					PERRIN
+			But you are a part of him... and
+			he of you...
+
+	And on Picard's reaction...
+
+8A   INT. CARGO BAY
+
+	Riker and GEORDI stand looking over an unusual scene.
+	Spread out on the floor of the bay are fragments of
+	metal -- big, small, irregular, symmetrical, most of
+	them charred and twisted beyond recognition.
+	SUPERNUMERARIES, with tricorders, scanners, etc. are
+	moving the fragments around, trying to arrange them
+	into a cohesive pattern. In evidence are the broken
+	remains of the containers which once housed the
+	fragments.
+
+					RIKER
+			The Vulcans can't figure out what
+			these fragments are... but
+			they've identified the metal as
+			a dentarium alloy.
+
+					GEORDI
+			That pretty well indicates
+			that they're Vulcan...
+				(beat)
+			And dentarium also means that
+			whatever this was, it was designed
+			for use in space.
+
+	A beat as he inspects various pieces...
+
+					GEORDI
+			From the look of the damage,
+			must've been a high-speed impact.
+
+					RIKER
+				(acknowledges)
+			A Ferengi cargo shuttle that went
+			down in the Hanolin asteroid
+			belt... the debris was spread over
+			one hundred square kilometers.
+
+	Riker and Geordi pick their way through the strange
+	assortment of metal chunks. Riker picks up part of
+	a damaged container. Geordi picks up a metal fragment,
+	plays his tricorder on it.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE    10A.
+
+8A   CONTINUED:
+
+					GEORDI
+			Could it be a weapons array?
+
+					RIKER
+			That was my first thought. But
+			the Vulcans don't have any record
+			of stolen weapons. Or stolen
+			parts, for that matter.
+
+	Geordi surveys the mess, shaking his head.
+
+					GEORDI
+			This is gonna be like putting
+			together a big jig-saw puzzle when
+			you don't know what the picture
+			is supposed to be.
+
+	Riker acknowledges and as both men begin to seek a way
+	to organize the wreckage...
+
+9    OMITTED
+
+10   INT. SAREK'S CEREMONIAL DEATH CHAMBER
+
+	Sarek rests on a raised bed in an otherwise Spartan
+	room. His head, resting on a pillow, is turned toward
+	sunlight. Tears have coursed a pattern on his face
+	and dried in rivulets. His mouth moves faintly, but
+	no sound emerges. Perrin and Picard stand at the
+	doorway, Picard noticeably shocked by this
+	deterioration in Sarek's condition.
+
+					PERRIN
+			He's like this most of the time...
+			his emotions have taken over.
+
+	She moves toward the bed, followed by Picard. Sarek's
+	lips keep moving.
+
+					PERRIN
+			Sometimes I can bring him out of
+			it.
+
+	She reaches the bed, leans in to her husband. When
+	she speaks it is sharply, harshly, demandingly.
+
+					PERRIN
+			Sarek! You will listen!
+
+	Sarek snarls in rage, anger suddenly replacing pathos.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     11.
+
+10   CONTINUED:
+
+					SAREK
+			Go from me!
+
+					PERRIN
+			Picard is here.
+
+	In reply, Sarek pounds his fists on the bed.
+
+					SAREK
+			No -- more -- chaos!
+
+	Perrin turns to Picard.
+
+					PERRIN
+			I'll leave you alone. He'll
+			either acknowledge you... or he
+			won't.
+
+	He nods and she EXITS. Picard is alone with the
+	furious man. He takes his cue from Perrin, and speaks
+	firmly, authoritatively.
+
+					PICARD
+			Sarek, I have come a long way to
+			see you.
+
+					SAREK
+			I will not answer -- !
+
+					PICARD
+			I must speak to you about your
+			son...
+
+					SAREK
+			I want no one with me --
+
+					PICARD
+			About Spock.
+
+	Sarek suddenly goes silent. He doesn't look at Picard,
+	and there is no indication that he truly understands.
+	But then his head slowly turns, his eyes focus on
+	Picard. When he speaks, his voice is quiet.
+
+					SAREK
+			Spock?
+
+					PICARD
+			Yes. He's missing.
+
+	A flicker in Sarek's eyes as he moves into the reality
+	of the present, recognition dawning.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     12.
+
+10   CONTINUED: (2)
+
+					SAREK
+			Is that you, Picard... ?
+
+					PICARD
+			Yes, my friend.
+
+					SAREK
+			You came here... to Vulcan...
+
+					PICARD
+			I need your help. I must find
+			Spock.
+
+	Tears spring to Sarek's eyes as his emotions overcome
+	him once more. He lets out a sob, then struggles for
+	the precious control that is so elusive.
+
+					SAREK
+			He is not here...
+
+					PICARD
+			I know. He is reported on
+			Romulus.
+
+	Sarek fixes him with a hard look. He is trying to
+	regain control, concentrate on the moment, even though
+	it costs him considerable effort.
+
+					SAREK
+			On Romulus... why?
+
+					PICARD
+			That's what I hope to find out
+			from you.
+
+					SAREK
+			On Romulus...
+
+	He is silent for a moment, musing. When he looks at
+	Picard again, his eyes are clear.
+
+					SAREK
+			You're going there, aren't you?
+			To find him.
+
+					PICARD
+			Yes.
+
+	Sarek rises now, sits upright. It is as though purpose
+	has given him focus.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     13.
+
+10   CONTINUED: (3)
+
+					PICARD
+			Have you any idea what might have
+			taken him to Romulus?
+
+					SAREK
+			No.
+
+					PICARD
+			Is there anyone on Romulus that
+			he might know... or choose to
+			contact?
+
+	A vague memory stirs for Sarek.
+
+					SAREK
+			Pardek...
+
+					PICARD
+			Who is Pardek?
+
+					SAREK
+			It could be Pardek...
+
+					PICARD
+			Who is Pardek?
+
+	Sarek gets out of bed. He is becoming energized.
+
+					SAREK
+			He is a Romulan Senator. Spock
+			has maintained a relationship with
+			him over the years... I don't know
+			where they met. The Khitomer
+			Conference, I'd imagine.
+
+					PICARD
+			Pardek represented Romulus?
+
+					SAREK
+			Yes... yes I'm quite sure he
+			did...
+
+	He begins to pace. He is suffused with energy, leonine
+	and magnificent...
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE    13A.
+
+10   CONTINUED: (4)
+
+					SAREK
+			... in fact I recall Spock coming
+			to me with optimism about a
+			continuing dialogue with the
+			Romulans at one point... and I
+			told him it was clearly an
+			illogical expectation... Spock
+			is always so impressionable...
+			this Romulan Pardek had no support
+			at home... and of course in the
+			end, I was proven correct.
+
+	He looks at Picard, shrugs as though to say, "How do
+	you tell a child what to do?"
+
+					SAREK
+			I tried to give him the benefit
+			of experience, of logic... but
+			he never listened. He never
+			listened...
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     14.
+
+10   CONTINUED: (5)
+
+	Now Sarek has lost the train of thought, and,
+	disoriented, turns away. Picard tries to get his
+	attention.
+
+					PICARD
+			It has been suggested... that
+			Spock may have defected.
+
+	Sarek turns back, puzzled. He has lost the context.
+
+					SAREK
+			Never. I can accept many things,
+			but not that.
+
+					PICARD
+			But you believe he might be there
+			to see Pardek...
+
+					SAREK
+				(puzzled)
+			The Romulan Senator? How do you
+			know Pardek?
+
+					PICARD
+				(not worth going into)
+			I've heard of him.
+
+					SAREK
+			That's what he's done. Gone to
+			see Pardek.
+
+	Sarek returns to the bed... exhausted now...
+
+					PICARD
+			Do you know what business they
+			could have together?
+
+					SAREK
+			No.
+				(beat)
+			I never knew what Spock was doing.
+			When he was a boy, he would
+			disappear for days into the
+			mountains.
+					(MORE)
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     15.
+
+10   CONTINUED: (6)
+
+					SAREK (cont'd)
+			I asked him where he had gone,
+			what he had done... he refused
+			to answer. I insisted he tell
+			me... but he would not. I forbade
+			him to go... he ignored me. I
+			punished him... he endured it
+			silently. And always, he returned
+			to the mountains.
+				(beat)
+			One might as well tell the river
+			not to flow...
+
+	Sarek seeks Picard's eyes... he is beginning to lose
+	his control... tears overwhelm him...
+
+					SAREK
+			Secretly... I admired him... that
+			proud core of him that would not
+			yield...
+
+	A beat.
+
+					PICARD
+				(softly)
+			Sarek, we are a part of each
+			other. I know Spock has caused
+			you pain... but I also know you
+			love him...
+
+	Tears are threatening to overwhelm Sarek.
+
+					SAREK
+			Tell him, Picard...
+
+	His eyes begin to glaze over slightly, and he struggles
+	to maintain control for a moment longer. He looks
+	toward one of his hands, and tries to form his fingers
+	in the Vulcan salute... the fingers won't obey. They
+	tremble and shift position and just won't go where they
+	should. Gently, Picard reaches over and puts them
+	right. Sarek smiles and holds the hand toward him.
+	Picard then forms the salute himself.
+
+					PICARD
+			Peace and long life, Sarek.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT ONE     16.
+
+10   CONTINUED: (7)
+
+					SAREK
+			Live long and... and...
+				(beat)
+			... live long and...
+
+	He drifts off vaguely, his hands losing the salute and
+	his mind losing reality. He turns away, his mind
+	elsewhere.
+
+					SAREK
+			Spock... my son...
+
+	Picard watches sadly as Sarek cries.
+
+					PICARD
+				(whispering)
+			... and prosper.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     17.
+
+                            ACT TWO                             
+	FADE IN:
+
+10A  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	at warp.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45240.1.
+			To cross the Neutral Zone, I will
+			require a cloaked ship. To that
+			end, I have set a course for the
+			Klingon Home World. After all we
+			did for Gowron during the recent
+			war, I am certain he will be happy
+			to return a favor.
+
+11
+thru	OMITTED
+12B
+
+13   INT. ENTERPRISE - BRIDGE
+
+	Close on Picard at tactical. On the heels of his
+	confident log, Picard is uncharacteristically, well,
+	flabbergasted...
+
+					PICARD
+			Still no response from the
+			Klingons, Mister Worf?
+
+					WORF
+			Nossir.
+
+	Picard looks incredulously at Riker at command.
+
+					PICARD
+			He's ignoring me... what other
+			explanation is there?
+
+					RIKER
+			Seems like, after three days of
+			hailing him, he could've found
+			a minute to talk to you...
+
+					WORF
+			Sir...
+
+					PICARD
+				(rather snappish)
+			Yes, Lieutenant?
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     18.
+
+13   CONTINUED:
+
+					WORF
+			I believe I know why our messages
+			are not being answered. Gowron...
+			has been rewriting Klingon
+			history.
+
+					RIKER
+			Rewriting history?
+
+					WORF
+			He is claiming that it was his
+			courage... his genius... which
+			brought about an end to the civil
+			war.
+
+					PICARD
+			I see.
+
+					WORF
+			In the new version... there is
+			no mention made of the
+			Federation's help in his rise to
+			power.
+
+					RIKER
+			If Worf's right, our arrival
+			would be an uncomfortable
+			reminder of the facts...
+
+					PICARD
+			Victors re-write the history
+			books. He can take every bit of
+			credit, I'll gladly grant him
+			that. But I need a ship.
+				(frowns, a beat)
+			If Gowron won't talk to me... get
+			somebody who will, somebody on
+			the High Council, K'Tal perhaps...
+
+					WORF
+			Yes, Captain.
+
+	Picard exchanges another frustrated glance with
+	Riker...
+
+13A  ANGLE - DATA (OPTICAL)
+
+	at an aft science station...
+
+   
+  STAR TREK: "Unification" Pt. I - REV. 9/17/91 - ACT TWO  19.
+
+13A  CONTINUED:
+
+					DATA
+			Captain, I have a visual
+			identification of Senator Pardek
+			of Romulus...
+
+	Picard moves back to join Data at the monitor.
+	Picard sits near him. On the monitor is newsreel-type
+	photo-op coverage, handshaking and so forth...
+
+					DATA
+			This is a Barolian record of a
+			trade negotiation in which Pardek
+			participated four years ago...
+
+	It ends...
+
+					PICARD
+			That's all?
+
+					DATA
+			Yessir.
+
+					PICARD
+			Run it again.
+
+	Data presses some panels, Picard studies it silently
+	for a beat... hits a panel and freezes it on the best
+	face shot...
+
+					PICARD
+			Call up the intelligence
+			scan of Spock on Romulus...
+
+	Data presses some panels...
+
+13B  ANGLE (OPTICAL)
+
+	The shot of Spock appears... another man who is with
+	him... not at a good angle... is now recognizable as
+	Pardek...
+
+					PICARD (o.c.)
+			Same man... Pardek...
+
+13C  RESUME
+
+					PICARD
+			One question answered.
+				(beat)
+			What do we know of him?
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     20.
+
+13C  CONTINUED:
+
+					DATA
+			He has been in public service
+			since he was a young man... a
+			senator for nine decades. He is
+			considered a "man of the
+			people... " He has sponsored many
+			reforms. Reportedly, he is
+			considered by the Romulan
+			leadership to be something of a
+			radical because he has been an
+			advocate for peace throughout his
+			career.
+
+					PICARD
+				(nods)
+			I can see why Spock would
+			cultivate a relationship with him.
+
+					DATA
+			Yessir.
+
+					PICARD
+			Where are we likely to find him
+			-- other than on the floor of the
+			Romulan Senate?
+
+					DATA
+			The district he represents is
+			called the Krocton Segment. He
+			maintains a dwelling there.
+
+	Picard nods, absorbing all this, musing on it.
+
+					PICARD
+			Very good, Mister Data.
+
+	Picard begins to rise...
+
+					DATA
+			There is more, sir... I took the
+			liberty of expanding the
+			perameters of my search... and
+			have discovered that Pardek has
+			several relatives in the Krocton
+			Segment. It is likely that you
+			will be able to locate him there
+			on the third day of the Romulan
+			week when the Senate is not in
+			session.
+
+    STAR TREK: "Unification" Pt. I - 9/17/91 - ACT TWO    20A.
+
+13C  CONTINUED: (2)
+
+	Picard studies his officer with admiration...
+
+					PICARD
+			Your resourcefulness never ceases
+			to amaze me.
+
+					DATA
+			Thank you, sir.
+
+					PICARD
+			If I ever get to Romulus, Data,
+			I am going to need help. I'd like
+			you to accompany me.
+
+					DATA
+			To the surface, sir?
+
+					PICARD
+			Yes...
+
+	Data is flattered, but puzzled...
+
+					DATA
+			I understand how you can be made
+			to look Romulan, but I believe
+			it will be more difficult to
+			transform an android, Captain.
+
+					PICARD
+			I think Doctor Crusher can come
+			up with something...
+
+					WORF
+			Captain... we are being hailed
+			by the Klingon Home World.
+
+	Picard moves toward him.
+
+					PICARD
+			Gowron or K'Tal?
+
+					WORF
+			Neither, sir... it is the junior
+			adjutant to the diplomatic
+			delegation.
+
+	Picard frowns...
+
+					RIKER
+			Junior adjutant.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     21.
+
+13C  CONTINUED: (3)
+
+					PICARD
+			Name.
+
+					WORF
+			B'ijik, sir.
+
+					PICARD
+			On screen.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     22.
+
+14   ANGLE - VIEWSCREEN (OPTICAL)
+
+	Appearing on the viewscreen is a Klingon, B'IJIK --
+	the kind of small-minded person who basks in the
+	reflected power of his superior, who has the authority
+	to say "no," but never "yes."
+
+					B'IJIK
+			Greetings, Captain. I regret to
+			inform you that Gowron and the
+			High Council are quite busy and
+			won't be able to speak with you
+			today.
+
+					PICARD
+			Is he aware that we've been
+			transmitting messages for three
+			days?
+
+					B'IJIK
+				(feigned surprise)
+			Messages? I'll have to inspect
+			the logs... but I'm sure we
+			haven't received any...
+
+					PICARD
+			It is of the utmost importance
+			that I speak with Gowron...
+
+					B'IJIK
+			Captain, Gowron wishes it were
+			possible to talk with everyone
+			who wants an audience. But he
+			is one man... the demands on his
+			time are formidable. If you would
+			like me to take him a message...
+
+					PICARD
+			A message. Very well.
+
+	He moves toward the viewscreen.
+
+					PICARD
+			Tell Gowron, Leader of the High
+			Council of the Klingon Empire,
+			that his Arbiter of Succession,
+			Jean-Luc Picard, needs a favor.
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT TWO     23.
+
+14   CONTINUED:
+
+					B'IJIK
+			A favor?
+
+					PICARD
+			I require a cloaked vessel.
+
+					B'IJIK
+				(faint smile)
+			A cloaked vessel. This is no
+			small favor, Captain.
+
+					PICARD
+			It is for a mission that could
+			have repercussions throughout the
+			quadrant.
+
+					B'IJIK
+			How would it benefit the Klingon
+			Empire? I'm sure Gowron will
+			ask...
+
+	Picard studies him a long beat. Dry...
+
+					PICARD
+			The only benefit to the Klingon
+			Empire... would be our gratitude.
+
+					B'IJIK
+			That's what you want me to tell
+			Gowron... .?
+
+					PICARD
+			Yes. And please add that if he
+			is unable to provide a ship, I
+			am sure there are others in the
+			Klingon Empire who would be
+			willing to help me. And then they
+			would have our gratitude.
+
+	That hangs in the air for a second.
+
+					B'IJIK
+			I see.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     24.
+
+14   CONTINUED: (2)
+
+					PICARD
+			Also please tell him that I am
+			immensely gratified that he is
+			prospering so well. It is a
+			tribute to his skilled leadership.
+
+	B'ijik inclines his head, and the screen returns to
+	the starfield. Picard turns around to see Riker's
+	amused look. And he sits, still annoyed at B'ijik.
+
+14A  EXT. SPACE - ENTERPRISE (OPTICAL)
+
+	at warp.
+
+     STAR TREK: "Unification" Pt. I - 9/17/91 - ACT TWO     25.
+
+14B  OMITTED
+
+14C  INT. SICKBAY (OPTICAL)
+
+	Picard and Data with Beverly. She is examining Data's
+	ears with a 24th-century tech ear instrument...
+	meanwhile a SUPERNUMERARY is coating one of Picard's
+	ears with a plastic substance.
+
+					BEVERLY
+			They aren't removable, are they,
+			Data?
+
+					DATA
+			Removable, Doctor?
+
+					BEVERLY
+			Your ears.
+
+					DATA
+			No, Doctor... they are fully
+			integrated components.
+
+					BEVERLY
+				(to the supernumerary)
+			We'll need molds of his ears
+			too...
+
+					PICARD
+			What about his skin color?
+
+    STAR TREK: "Unification" Pt. I - 9/17/91 - ACT TWO    25A.
+
+14C  CONTINUED:
+
+					BEVERLY
+			We'll have to do some tests with
+			his skin pigmentation. Changing
+			it to appear Romulan shouldn't
+			be too hard... I just want to be
+			sure we can change it back again
+			afterwards.
+
+	She takes a set of optical calipers from a stand and
+	measures Picard's head... as Riker ENTERS... intrigued
+	by these proceedings...
+
+					BEVERLY
+			The right eye is point-zero-zero-
+			four higher than the left...
+
+					PICARD
+				(playfully)
+			It is not...
+
+					BEVERLY
+			You want a proper fit on your
+			prosthetic? Trust your tailor.
+
+	The supernumerary puts the ear mold on Data...
+
+					RIKER
+				(re: the eyes)
+			I won't tell a soul, sir.
+
+					PICARD
+			Anything from Gowron?
+
+					RIKER
+			Nosir. But after your tailor is
+			done, would you join me in the
+			cargo bay... La Forge has made
+			some progress on those metal
+			fragments...
+
+					BEVERLY
+			These two still have to report
+			to Mister Mott to get their
+			hairpieces designed...
+
+					PICARD
+			Thirty minutes, Number One.
+
+	Riker acknowledges, EXITS.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO    25B.
+
+15   INT. CARGO BAY
+
+	Picard, Geordi, Riker, SUPERNUMERARIES as needed. The
+	metal has been arranged into a pattern; some parts are
+	still missing.
+
+					GEORDI
+			What we seem to have here is a
+			navigational deflector array.
+			Or at least what's left of one.
+
+					RIKER
+			Why would anyone want a Vulcan
+			deflector?
+
+					GEORDI
+			Beats me, Commander. Every
+			question we answer here seems to
+			bring up two more.
+
+					PICARD
+			You're certain it is Vulcan...
+
+					GEORDI
+			Yes, sir. A metallurgical
+			analysis confirmed that... and
+			by running a molecular pattern
+			trace, we even identified the ship
+			as the T'Pau.
+					(MORE)
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     26.
+
+15   CONTINUED:
+
+					GEORDI (cont'd)
+			It was decommissioned years ago
+			and sent to the surplus depot at
+			Qualor Two. As far as anyone
+			knows it's still there.
+
+					WORF'S COM VOICE
+			Worf to Captain Picard...
+
+					PICARD
+				(taps combadge)
+			Yes, Lieutenant?
+
+					WORF'S COM VOICE
+			A Klingon vessel is decloaking
+			off our port bow. Compliments
+			of Gowron.
+
+	Picard and Riker exchange an amused glance.
+
+					PICARD
+			Please convey our gratitude,
+			Mister Worf. Advise the captain
+			that Lieutenant Commander Data
+			and I will be transporting aboard
+			shortly.
+
+					WORF'S COM VOICE
+			Aye, sir.
+
+	As they EXIT the cargo bay...
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     27.
+
+15   CONTINUED: (2)
+
+					RIKER
+			I'd like to take the Enterprise
+			to Qualor Two... see what I can
+			find out there.
+
+					PICARD
+			Agreed.
+
+	The two turn and head out of the cargo bay.
+
+15A  EXT. SPACE - ENTERPRISE AND BIRD OF PREY (OPTICAL)
+
+15B  INT. KLINGON BRIDGE
+
+	Picard, Data, and the Klingon Captain, K'VADA. He is a
+	burly man whose days of warrior glory are probably
+	behind him; he's not thrilled about this assignment
+	to ferry two wimp Starfleet officers across the Neutral
+	Zone. He responds by being confrontational and
+	challenging. During the next, Data wanders the bridge,
+	scoping out the computer equipment.
+
+					K'VADA
+			When I received my orders... I
+			was not told where we were going.
+
+	No response from Picard.
+
+					K'VADA
+			But the heading I was given...
+			takes us into the Neutral Zone...
+			and to Romulus.
+
+					PICARD
+			That's right.
+
+					K'VADA
+			I know my duty, Captain... when
+			I'm given orders, I follow them.
+				(beat)
+			But I do not like secrets. I want
+			to know why we are on this
+			mission.
+
+					PICARD
+			I'm sorry. It is a confidential
+			matter.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO    27A.
+
+15B  CONTINUED:
+
+					K'VADA
+			You're going after the defector,
+			aren't you?
+
+					PICARD
+				(impassive)
+			Defector...
+
+					K'VADA
+			You think information like that
+			stays a secret? Ambassador Spock
+			has gone to Romulus... and you're
+			going after him.
+
+	Picard regards him evenly.
+
+					PICARD
+			Your orders are to take us to a
+			set of coordinates near Romulus...
+			and to bring us back. That is
+			all I am prepared to discuss.
+
+					K'VADA
+			If we are discovered by the
+			Romulans... it means death for
+			all of us.
+
+     STAR TREK: "Unification" Pt. I - 9/13/91 - ACT TWO     28.
+
+15B  CONTINUED: (2)
+
+					PICARD
+			I realize that.
+
+	There is a beat more, with Picard holding the Klingon
+	Captain's look. Then, accepting the fact that he will
+	be getting no more information, K'Vada turns to his
+	helmsman.
+
+					K'VADA
+			Hechu' ghoS...
+				(to Picard)
+			Very well, Captain. We have set
+			a course for Romulus.
+
+16   EXT. SPACE - ENTERPRISE AND BIRD OF PREY (OPTICAL)
+
+	as the two great ships peel apart, each headed on its
+	own precarious journey.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    29.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+17   EXT. SPACE - KLINGON BIRD OF PREY (OPTICAL)
+
+	at warp.
+
+18   INT. BIRD OF PREY - KLINGON QUARTERS
+
+	The door to the quarters opens and K'vada ENTERS,
+	followed by Picard and Data. A beat as he surveys the
+	room. Then, with thinly veiled sarcasm --
+
+					K'VADA
+			It may not be what you're used
+			to on a Starfleet ship.
+
+	Picard and Data look around the quarters to see --
+
+19   THE ROOM - THEIR POV
+
+	A bleak, uncomfortable room, Spartan in its
+	furnishings; the bed is a shelf recessed in the wall;
+	it is dark, dingy, and gives the impression of a place
+	that has been unused for years.
+
+					PICARD
+			Quite nice. Thank you.
+
+	Picard knows that K'Vada is spoiling for a fight...
+	and he sees nothing to gain by giving him one. His
+	refusal to be drawn in becomes increasingly frustrating
+	to K'Vada.
+
+					DATA
+			Is this the captain's quarters,
+			or mine?
+
+					K'VADA
+			Both.
+
+	Off their surprised reactions --
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    30.
+
+19   CONTINUED:
+
+					K'VADA
+			We have limited space. We're a
+			military ship, not a pleasure
+			craft.
+
+					PICARD
+			Of course. This will be fine.
+
+	K'vada, enjoying their discomfiture, strolls the room
+	like a hotel bellboy, pointing out the features. He
+	smacks his hand on the shelf-bed -- no mattress there.
+
+					K'VADA
+			You'll sleep Klingon style... we
+			don't soften our bodies by putting
+			down a pad...
+
+	Picard smacks the shelf himself.
+
+					PICARD
+			Good. I prefer it that way.
+
+					K'VADA
+			You'll take your meals with us...
+			and we don't serve Federation
+			food.
+
+					PICARD
+			I haven't had gagh in a while...
+			been looking forward to it. Very
+			fresh.
+
+	K'Vada gives him a glare, but before he can retort --
+
+					KLINGON COM VOICE
+			MeH HoD... (Bridge to Captain)
+
+					K'VADA
+			Jatlh! (Speak!)
+
+					KLINGON COM VOICE
+			MeHmaH ghoS... (We are
+			approaching the Neutral Zone.)
+
+					K'VADA
+			So'wl'chu'. (Prepare to engage
+			the cloaking device.)
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    31.
+
+19   CONTINUED: (2)
+
+					K'VADA
+				(to Picard)
+			Well, Captain... we're at the
+			border of the Neutral Zone.
+				(beat)
+			You mean to do this, do you?
+
+					PICARD
+			Yes. I do.
+
+	K'vada regards him for a long moment, then grunts and
+	wheels out of the room.
+
+20   EXT. SPACE - BIRD OF PREY (OPTICAL)
+
+	shimmers into its cloaked state. Only the starfield
+	remains. Now --
+
+21   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	zipping along at warp.
+
+					RIKER (V.O.)
+			First Officer's log, stardate
+			45240.6. The Enterprise is
+			nearing Qualor Two -- home of a
+			Federation surplus depot operated
+			by the Zakdorn. We hope to find
+			out how the salvaged deflector
+			array ended up in the hands of
+			the Ferengi.
+
+22   INT. ENTERPRISE - BRIDGE
+
+	Riker, Worf, Troi, SUPERNUMERARIES.
+
+					WORF
+			I have made contact, Commander.
+
+					RIKER
+			On screen.
+
+23   ANGLE - VIEWSCREEN (OPTICAL)
+
+	An alien civilian, DOKACHIN, appears on the screen.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    32.
+
+23   CONTINUED:
+
+	He is of a race called Zakdorn, noted for their
+	self-assuredness and confidence. This translates into
+	someone who is officious, fastidious, and pushy.
+
+					RIKER
+			I'm Commander William Riker of
+			the Federation Starship
+			Enterprise.
+
+					DOKACHIN
+			Klim Dokachin, quartermaster of
+			Surplus Depot Zed-One-Five.
+
+					RIKER
+			We need some information about
+			a Vulcan ship, the T'Pau. It was
+			sent there a few years ago.
+
+					DOKACHIN
+			Did you arrange an appointment?
+
+	Riker looks a bit startled.
+
+					RIKER
+			Appointment... no...
+
+					DOKACHIN
+			Then I will be unable to help you.
+			You may communicate with
+			scheduling.
+
+	And the transmission goes back to starfield. Riker is
+	nonplussed. He turns to Troi.
+
+					RIKER
+			Who does he think he is?
+
+					TROI
+			The quartermaster of the surplus
+			yard, Commander. With information
+			you need.
+
+	He eyes her a moment, gets her point.
+
+					RIKER
+			Right. Mister Worf...
+			reestablish communication.
+
+					WORF
+			Yes, sir.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    33.
+
+23   CONTINUED: (2)
+
+	A second, and then Dokachin appears on the screen once
+	more, surprised at being interrupted again.
+
+					RIKER
+			Mister Dokaychin...
+
+					DOKACHIN
+			Dokahchin... Klim Dokahchin...
+
+					RIKER
+			Mister Dokahchin, the information
+			I need involves a matter of major
+			importance to the Federation.
+
+					DOKACHIN
+				(unimpressed)
+			Uh huh.
+
+					RIKER
+			I'll need access to your logs,
+			your files...
+				(beat - no answer)
+			It won't take long. My people
+			can do the work.
+
+					DOKACHIN
+			I don't allow outsiders into my
+			computer system.
+
+					RIKER
+			Fine. One of your people, then.
+
+					DOKACHIN
+			I wish I had the people to spare.
+			I don't.
+
+	Riker is starting to get steamed.
+
+					RIKER
+			Well, sir... what would you
+			suggest?
+
+					DOKACHIN
+			I don't know. Contact me when
+			you reach orbit.
+
+	And the starfield returns once more. Riker turns to
+	Troi.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE 33A-34.       
+
+23   CONTINUED: (3)
+
+					RIKER
+				(incredulous)
+			I don't believe him.
+
+					TROI
+			He's king of his particular hill,
+			Commander. You'll have to treat
+			him that way.
+
+					RIKER
+			Counselor... a perfect job for
+			you.
+
+	He sits, happy to relinquish this task to Troi.
+
+24   EXT. SPACE - ENTERPRISE AND DEPOT (OPTICAL)
+
+	The Enterprise approaches a vast surplus depot of old,
+	abandoned, and decommissioned vessels... stretching as
+	far as the eye can see... a graveyard of once proud
+	ships from throughout the Federation.
+
+25   INT. ENTERPRISE - BRIDGE
+
+	Riker, Geordi, and Troi are standing at an aft science
+	station as the turbolift opens and Worf and Dokachin
+	ENTER. Dokachin scrutinizes the entire bridge. Riker
+	is trying his hardest to be gracious.
+
+					RIKER
+			Thank you for coming on board,
+			Mister Dokachin.
+
+	Dokachin is still rubber-necking.
+
+					DOKACHIN
+			Quite a ship you have.
+
+					RIKER
+			We've tied into your computers.
+			If you could access the files...
+
+					DOKACHIN
+			I don't usually see them in such
+			good condition. By the time they
+			get to me, they're always falling
+			apart.
+
+	Riker appeals to Troi with his eyes, and she moves
+	toward Dokachin.
+
+    STAR TREK: "Unification" Pt. I - 9/17/91 - ACT THREE    35.
+
+25   CONTINUED:
+
+					TROI
+			Mister Dokachin, we must find this
+			ship -- and you're the only one
+			who can help us.
+
+	He turns, looks at her, and is caught in spite of
+	himself by her gently stroking demeanor.
+
+					DOKACHIN
+			Who're you?
+
+					TROI
+			Deanna Troi, Ship's Counselor.
+
+	He nods, without looking at Riker, talking about him...
+
+					DOKACHIN
+			He probably figures we don't get
+			to see a lot of handsome women
+			out this way -- and someone like
+			you might get a little more
+			cooperation from me.
+
+	Troi and Riker exchange a glance. A beat.
+
+					DOKACHIN
+			He's probably right.
+
+	He moves to a console.
+
+					DOKACHIN
+			What was the name of that ship?
+			The T'Pau?
+				(keying instructions)
+			The T'Pau... Vulcan registry...
+				(gesturing)
+			There. Logged in on stardate
+			41334.
+
+					GEORDI
+			Where is the ship now?
+
+	Dokachin is still resistant; he doesn't give up
+	information easily.
+
+					DOKACHIN
+			Docked.
+				(off Riker's look)
+			Section eighteen-gamma-twelve.
+			Do you want me to take you there?
+
+   STAR TREK: "Unification" Pt. I - 9/17/91 - ACT THREE   35A.
+
+25   CONTINUED: (2)
+
+					RIKER
+			I'd appreciate that.
+
+					DOKACHIN
+				(the Captain)
+			Helmsman, lay in a heading
+			one-four-one by two-zero-eight.
+			Ahead slow, two hundred kph.
+
+	Riker nods to the helmsman, go ahead. Dokachin turns
+	to Troi...
+
+					DOKACHIN
+			I suppose this is your first time
+			in a junkyard, isn't it? You'd
+			be surprised at some of the things
+			I find on board these ships...
+
+	Troi listens in rapt attention...
+
+25A  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as it makes its way through the graveyard of ships.
+
+25B  INT. ENTERPRISE - BRIDGE
+
+	As before. Troi is seated near Dokachin, trying to
+	keep a glazed expression off her face as Dokachin warms
+	to his favorite subject.
+
+					DOKACHIN
+			I once found a fourteen foot
+			Caldorian eel on board a
+			freighter... in someone's
+			locker...
+
+					TROI
+			Are you serious?
+
+					DOKACHIN
+			If you have time, I'll show it
+			to you... I still have it...
+			nursed her back to health...
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    36.
+
+25B  CONTINUED:
+
+					WORF
+			Commander, we are approaching the
+			designated coordinates.
+
+					RIKER
+			On screen.
+
+26   ANGLE - VIEWSCREEN (OPTICAL)
+
+	A starfield -- empty space. The group reacts with
+	puzzlement; Dokachin is caught completely off guard.
+	He takes a step toward the screen, nonplussed.
+
+					DOKACHIN
+			Where is it? What happened to
+			it?
+
+	He glances at Riker who has no answers... he turns
+	back, taps keys.
+
+					DOKACHIN
+			These are the correct
+			coordinates...
+
+					RIKER
+			The T'Pau is missing?
+
+					DOKACHIN
+			The T'Pau...
+				(a beat)
+			... is missing.
+
+					RIKER
+			How could a ship disappear from
+			your depot?
+
+	Dokachin seems to be chastened. This is embarrassing
+	for him.
+
+    STAR TREK: "Unification" Pt. I - 9/13/91 - ACT THREE    37.
+
+26   CONTINUED:
+
+	He turns back to his console, bristling with intent.
+
+					DOKACHIN
+			I'm not accustomed to losing
+			things, Commander. I'll find your
+			ship for you.
+				(as he furiously works
+				 the keys)
+			I have the T'Pau cross-referenced
+			in four different directories...
+
+					GEORDI
+			When it was brought here... was
+			it stripped of materiel --
+			armament, sensors... ?
+
+					DOKACHIN
+				(still working)
+			Of course...
+
+					GEORDI
+			Can you tell us what happened
+			to its navigational deflector?
+
+	Dokachin looks at the monitor.
+
+					DOKACHIN
+			It was routed to the Tripoli, a
+			holding vessel on the outer rim
+			of the shipyard.
+
+					RIKER
+			It's not there anymore. What's
+			left of that deflector is laid
+			out on the floor of our cargo bay.
+
+	Dokachin is stricken. His system, his efficiency,
+	everything he stands for is under assault.
+
+					DOKACHIN
+			How can that be?
+
+					RIKER
+			Maybe we ought to pay a visit to
+			the Tripoli...
+
+	Off Dokachin's reaction...
+
+    STAR TREK: "Unification" Pt. I - 9/17/91 - ACT THREE    38.
+
+26A  EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	changing course in the graveyard of ships.
+
+26B  INT. ENTERPRISE - BRIDGE
+
+	as before. Dokachin is bending Troi's ear again.
+
+					DOKACHIN
+			In all the time the Zakdorn have
+			operated this depot, nothing's
+			ever been lost. Never. I'll
+			tell you this... somebody will
+			pay. I'll conduct an
+			investigation. Whoever is
+			responsible...
+
+					WORF
+			Approaching the coordinates of
+			the Tripoli, sir.
+
+	Riker exchanges a look with Dokachin, who now looks
+	visibly nervous.
+
+					RIKER
+			On screen.
+
+26C  ANGLE - VIEWSCREEN (OPTICAL)
+
+	Again, the starfield. Empty space. Dokachin is
+	devastated.
+
+					DOKACHIN
+			I do not understand this. This
+			is not possible.
+
+	He turns to the others, as though to prove that the
+	missing ship is in fact where it should be.
+
+					DOKACHIN
+			We beam goods to the Tripoli on
+			a regular schedule. There was
+			a shipment yesterday, and another
+			is set for today. It must be
+			there.
+
+					RIKER
+			When is today's transport?
+
+ STAR TREK: "Unification" Pt. I - REV. 9/16/91 - ACT THREE 38A.
+
+26C  CONTINUED:
+
+					DOKACHIN
+			Just over two hours from now.
+			A shipment of deuterium storage
+			tanks.
+
+					RIKER
+			Ensign, align the Enterprise so
+			we'll appear to be one of the
+			abandoned ships. Mister La Forge,
+			when we're in position, shut down
+			engines and all systems except
+			sensors and life support.
+
+					GEORDI
+			Aye, sir.
+
+	Riker starts for his chair.
+
+					RIKER
+			I'm guessing somebody's going to
+			be here to receive those storage
+			tanks -- and I'd be very
+			interested to see who it is.
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FOUR        39.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+27   INT. KLINGON BIRD OF PREY - QUARTERS
+
+	Picard and Data surveying the room.
+
+					DATA
+			These quarters were obviously
+			intended for only one crewmember,
+			sir. There is a single sleeping
+			space.
+
+					PICARD
+			I'm sure the Klingons found it
+			amusing to put us together in
+			here.
+
+					DATA
+			Since I do not require sleep, I
+			propose you take the --
+				(not sure what to call
+				 the hole in the wall)
+			-- shelf. I will be content to
+			stand.
+
+					PICARD
+			Very well, Mister Data. Thank
+			you.
+
+	Picard maneuvers past him toward the shelf in the wall,
+	eyes it. It is truly unappealing. With resignation,
+	he crawls into it -- an ungainly and difficult
+	proceeding. He finally accomplishes the task and finds
+	himself lying on his back staring at the top of the
+	shelf not far from his eyes.
+
+					DATA
+			Are you comfortable, sir?
+
+					PICARD
+			I suppose so.
+
+					DATA
+			Good-night, Captain. Sleep well.
+
+					PICARD
+			Thank you.
+
+	And he closes his eyes and tries to block it all out.
+	Data zones out -- concentrating on something.
+
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FOUR        40.
+
+27   CONTINUED:
+
+	Picard holds his eyes shut for a moment, then opens
+	them, rolls his head toward Data.
+
+					PICARD
+			What are you doing?
+
+					DATA
+			Sir? Was I making noise?
+
+					PICARD
+			Not exactly...
+
+					DATA
+			I was processing the information
+			we have accumulated on Romulan
+			society. I am preparing for the
+			task of impersonating a Romulan.
+
+					PICARD
+			I see.
+
+					DATA
+			Would you like me to discontinue?
+
+					PICARD
+			No, no. Please go ahead.
+
+	And he shuts his eyes again. Holds them shut... then
+	opens them again. He sees Data staring right at him.
+
+					PICARD
+			What are you looking at?
+
+					DATA
+			I am not looking at anything, sir.
+			I am continuing to organize my
+			files.
+
+					PICARD
+			But you're looking at me.
+
+					DATA
+			I am sorry if I am disturbing you,
+			sir. I will not look in your
+			direction.
+
+	And he turns so that the back of his head is toward
+	Picard.
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FOUR       40A.
+
+27   CONTINUED: (2)
+
+	Picard tries to get comfortable, closes his eyes again.
+	He lies like that for a moment, then... crawls out of
+	bed.
+
+					DATA
+			Sir, do you not wish to sleep?
+
+					PICARD
+			I don't think so. Shall we
+			continue to go over the files?
+
+					DATA
+			I would be happy to.
+				(launching in without
+				 further ado)
+			I have been studying the Krocton
+			Segment, as you asked, and have
+			selected an appropriate site for
+			our transport...
+
+	He is interrupted by --
+
+					K'VADA'S COM VOICE
+			Captain K'Vada to Picard... please
+			come to the bridge.
+
+	Picard and Data exchange glances, and then EXIT.
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FOUR        41.
+
+28   INT. KLINGON BRIDGE
+
+	Picard and Data ENTER to find K'Vada holding a PADD.
+
+					K'VADA
+			Captain... we've monitored a
+			subspace message that might
+			interest you.
+
+	He hands the PADD to Picard, who reads it.
+
+					PICARD
+			Thank you, Captain.
+
+	He turns to Data.
+
+					PICARD
+			Sarek is dead.
+
+	And on their reactions...
+
+29   EXT. SPACE - ENTERPRISE IN SURPLUS YARD (OPTICAL)
+
+	The ship is at the outer edges of the graveyard of
+	ships.
+
+30   INT. ENTERPRISE - BRIDGE (OPTICAL)
+
+	Riker, Worf, Troi, Geordi and Dokachin as before.
+
+					WORF
+			Commander... sensors detect a ship
+			approaching at warp speed.
+
+					RIKER
+			Identification?
+
+					WORF
+			Negative. No transponder
+			signal... no subspace marker...
+
+					GEORDI
+			Sounds like they don't want to
+			be identified.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FOUR        42.
+
+30   CONTINUED:
+
+					WORF
+			The ship is coming out of warp
+			now...
+
+					RIKER
+			On screen.
+
+	The screen shows the approaching ship. It is dark,
+	huge, sinister-looking, bristling with armament, and
+	carries absolutely no marking of any kind.
+
+					GEORDI
+			Sensors indicate a combat
+			vessel... origin undetermined...
+			heavily armed... mass and density
+			suggest it's fully loaded with
+			cargo. From the look of these
+			internal scans, I'd guess a good
+			part of that cargo is weaponry.
+
+					WORF
+			The ship is moving into section
+			twelve delta four...
+
+					DOKACHIN
+				(from his own monitor)
+			It's taking the position assigned
+			to the Tripoli. The coordinates
+			are identical.
+
+30A  EXT. SPACE - THE DARK SHIP (OPTICAL)
+
+	slowing and then stopping. It is an ominous and
+	impressive vessel.
+
+30B  INT. ENTERPRISE - BRIDGE
+
+					GEORDI
+			Commander... readings indicate
+			the surface-to-ship transport has
+			begun...
+
+					RIKER
+			Bring the engines back on line,
+			Mister La Forge... And restore
+			all systems to normal.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FOUR        43.
+
+30B  CONTINUED:
+
+					GEORDI
+			Aye, sir.
+
+					WORF
+			He's powering up engines, sir --
+			turning starboard.
+
+30C  OMITTED
+
+31   INT. ENTERPRISE - BRIDGE (OPTICAL)
+
+					RIKER
+			Open a channel.
+
+					WORF
+			Open, sir.
+
+					RIKER
+			This is Commander William Riker
+			of the U.S.S. Enterprise.
+			Identify yourself.
+
+	There is no response.
+
+					RIKER
+			I repeat... you have entered a
+			Federation depot... identify
+			yourself.
+
+					WORF
+			Sir, the ship is locking
+			phasers...
+
+					RIKER
+			Shields up. Red alert.
+
+	Red alert commences, and the tension on the bridge
+	escalates.
+
+					GEORDI
+			That ship easily matches our
+			armament, Commander.
+
+					WORF
+			It's coming about...
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FOUR        44.
+
+31A  EXT. SPACE - THE DARK SHIP (OPTICAL)
+
+	turns toward the Enterprise.
+
+31B  INT. ENTERPRISE - BRIDGE
+
+					RIKER
+			If you do not respond to our
+			hails, we will take that as
+			evidence of hostile action.
+
+					WORF
+			There is an energy build-up in
+			their phaser banks... sir, they
+			are activating weapons!
+
+	And there is a blast from the dark ship and a resultant
+	THUMP to the Enterprise. Lights flicker, people are
+	knocked about.
+
+					WORF
+			Forward shields down to
+			seventy-two percent --
+
+					RIKER
+			Boost power to the shields...
+
+					GEORDI
+			Aye, sir.
+
+					RIKER
+			Mister Worf, target their weapon
+			systems only and prepare to fire--
+
+31C  EXT. SPACE - DARK SHIP AND ENTERPRISE (OPTICAL)
+
+	as the smuggling ship FIRES another heavy-duty barrage
+	into the Enterprise's shields.
+
+31D  INT. ENTERPRISE - BRIDGE
+
+	More shaking, lights going.
+
+					WORF
+			Forward shields at sixty-eight
+			percent, aft shields forty
+			percent...
+
+	This has gotten nasty. Riker has no choice...
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FOUR        45.
+
+31D  CONTINUED:
+
+					RIKER
+			On my mark, a point-seven-five
+			burst only. We just want to get
+			their attention.
+
+					WORF
+			Ready, sir.
+
+					RIKER
+			Fire.
+
+32   EXT. SPACE - ENTERPRISE AND SMUGGLING SHIP (OPTICAL)
+
+	as the Enterprise shoots a phaser array toward the
+	ship. Several shots hit the ship... not a lot of power
+	there, just enough to get their attention.
+
+32A  INT. ENTERPRISE - BRIDGE
+
+					WORF
+			Their forward shields are damaged,
+			sir...
+
+					GEORDI
+			We destroyed one of their phaser
+			arrays... looks like collateral
+			damage in the cargo area...
+				(beat, reacting to
+				 sensor readings)
+			Sir, I'm picking up massive power
+			fluctuations... internal
+			explosions... with all the
+			armament that ship is carrying
+			-- it's gonna blow!
+
+33   THE DARK SHIP (OPTICAL)
+
+	explodes violently in a cataclysmic eruption that
+	pulverizes every piece of matter on the ship.
+
+34   INT. ENTERPRISE - BRIDGE
+
+	On the stunned reactions of the bridge crew --
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+      STAR TREK: "Unification" Pt. I - REV. 9/16/91 - ACT FIVE      46.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+35   OMITTED
+
+35A  INT. KLINGON QUARTERS - CLOSE ON A HAND MIRROR
+
+	as a hand reaches in and picks it up.
+
+					PICARD (o.c.)
+			Well, Mister Data...
+
+	Camera FOLLOWS the mirror as Picard's hand gives it to
+	Data's hand.
+
+					PICARD (o.c.)
+				(continuing)
+			... what do you think?
+
+	Camera WIDENS to reveal Data as he holds the mirror in
+	front of him. He is now fully done up as a Romulan,
+	and the effect is startling.
+
+					DATA
+			I am very pleased, sir. I would
+			not have thought it possible.
+
+35B  ANGLE TO INCLUDE PICARD
+
+	Now we reveal Picard, also in Romulan garb and
+	disguise. He begins to pack up the materials that have
+	used to make the transformation - hyposprays, optical
+	devices, etc.
+
+					DATA
+			I am eager to test the success
+			of our efforts. It does remain
+			to be seen if the Romulans will
+			accept us.
+
+	Picard smiles wryly but does not reply; he seems
+	preoccupied. Data watches for a moment as he packs
+	the gear.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FIVE        47.
+
+35B  CONTINUED:
+
+					DATA
+			Sir, you have seemed unusually
+			pensive since we received the news
+			of Ambassador Sarek's death.
+
+	Picard pauses in his work, reflecting on Data's
+	observation.
+
+					PICARD
+			Sarek and I shared a particular
+			bond. Our lives touched in an
+			unusual way... I admit that I
+			feel the effects of his loss.
+
+	Picard stands...
+
+					PICARD
+				(continuing)
+			The tenor of our mission has
+			changed, at least for me, Data.
+			We were sent to confront Spock
+			about his disappearance. Now,
+			we must also tell him his father
+			is dead.
+
+					DATA
+			I am afraid I do not entirely
+			understand, sir. As a Vulcan,
+			would not Ambassador Spock simply
+			see death as a logical result of
+			his father's illness... ?
+
+					PICARD
+			It is never quite that simple.
+			Not even for a Vulcan. Certainly
+			not for Spock who is also half
+			Human.
+				(beat)
+			They spent a lifetime in
+			conflict... now the chance to
+			resolve all of their differences
+			is gone.
+
+					DATA
+				(processing this)
+			Considering the exceptionally long
+			lifespan of Vulcans, it does seem
+			odd that Spock and Sarek did not
+			choose to resolve their
+			differences in the time
+			available.
+
+      STAR TREK: "Unification" Pt. I - REV. 9/17/91 - ACT FIVE     47A.
+
+35B  CONTINUED: (2)
+
+	Picard looks at Data, trying to find a context in which
+	to explain...
+
+					PICARD
+				(acknowledges)
+			Yes. It really is quite...
+			illogical...
+				(beat)
+			A father and son... both proud,
+			both stubborn... more alike than
+			either would care to admit.
+			They've spent a lifetime building
+			emotional barriers. Those aren't
+			easy to break down.
+
+	Picard closes the satchel containing the gear.
+
+					PICARD
+			And then the time comes when it
+			is too late to try. One realizes
+			that all the things he had
+			planned to say will go unsaid.
+				(beat)
+			That is a difficult moment... and
+			a lonely one. Spock will now
+			have to face that moment.
+
+	Data regards him for a moment, trying to understand the
+	complex undertones of familial relationships. Then
+	Picard turns and goes to the door; they EXIT.
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FIVE        48.
+
+35C  OMITTED
+
+35D  INT. KLINGON BRIDGE
+
+	Picard and Data ENTER, and K'Vada, seeing them, bursts
+	out laughing.
+
+					K'VADA
+			Don't you two look sweet...
+
+	He moves closer to Data, peers at him.
+
+					K'VADA
+			Be careful, android... some
+			Romulan beauty might take a liking
+			to you... lick that paint right
+			off your ears...
+
+	Data's eyes flicker a bit at this. K'Vada goes to
+	Picard, looks him up and down.
+
+					K'VADA
+			Do you know what the Romulans will
+			do to you if they discover who
+			you are?
+
+					PICARD
+			I have a good idea.
+				(beat)
+			We are ready to be transported
+			to the surface.
+
+					K'VADA
+			Just so we understand each other
+			-- my orders don't include rescue
+			missions.
+
+	He EXITS; Picard and Data follow.
+
+36   EXT. ROMULUS CAPITOL CITY - DAY - ESTABLISHING MATTE
+
+	Bright, metallic, clean... a linear arrangement of
+	striking high-rise buildings.
+
+      STAR TREK: "Unification" Pt. I - REV. 9/16/91 - ACT FIVE      49.
+
+36A  INT. ROMULAN OFFICE (OPTICAL)
+
+	The same stately, elegant office seen in Part II.
+	NERAL, the proconsul, works at a desk.
+
+	The door opens and PARDEK, the Romulan senator, ENTERS.
+
+					NERAL
+			Ah, Senator Pardek. You received
+			my message.
+
+					PARDEK
+			I got here as quickly as I could,
+			Proconsul.
+
+	Neral smiles genially, circles the desk. He gestures
+	to a monitor which contains a likeness of Picard.
+
+					NERAL
+			What do you know of this Human?
+			Jean-Luc Picard... a Starfleet
+			Captain...
+
+					PARDEK
+			I know nothing of him.
+
+					NERAL
+			You haven't seen him recently... ?
+
+					PARDEK
+				(puzzled)
+			To my knowledge, I've never seen
+			him.
+
+	Neral absorbs this, reflects on it.
+
+					NERAL
+			I have received intelligence that
+			says he's on his way here.
+			Perhaps here already.
+
+					PARDEK
+				(truly surprised)
+			Here -- on Romulus?
+
+					NERAL
+			Yes... curious, isn't it? I
+			suppose we'd better find out if
+			the report is accurate -- or
+			merely rumor.
+
+	He eyes Pardek, considering his next move.
+
+      STAR TREK: "Unification" Pt. I - REV. 9/17/91 - ACT FIVE      50.
+
+36A  CONTINUED:
+
+					NERAL
+			Circulate his likeness to the
+			security forces. Remind them that
+			if he is here, he is probably
+			disguised as one of us.
+
+					PARDEK
+			I'll see to it.
+
+	He turns and heads toward the door. We see his face
+	and it is impassive; over his shoulder, Neral watches
+	him carefully.
+
+37   EXT. ROMULAN STREET - CONTINUOUS
+
+	This neighborhood is bleak, drab, severe. The people
+	are joyless, grim, hurrying along without interacting
+	with each other. There is the feeling that life is
+	difficult here, and everyone pretty much looks out for
+	himself.
+
+	Picard and Data ENTER, talking quietly, looking around.
+	There are other small clumps of people doing so... they
+	reflect the same dismal expressions as the Romulans...
+	not making eye contact.
+
+					DATA
+			This is definitely the street on
+			which the intelligence scan
+			of Spock and Pardek was taken,
+			sir... adjusting for the optical
+			distortion, I am able to verify
+			the architectural features...
+
+					PICARD
+			Where were they standing?
+
+	Data does some processing, scanning the street, with a
+	few android movements... a few people glance at them,
+	Picard reacts... puts his arm around Data's shoulder,
+	smiles, in a friendly pose for the sake of onlookers...
+	sotto --
+
+					PICARD
+			Data...
+
+					DATA
+			Sir?
+
+      STAR TREK: "Unification" Pt. I - REV. 9/17/91 - ACT FIVE     50A.
+
+37   CONTINUED:
+
+					PICARD
+			You're moving about in a very...
+			well, android manner...
+
+					DATA
+			I am sorry, Captain. I will be
+			more careful.
+
+					PICARD
+			And don't call me "Captain."
+
+					DATA
+			Yes, Cap --
+				(cutting himself off)
+			I understand.
+				(looks around)
+			I have located the place where
+			they were standing...
+
+	Picard breaks the arm contact.
+
+					PICARD
+			Where?
+
+	Now, Data puts his arm around Picard's shoulder, as
+	Picard reacts, leading him a few doorways away...
+
+					DATA
+			It is here --
+				(gestures)
+			-- at this doorway.
+
+	There is a small Romulan sign near the door. (Data
+	drops his arm.) Reading...
+
+					DATA
+			A legal intercessor's office...
+			the name is similar to Pardek's.
+			It would appear to be one of
+			his relatives.
+
+	Picard tries the door; it is locked.
+
+					PICARD
+			Not open for business yet...
+
+					DATA
+			Nevertheless, it would be my
+			recommendation that we keep this
+			location under observation.
+					(MORE)
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FIVE       50B.
+
+37   CONTINUED: (2)
+
+					DATA (cont'd)
+			I have clearly determined
+			Pardek's routine. On days when
+			the Senate is not in session, he
+			invariably comes to this section
+			after the median hour.
+
+	Picard looks around, sizing up the situation. He sees
+	tables, people eating -- a kind of "cafe."
+
+					PICARD
+			Very well, why don't we take the
+			opportunity to try some of the
+			local cuisine...
+
+	The two saunter toward the cafe, passing some ROMULAN
+	FOOTSOLDIERS as they do. (One of these is ROMULAN #1
+	from Part II.) Picard and Data keep their eyes
+	straight ahead.
+
+      STAR TREK: "Unification" Pt. I - REV. 9/17/91 - ACT FIVE      51.
+
+37A  ANGLE - AT CAFE
+
+	They move to stand, like others, at a table. A WOMAN
+	appears before them... rather dour-looking, with hard,
+	suspicious eyes.
+
+					DATA
+			What do you recommend?
+
+					SOUP WOMAN
+			Soup.
+
+					DATA
+			That sounds very appealing. I
+			will have soup.
+
+	The woman looks at Picard.
+
+					PICARD
+			Soup is fine.
+
+	She moves off to get the soup. Picard and Data glance
+	around, trying to get a sense of how they're fitting
+	in.
+
+37A  THE FOOTSOLDIERS
+
+	are standing nearby.
+
+37A  PICARD AND DATA
+
+	as the woman returns and places two bowls of soup in
+	front of them.
+
+					PICARD
+				(friendly)
+			Do you happen to know what time
+			the intercessor's office across
+			the way opens?
+
+					SOUP WOMAN
+			Why do you want to know?
+
+					PICARD
+				(reacts)
+			I need his services... he was
+			recommended.
+
+					SOUP WOMAN
+				(beat)
+			I haven't seen you here before.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FIVE       51A.
+
+37AB	CONTINUED:
+
+					DATA
+			We are here for the day... from
+			the city of Rateg.
+
+					SOUP WOMAN
+			Rateg. I don't think so.
+
+					DATA
+			Why do you say that?
+
+					SOUP WOMAN
+			You don't sound like you're from
+			Rateg.
+
+					DATA
+			It is a misconception that all
+			Rategs speak with a particular
+			inflection. In fact, there are
+			twelve different --
+
+					PICARD
+				(interrupting)
+			We come from several kilometers
+			outside the city...
+
+					SOUP WOMAN
+				(studies them a beat)
+			Or perhaps you come from the
+			security forces, to watch the
+			intercessor's office. Is he in
+			trouble?
+
+					PICARD
+			Madam, you are mistaken.
+
+					SOUP WOMAN
+			It doesn't matter to me. I don't
+			know when he opens. Eat your
+			soup. Courtesy of a loyal
+			establishment. Jolan True.
+
+	She leaves. Picard looks around. It is unnerving to
+	be in the midst of the Romulan city, surrounded by
+	enemies. Data, of course, has no such apprehensions,
+	and continues to eat his soup. As Picard works on the
+	distasteful broth, he looks up to see --
+
+37B  THE FOOTSOLDIERS
+
+	who have been looking at them, but quickly look away.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FIVE       51B.
+
+37C  PICARD AND DATA
+
+	Picard begins eating again, and tries to keep from
+	looking at the soldiers.
+
+					PICARD
+			We can't stay here long.
+
+	Data glances up and reacts --
+
+					DATA
+			We may not have to... Direct your
+			view to the far corner... is that
+			not Pardek?
+
+38
+thru	OMITTED
+43
+
+44   CLOSE ON PARDEK
+
+	who has just entered the area, and moving to talk with
+	two other Romulan civilians.
+
+         STAR TREK: "Unification" Pt. I - 9/17/91 - ACT FIVE        52.
+
+45   ANGLE - PICARD AND DATA
+
+	having seen him.
+
+					PICARD
+			I believe you're right...
+
+	Picard pauses in his soup eating to watch Pardek...
+
+	Data glances over to see...
+
+45A  OMITTED
+
+45B  THE FOOTSOLDIERS
+
+	staring right at them.
+
+45C  PICARD AND DATA
+
+					DATA
+				(quietly)
+			Perhaps you should appear to
+			enjoy your soup.
+
+	Picard reacts, begins to eat again...
+
+45D  THE ROMULAN FOOTSOLDIERS
+
+	have moved into the cafe, and stand chatting casually.
+
+45E  PICARD AND DATA
+
+	continue to watch Pardek.
+
+46   PARDEK
+
+	bids farewell to his colleagues and starts down the
+	street.
+
+47   PICARD AND DATA
+
+	casually put down their bowls of soup and turn to move
+	after Pardek. But --
+
+      STAR TREK: "Unification" Pt. I - REV. 9/16/91 - ACT FIVE     52A.
+
+48
+thru	OMITTED
+55
+
+56   THE SOLDIERS
+
+	block their way, disruptors drawn.
+
+					ROMULAN#1
+			Do not move.
+
+	Picard and Data stop, eyeing the weapons.
+
+					PICARD
+			What? You've made a mistake...
+
+					ROMULAN#1
+			Quiet. Come with us...
+
+	The soldiers grab their quarry in a firm grip and,
+	holding the disruptors at their backs, move them up
+	the street and around the corner.
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FIVE        53.
+
+57   INT. ROMULAN CAVES - A LITTLE LATER
+
+	The two soldiers push Picard and Data along ahead of
+	them.
+
+					ROMULAN#1
+			Wait here.
+
+					PICARD
+			For what? Why have you brought
+			us here?
+
+	A movement from the cavern entrance; all turn toward
+	it... and in walks Pardek.
+
+					PARDEK
+			Welcome to Romulus, Captain
+			Picard.
+
+	He gestures toward the "Romulan soldiers" who have
+	begun stripping off their uniforms -- revealing
+	civilian clothing underneath.
+
+					PARDEK
+			Don't let our "soldiers" alarm
+			you... we had to get you off the
+			streets quickly. Romulan security
+			knows you are here.
+
+	Picard casts a glance around the room. He's not
+	certain who these people are... whether he can trust
+	them...
+
+					PARDEK
+				(reassuring)
+			I am Pardek... you are among
+			friends, Captain.
+
+	Picard knows he must take a chance.
+
+					PICARD
+			I have come on an urgent mission
+			from the Federation. I am looking
+			for Ambassador Spock.
+
+					VOICE (o.c.)
+			Indeed...
+
+	All heads turn toward the sound. It comes from deep
+	shadows within the cave.
+
+         STAR TREK: "Unification" Pt. I - 9/13/91 - ACT FIVE        54.
+
+57   CONTINUED:
+
+	The group is silent... then, the sound of footsteps
+	echoes on the cave floor... from a long way... moving
+	ever closer, the plock-plock ringing loud in the
+	silence of the cave, the echoes swelling as the
+	footsteps approach... now we see --
+
+58   OMITTED
+
+59   A SHADOWY FIGURE
+
+	beginning to emerge. He moves closer, closer... his
+	bearing regal, poised...
+
+	But his face is still in darkness... finally he steps
+	out into the light... and we see the unmistakable
+	visage of SPOCK.
+
+	When he speaks, there is no warmth to his voice, and
+	his eyes are cold. He is not happy to see Picard.
+
+					SPOCK
+			You have found him, Captain
+			Picard.
+
+	And on the various reactions --
+
+									SUPERIMPOSE:
+
+				"TO BE CONTINUED"
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                      "A Matter of Time" 
+                          #40275-209 
+                              
+                          Written by 
+                          Rick Berman 
+                              
+                          Directed by 
+                          Paul Lynch 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1991 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+
+
+      STAR TREK: "A Matter of Time" - REV. 9/25/91 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                      "A Matter of Time" 
+
+                             CAST                               
+                              
+                PICARD             BERLINGOFF RASMUSSEN
+                RIKER              HAL MOSELEY
+                DATA               FEMALE SCIENTIST
+                BEVERLY            
+                TROI               
+                GEORDI             
+                WORF               
+                                   Non-Speaking
+                                     N.D. SCIENTISTS
+                AN ENSIGN          
+
+                Non-Speaking       
+                  SUPERNUMERARIES    
+                  AN ENGINEER        
+                  ENGINEERING CREW   
+                  SECURITY GUARD     
+                  A NURSE            
+                  A BOY IN SICKBAY   
+                  A MALE PATIENT     
+
+        STAR TREK: "A Matter of Time" - 9/20/91 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                      "A Matter of Time" 
+                      
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              MAIN BRIDGE
+              CAPTAIN'S READY ROOM     RASMUSSEN'S VESSEL
+              ENGINEERING
+              TURBOLIFT                PENTHARA FOUR
+              CORRIDOR                   CITY (MATTE)
+              TEN-FORWARD
+              SICKBAY
+              RASMUSSEN'S GUEST QUARTERS
+              SHUTTLEBAY
+          
+            PENTHARA FOUR
+              SCIENCE LAB
+          
+            RASMUSSEN'S VESSEL
+
+    STAR TREK: "A Matter of Time" - REV. 9/26/91 - TEASER    1.
+
+                STAR TREK: THE NEXT GENERATION                  
+                      "A Matter of Time"                           
+                            TEASER                              
+
+	FADE IN:
+
+1    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	at warp speed.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45333.3.
+			The Enterprise is on its way to
+			Penthara Four where a type C
+			asteroid has struck an unpopulated
+			continent.
+
+2    INT. GEORDI'S OFFICE
+
+	NUMEROUS ENGINEERING CREW are busily working with
+	GEORDI and DATA.
+
+					PICARD (V.O.)
+				(continuing)
+			The resulting dust cloud could
+			very well create a phenomenon not
+			unlike the nuclear winters of
+			twenty-first-century Earth.
+			Commander La Forge has begun work
+			on a plan that would counteract
+			the devastation.
+
+	Geordi looks over as RIKER ENTERS.
+
+					GEORDI
+			I'm afraid the numbers coming in
+			are already indicating climatic
+			changes, sir.
+
+					RIKER
+			What kind of drop can we expect?
+
+					DATA
+			If the Pentharan spheral forecasts
+			are correct, ten to twelve degrees
+			Celsius within the first ten days.
+
+    STAR TREK: "A Matter of Time" - REV. 9/25/91 - TEASER    2.
+
+2    CONTINUED:
+
+					GEORDI
+			If it continues like that, their
+			entire ecosystem will be shot
+			to hell.
+
+					RIKER
+			And I doubt they're prepared to
+			cope with the kind of cold that's
+			coming.
+
+					PICARD'S COM VOICE
+			Commander Riker.
+
+					RIKER
+				(keys combadge)
+			Yes, Captain.
+
+					PICARD'S COM VOICE
+			Would you join me on the bridge,
+			please.
+
+					RIKER
+			On my way.
+				(to guys)
+			Let me know if those forecast
+			numbers change.
+
+	Geordi and Data acknowledge as Riker EXITS.
+
+3    INT. BRIDGE
+
+	PICARD, WORF, AN ENSIGN at theconn, and SUPERNUMERARIES
+	at various stations.
+
+					PICARD
+			Are you certain, Worf?
+
+					WORF
+			There was a space/time
+			distortion, sir. And there is
+			something back there. We passed
+			within three hundred kilometers
+			of it.
+
+					PICARD
+			A bit close for coincidence.
+				(to com)
+			Mister La Forge?
+
+					GEORDI'S COM VOICE
+			Yes, sir.
+
+      STAR TREK: "A Matter of Time" - 9/20/91 - TEASER      3.
+
+3    CONTINUED:
+
+					PICARD
+			Would a delay of an hour affect
+			your plans?
+
+									INTERCUT:
+
+4    INT. GEORDI'S OFFICE
+
+					GEORDI
+			Not unless another asteroid
+			decides to pay a call on Penthara,
+			sir.
+
+					DATA
+			The odds of that occurring,
+			Captain, are extremely unlikely,
+			given the time frame.
+
+5    INT. BRIDGE - CONTINUOUS
+
+	as Riker ENTERS.
+
+					PICARD
+			Thank you, Mister Data.
+				(to Ensign)
+			Prepare to come about, Ensign.
+			Let's take a look at Mister Worf's
+			distortion.
+
+					ENSIGN
+			Aye, sir.
+
+					RIKER
+			Mister Worf's what?
+
+					PICARD
+			The Lieutenant's sensors detected
+			a temporal distortion, Number One,
+			almost directly on our current
+			course. There seems to be a small
+			object back there that wasn't
+			there a few moments ago.
+
+	On Riker and Picard's mutual curiosity...
+
+6    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	comes out of warp and makes a sweeping turn.
+
+    STAR TREK: "A Matter of Time" - REV. 9/25/91 - TEASER    4.
+
+7    INT. BRIDGE (OPTICAL)
+
+	As before.
+
+					WORF
+			The object is fifty kilometers
+			ahead, sir.
+
+					PICARD
+			Full stop, Ensign.
+
+					ENSIGN
+			Aye, sir.
+
+					PICARD
+			On screen.
+
+	A view of a tiny multifaceted spacecraft appears.
+
+					RIKER
+			Dimensions, Worf?
+
+					WORF
+			Approximately five meters in
+			length, sir.
+
+					PICARD
+			Lifesigns?
+
+					WORF
+			No signs of any kind, sir.
+			Sensors are not penetrating its
+			hull.
+
+					PICARD
+			Try hailing it.
+
+					WORF
+				(pushes a series
+				 of buttons)
+			That's odd.
+
+					RIKER
+			What's odd?
+
+					WORF
+			We've received a response, sir,
+			but...
+
+					PICARD
+				(get on with it)
+			Yes, Mister Worf?
+
+    STAR TREK: "A Matter of Time" - REV. 9/25/91 - TEASER    5.
+
+7    CONTINUED:
+
+					WORF
+			They want you to... "Move over,"
+			sir.
+
+					PICARD
+				(looks at Riker and then
+				 back at Worf)
+			Reply that the Enterprise isn't
+			going anywhere, Lieutenant.
+
+					WORF
+			Not the Enterprise, Captain. You.
+
+	Picard turns and walks toward Worf.
+
+					PICARD
+			What are you trying to...
+
+	Suddenly there's a bright flash where Picard had been
+	standing. RASMUSSEN, a kindly-looking human male in
+	his late forties, APPEARS. He is wearing a drab,
+	nondescript jump suit and a baggy "lab" jacket. He
+	carries a small valise.
+
+					RASMUSSEN
+			Excuse me, Captain, but you were
+			standing right where I needed to
+			be.
+
+					PICARD
+			Who are you?
+
+					RASMUSSEN
+			Rasmussen's the name, sir.
+			Professor Berlinghoff Rasmussen.
+				(looking around in
+				 amazement)
+			Ah... this is wonderful.
+			Actually, quite a bit larger than
+			I thought.
+
+					PICARD
+			Really?
+
+					RASMUSSEN
+			Where I come from, every historian
+			knows the bridge of old 1701-D.
+
+					PICARD
+			And where exactly is it you come
+			from?
+
+      STAR TREK: "A Matter of Time" - 9/20/91 - TEASER      6.
+
+7    CONTINUED: (2)
+
+					RASMUSSEN
+			Why Earth... late twenty-sixth
+			century Earth, to be exact. You
+			see, I've traveled back nearly
+			three hundred years just to find
+			you.
+
+	Off their reactions we...
+
+									FADE OUT.
+
+                         END OF TEASER                          
+
+      STAR TREK: "A Matter of Time" - 9/20/91 - ACT ONE      7.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+		(NOTE: Episode credits fall over opening scenes.)
+
+8    INT. READY ROOM
+
+	Picard sits behind his desk while Rasmussen paces,
+	checking things out.
+
+					PICARD
+			Exactly what kind of historian
+			are you?
+
+					RASMUSSEN
+				(as he continues to
+				 pace, picking things
+				 up, turning them over)
+			My focus is on the twenty-second 
+			through the twenty-fourth centuries,
+			early interstellar history.
+				(picking up Picard's
+				 Shakespeare volume)
+			You know, it was always believed
+			this was on your desk, not here...
+			Fascinating.
+				(he turns to Picard,
+				 good naturedly)
+			Now don't move it on my account.
+
+					PICARD
+			You can't expect me to believe
+			that the layout of my ready room
+			is of interest to future
+			historians...
+
+					RASMUSSEN
+			No less so than your legendary
+			modesty, Captain. I wish I could
+			describe to you what a thrill it
+			is to be here...
+				(he stops at the
+				 painting over Picard's
+				 couch)
+			This is the original, isn't it?
+
+      STAR TREK: "A Matter of Time" - 9/20/91 - ACT ONE      8.
+
+8    CONTINUED:
+
+					PICARD
+			You flatter me Professor, but I
+			can't help but wonder what could
+			possibly have caused you to select
+			me as the subject of your study.
+			Even in this decade, there are
+			far wiser and more experienced
+			Humans both in and out of
+			Starfleet.
+
+					RASMUSSEN
+			I'd love to tell you, Picard.
+			I really would. But try and
+			imagine what a young Caesar might
+			have done differently if someone
+			had given him a hint of what lay
+			ahead. Or, if Lincoln had been
+			coerced into changing his theater
+			plans. I truly wish I could be
+			more specific on why you were
+			selected, but I'm afraid the
+			exchange of information will have
+			to flow in one direction only.
+
+	As Rasmussen talks, he walks to the door and paces out
+	the distance to the window.
+
+					RASMUSSEN
+			...four... five... six... seven
+			meters. HA! I was right!
+
+	Off Picard's look...
+
+9    INT. OBSERVATION LOUNGE
+
+	Picard, Riker, Worf, BEVERLY, TROI, Data and Geordi.
+	Rasmussen is sitting beside Picard.
+
+					WORF
+			Why now?
+
+					GEORDI
+			Right. If you came back to study
+			us, to study the captain, why did
+			you pick today? Why not a year
+			ago... or a year from now?
+
+					RASMUSSEN
+			Oh, I picked the right day
+			alright. Just wait, you'll see.
+					(MORE)
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT ONE   9.
+
+9    CONTINUED:
+
+					RASMUSSEN (cont'd)
+				(to Worf)
+			Do you always sit there, on that
+			side of the table?
+
+					WORF
+			Usually. Why?
+
+					RASMUSSEN
+				(shakes his head and
+				 smiles)
+			It's not important.
+
+	Worf is starting to dislike this man.
+
+					RIKER
+			Tell me, Professor, at what point
+			does time travel become a tool
+			for historians?
+
+					RASMUSSEN
+			Now, now, Commander. You know
+			better than that. I've studied
+			a great deal about your century.
+			Including the fact that you're
+			all quite aware of the dangers
+			of anyone altering the past. And
+			that's exactly what I'd be doing
+			if I were to divulge information
+			like that.
+
+					BEVERLY
+			Telurian plague!
+
+					RASMUSSEN
+			I beg your pardon?
+
+					BEVERLY
+			Telurian plague... was it cured?
+			I mean, has it been cured by your
+			century? There can't be any harm
+			in asking that.
+
+	Rasmussen turns to Picard for help.
+
+					PICARD
+			I realize it will be difficult,
+			but we must all keep our questions
+			regarding the future to ourselves.
+			Professor...
+
+	Rasmussen stands.
+
+   STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT ONE   10.
+
+9    CONTINUED: (2)
+
+					RASMUSSEN
+			I'll be preparing questionnaires
+			for each of you. Please complete
+			them at your convenience. If
+			you're concerned about a possible
+			breach of security, I'm sure your
+			captain can make a
+			determination... And, thank you
+			in advance for curbing your
+			curiosity.
+
+					GEORDI
+				(sarcastic)
+			If I hand my assignment in on
+			time, do I get a little glimpse
+			into next week's poker game?
+
+	Rasmussen laughs good heartedly.
+
+					PICARD
+			Mister Data, please show the
+			Professor to his quarters.
+
+					DATA
+				(standing)
+			This way, sir.
+
+	Data leads Rasmussen to the door and they EXIT.
+
+					RIKER
+			What did he mean he picked the
+			right day?
+
+					PICARD
+			You know everything I do, Will.
+
+					RIKER
+			Deanna?
+
+					TROI
+			It's hard to tell. But he is
+			holding something back.
+
+					BEVERLY
+				(to Troi)
+			Of course he is. Think of all
+			the things he could tell us...
+			all the things he'd like to tell
+			us...
+
+   STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT ONE   11.
+
+9    CONTINUED: (3)
+
+					TROI
+				(shaking her head)
+			That might be it, I don't know.
+
+					RIKER
+			How can we be sure he's not an
+			imposter? God knows we've run
+			into enough of them.
+
+					PICARD
+			He is Human. Our medical scans
+			have proved that. Haven't they,
+			Doctor?
+
+					BEVERLY
+			He's Human, alright.
+
+					PICARD
+			And there was a temporal
+			distortion back there, correct
+			Mister Worf?
+
+					WORF
+				(begrudgingly)
+			Yes, sir.
+
+					PICARD
+			And no one can deny that ship of
+			his is unlike anything we've ever
+			seen before.
+
+					GEORDI
+			The hull is composed of some kind
+			of plasticized tritanium mesh.
+			Nothing we have on record... at
+			least not 'til the present.
+
+	Worf grumbles skeptically.
+
+					PICARD
+			I appreciate your caution, Mister
+			Worf. I share it. Have his
+			vessel brought into a shuttlebay.
+			Place it under guard.
+
+					WORF
+			Yes, sir.
+
+					PICARD
+			I realize this isn't going to
+			be an easy visit for some of you.
+					(MORE)
+
+  STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT ONE  11A.
+
+9    CONTINUED: (4)
+
+					PICARD (Cont'd)
+			Nevertheless, I've reviewed the
+			Professor's credentials, and
+			they're in order. So, I'd like
+			you all to extend him every
+			courtesy.
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT ONE     12.
+
+9    CONTINUED: (4)
+
+					WORF
+				(put upon)
+			Including questionnaires?
+
+					PICARD
+			Including questionnaires.
+			Dismissed.
+
+	As all stand to leave, we CUT TO...
+
+10   INT. TURBOLIFT
+
+	Rasmussen and Data. The lift is in motion. Rasmussen
+	is inspecting Data like a car enthusiast would a
+	vintage Ferrari.
+
+					RASMUSSEN
+			This is really a thrill, Data.
+			Like running across a Redstone
+			missile or a Guttenberg bible.
+			To think... the Model T of
+			androids.
+
+	The lift stops and the doors open. Rasmussen and Data
+	EXIT into the corridor.
+
+11   INT. CORRIDOR
+
+	as Rasmussen and Data head for Rasmussen's quarters.
+
+					DATA
+			If you're referring to the first
+			production model automobile of
+			the twentieth century, perhaps the
+			subsequent Model A might be a more
+			apt analogy since I am Noonian
+			Soong's revised prototype.
+
+	Rasmussen continues to check Data out as they reach his
+	quarters.
+
+					RASMUSSEN
+			I stand corrected.
+
+	The door opens and they go in...
+
+12   INT. RASMUSSEN'S QUARTERS
+
+	Rasmussen looks around, disappointed.
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT ONE     13.
+
+12   CONTINUED:
+
+					DATA
+			Is there a problem, sir?
+
+					RASMUSSEN
+			I suppose it will have to do, for
+			now. I'll get you a list of
+			things I'll be needing. You're
+			dismissed.
+
+	Data starts to leave. Rasmussen walks to the sink and
+	begins to wash his hands.
+
+					DATA
+				(almost shy)
+			Would I be correct, Professor,
+			in assuming that you know whether
+			or not I am still... alive in
+			the twenty-sixth century?
+
+	Rasmussen ignores Data. He finishes washing and holds
+	out his hand, treating Data like a men's room
+	attendant. After a beat, Data catches on and hands him
+	a towel.
+
+					DATA
+				(continuing his line
+				 of questioning)
+			Since you seemed to know so much
+			about Captain Picard and the
+			ship... I assumed that you
+			would...
+
+	Rasmussen sits at his desk.
+
+					RASMUSSEN
+				(patronizing)
+			It would be best if you kept your
+			assumptions to yourself, wouldn't
+			it?
+
+					DATA
+			Yes, sir. I am sorry, sir.
+
+	Data EXITS and Rasmussen looks after him, again
+	fascinated. He sits back, and smiles. Whatever his
+	plans, they are clearly going just as he'd hoped.
+
+									FADE OUT.
+
+                        END OF ACT ONE                          
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   14.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+13   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	comes out of warp.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45334.5.
+			We have arrived at Penthara
+			Four...
+
+14   EXT. SPACE - ANOTHER ANGLE (OPTICAL)
+
+	As the Enterprise enters orbit of a planet partially
+	covered by huge dark clouds of dust.
+
+					PICARD (V.O.)
+				(continuing)
+			... and can see for ourselves the
+			atmospheric devastation caused
+			by the asteroid impact.
+
+15   EXT. PENTHARA IV - MATTE PAINTING
+
+	A city with eerie dark clouds above. It is snowing
+	heavily.
+
+16   INT. PENTHARA SCIENCE LAB
+
+	Meteorologist HAL MOSELEY's large cluttered office has
+	been temporarily transformed into a crisis center.
+	NUMEROUS N.D. SCIENTISTS move from one set of monitors
+	to another. Picard and Geordi are beside Moseley.
+	The snow can be seen through windows. Picard points
+	to a map on a monitor.
+
+					PICARD
+			We've located three underground
+			pockets of carbon dioxide...
+			here, here and here. Our drilling
+			phasers can release enough of the
+			gas to form an envelope which
+			would temporarily hold in the heat
+			from the sun.
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   15.
+
+16   CONTINUED:
+
+					MOSELEY
+				(laughing at the irony)
+			We spend years, decades trying
+			to avoid anything that would lead
+			to a greenhouse effect and here
+			we are about to create one on
+			purpose.
+
+					GEORDI
+			Less than twenty percent of your
+			normal sunlight is getting through
+			that dust, Doctor. If we can hold
+			enough heat in with the CO2, it
+			should give the planet time to
+			mend itself.
+
+	A worried FEMALE SCIENTIST approaches.
+
+					FEMALE
+			Doctor Moseley.
+
+					MOSELEY
+				(seeing her expression)
+			What now?
+
+					FEMALE
+			New Seattle is reporting a cloud
+			depth of twelve kilometers. Two
+			rivers, tropical rivers, are
+			beginning to freeze.
+
+	Moseley turns to Picard.
+
+					MOSELEY
+			We better get started before
+			there's nothing left to mend.
+
+	Off their reactions...
+
+17   INT. TEN FORWARD
+
+	Rasmussen ENTERS holding a small pile of rectangular
+	chips and looks around gleefully. He sees Riker,
+	Worf, and Beverly at a table and heads over to join
+	them.
+
+					RIKER
+				(quietly)
+			Look who's here.
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     16.
+
+17   CONTINUED:
+
+					WORF
+			I hate questionnaires.
+
+					BEVERLY
+				(with enthusiasm, she's
+				 quite taken with
+				 Rasmussen)
+			Professor, please come join us.
+
+	Rasmussen goes to sit next to Worf, but thinks better
+	of it and sits near Beverly.
+
+					RASMUSSEN
+			I hope I'm not intruding.
+
+					BEVERLY
+			Not at all. You're probably the
+			topic of conversation at every
+			table in the room.
+
+	Rasmussen shuffles through the chips, finds the three
+	appropriate ones, and distributes them to those
+	present.
+
+					RASMUSSEN
+			As I promised, here are your
+			assignments. I'm sure they'll
+			be painless. Please try to
+			complete them by tomorrow.
+
+					WORF
+				(peeved)
+			Tomorrow!
+
+	Riker makes eye contact with Worf. Tells him to cool
+	it. However, he feels almost as put-upon as his
+	tactical officer.
+
+					RIKER
+			No problem, Professor.
+
+	Rasmussen looks from face to face, fascinated.
+
+					RASMUSSEN
+				(smiling)
+			You're all very calm.
+
+					RIKER
+				(puzzled)
+			Do we have reason not to be?
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     17.
+
+17   CONTINUED: (2)
+
+					RASMUSSEN
+			History always records where
+			people were, what they were doing,
+			when important events took place.
+			But it rarely remembers their
+			activities -- say, a week before...
+			or a day... or even an hour.
+
+					WORF
+			Are you suggesting an important
+			event is imminent?
+
+					RASMUSSEN
+			I didn't say that, did I?
+			Please... go on doing what you
+			were doing, pretend I'm not here.
+
+	They are all a bit uncomfortable, unable to "go on
+	doing what they were doing."
+
+					RIKER
+				(after a long beat)
+			How come there's no record of
+			other future historians traveling
+			back to witness "important
+			events?"
+
+					RASMUSSEN
+			We're obviously very careful.
+			Matter of fact, a colleague and
+			I recently paid a call on a
+			twenty-second century vessel.
+
+					BEVERLY
+				(fascinated)
+			They hadn't even perfected
+			quarantine fields by then. You
+			must have seen surgical masks and
+			gloves.
+
+					RASMUSSEN
+			Isn't it fascinating how everyone
+			has different interests when it
+			comes to history... different
+			perspectives on progress.
+
+	Rasmussen opens a small finger ring, looks inside,
+	smiles, and closes it.
+
+					RIKER
+			Mind if I ask what that is?
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     18.
+
+17   CONTINUED: (3)
+
+					RASMUSSEN
+			Just checking the time... No
+			problem.
+
+					RIKER
+				(getting a bit
+				 frustrated)
+			Is something supposed to be
+			happening here?
+
+	Rasmussen waves his hand, dismissing the question.
+
+					RASMUSSEN
+			No, no, nothing.
+				(changing the subject)
+			What about you, Commander? What
+			do you see as the most important
+			example of progress over the
+			last two hundred years?
+
+					RIKER
+				(pauses)
+			I suppose the warp coil. Before
+			we had warp drive, Humans were
+			confined to a single sector of
+			the galaxy.
+
+					RASMUSSEN
+			Spoken like the consummate
+			explorer.
+
+	Rasmussen looks around the room, as if he were waiting
+	for something to happen.
+
+					RIKER
+			What's going on? You waiting for
+			someone?
+
+					WORF
+				(abruptly)
+			Phasers!
+
+	Riker and Rasmussen turn to Worf.
+
+					RIKER
+			Where?!
+
+					RASMUSSEN
+			Beg your pardon?
+
+					WORF
+			There were no phasers in the 22nd
+			century.
+
+	Riker sighs and sits back.
+
+   STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT TWO   19.
+
+17   CONTINUED: (4)
+
+					RASMUSSEN
+			Ah, you see Doctor? Our Klingon
+			friend is a perfect example of
+			what I was trying to tell you.
+			He views history through the eyes
+			of a hunter, a warrior. His
+			passion lies in the perfection
+			of the tools of violence. How
+			delightfully primitive.
+
+	Off Worf's reaction we:
+
+									CUT TO:
+
+18   INT. ENGINEERING (OPTICAL)
+
+	Geordi and an N.D. ENGINEER are at a console.
+
+					GEORDI
+			As soon as we input this
+			atmospheric data from Moseley,
+			the computer should tell us
+			how many holes we'll have to
+			punch.
+
+	He hands a chip to the engineer, who nods and EXITS as
+	Data ENTERS.
+
+					GEORDI
+				(continuing)
+			Ah, Data. Good.
+
+					DATA
+			What have you learned about the
+			tectonic stability around the
+			drilling sites?
+
+	Rasmussen ENTERS, unnoticed.
+
+					GEORDI
+			Couldn't be better. Our scans
+			were all clear and Moseley says
+			there hasn't been so much as a
+			quiver in over a century.
+
+					RASMUSSEN
+			Ah, just the two I'm looking for.
+			I've brought the forms I'd like
+			you to complete.
+
+	Rasmussen hands Geordi and Data a chip each.
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     20.
+
+18   CONTINUED:
+
+					RASMUSSEN
+				(continuing)
+			It shouldn't take more than a
+			couple of hours.
+
+					GEORDI
+			We're kind of busy here,
+			Professor. Tomorrow might be
+			better.
+				(to Data, as he points
+				 to a monitor)
+			We've got about twenty-three
+			thousand thermal simulations.
+			You think you could check them
+			through for anomalies?
+
+					DATA
+			Certainly.
+
+	Data sits down at the monitor and begins to punch keys
+	as the numbers scroll by at a great speed.
+
+					RASMUSSEN
+				(to Geordi)
+			Is that as fast as he can go?
+
+					GEORDI
+			Not fast enough for you,
+			Professor?
+
+					RASMUSSEN
+			There's very little known about
+			Data's efficiency... almost
+			nothing about his part in this
+			mission. It's a topic of great
+			conjecture.
+
+					DATA
+				(finishing his task)
+			Two hundred nine anomalies all
+			within acceptable parameters.
+
+					GEORDI
+			Thanks, Data.
+				(to Rasmussen)
+			You've come to witness this
+			mission... that's it, isn't it?
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     21.
+
+18   CONTINUED: (2)
+
+					RASMUSSEN
+				(checking his ring)
+			It would be best if you just
+			thought of me as a fly on the
+			wall, and went about your
+			business.
+
+	Data stands.
+
+					DATA
+				(to Rasmussen, re:
+				 the chip)
+			I will return the answered
+			questions to you as soon as
+			possible, sir.
+
+	As Data EXITS into Main Engineering...
+
+					RASMUSSEN
+				(as if he were saying
+				 "Moses on the
+				 Mountain")
+			Data... at Penthara Four!
+
+	Geordi doesn't have time for this, he heads to another
+	terminal.
+
+					GEORDI
+			If you'll excuse me.
+
+					RASMUSSEN
+				(following)
+			Your prosthesis...
+				(trying to remember)
+			What do you call it?
+
+					GEORDI
+			A VISOR.
+
+					RASMUSSEN
+			VISOR, right. I have a picture
+			of you in my office wearing that.
+			How do you like it?
+
+					GEORDI
+				("when's this guy gonna
+				 shut up?")
+			It allows me to see... I like it
+			fine.
+
+					RASMUSSEN
+			You know, Homer was blind... and
+			Milton. Bach, Monet, Wonder...
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   22.
+
+18   CONTINUED: (3)
+
+					GEORDI
+				(walking into
+				 engineering)
+			A fly on the wall, eh?
+
+	Rasmussen picks up a small PADD and innocently drops it
+	into his pocket. He follows Geordi.
+
+					RASMUSSEN
+				(amiably)
+			A fly on the wall.
+
+	Geordi has rejoined Data at the pool table.
+
+					DATA
+			The computer has configured the
+			drilling pattern and specified
+			depths.
+
+					GEORDI
+				(taps insignia)
+			Captain, we've got what we need.
+			I'm ready to transport to the
+			surface.
+
+					PICARD'S COM VOICE
+			We'll notify Doctor Moseley. Good
+			luck, Geordi.
+
+					GEORDI
+				(To Data and Rasmussen)
+			Gentlemen.
+
+	Geordi EXITS. Rasmussen looks as though the curtain is
+	about to go up.
+
+					RASMUSSEN
+				(to Data)
+			Who said these moments were any
+			less exciting when you know the
+			outcome?
+
+					DATA
+				(puzzled)
+			I know of no one who said that,
+			Professor.
+
+	Off Rasmussen's reaction we:
+
+									CUT TO:
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   23.
+
+19   EXT. PENTHARA IV - MATTE PAINTING (OPTICAL)
+
+	of the city. The dark clouds have worsened. It is
+	still snowing.
+
+20   INT. SCIENCE LAB
+
+	Geordi and Doctor Moseley are at a large bank of
+	monitoring equipment. The shrouded sky is visible
+	through windows. The snow continues. Geordi points
+	to a diagram.
+
+					GEORDI
+			The Enterprise will monitor the
+			CO2 concentrations at six
+			different altitudes. If all goes
+			well, it won't take more than
+			twenty bore sites.
+
+					MOSELEY
+			Let's hope all goes well.
+
+					GEORDI
+				(hits his com button)
+			La Forge to Commander Riker. How
+			are you doing?
+
+									INTERCUT:
+
+21   INT. MAIN BRIDGE
+
+	Picard, Riker, Worf, the Ensign and SUPERNUMERARIES
+	at their stations.
+
+					RIKER
+			We're ready when you are, Geordi.
+
+					GEORDI'S COM VOICE
+			All we need's an open channel
+			with Data.
+
+	Riker stands up, begins to pace.
+
+					RIKER
+			Open the channel, Mister Worf,
+			and prepare to fire at target one.
+
+					WORF
+			The computer has locked in phaser
+			depth calculations.
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   24.
+
+21   CONTINUED:
+
+					RIKER
+			Mister Data?
+
+					DATA'S COM VOICE
+			Ready, sir.
+
+	Riker looks to Picard, who nods.
+
+					RIKER
+			Fire.
+
+22   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as the beam leaves the ship.
+
+23   EXT. PENTHARA IV - MATTE PAINTING (OPTICAL)
+
+	as the beam bores into tundra. It is still snowing.
+	The beam stops and is immediately followed by another,
+	which hits a distance away.
+
+24   INT. ENGINEERING
+
+	Data at a console. Other supernumeraries working at
+	various stations.
+
+					DATA
+			Target one is emitting two
+			thousand cubic meters per second.
+			Target two, one thousand six
+			hundred.
+
+									INTERCUT:
+
+25   INT. SCIENCE LAB
+
+	as before.
+
+					MOSELEY
+			Surface wind patterns over targets
+			are stable.
+
+					GEORDI
+			You picking up anything at
+			altitude, Data?
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   25.
+
+25   CONTINUED:
+
+					DATA'S COM VOICE
+			CO2 concentrations remain
+			unchanged at upper elevations.
+
+26   EXT. PENTHARA IV - MATTE PAINTING (OPTICAL)
+
+	It is snowing. In the distance, a hole is being
+	drilled by the phaser. Then another. It ends and
+	suddenly a third hits very close to CAMERA.
+
+27   INT. MAIN BRIDGE
+
+	as before. Riker continues to pace. Rasmussen ENTERS.
+
+					RASMUSSEN
+			Have I missed much?
+
+	He walks into the command area and sits in Riker's
+	chair.
+
+					WORF
+			Target fourteen complete, sir.
+
+					RIKER
+			Data?
+
+					DATA'S COM VOICE
+			No change, Commander.
+
+	Riker turns, notices Rasmussen in his chair. He's not
+	pleased, but continues monitoring the situation at
+	hand.
+
+					RIKER
+			Winds, Geordi?
+
+					GEORDI'S COM VOICE
+			Holding steady, sir.
+
+	An alarm is heard.
+
+					WORF
+			The computer has stopped the
+			drilling.
+
+					RIKER
+			You should be getting something,
+			Data.
+
+   STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT TWO   26.
+
+28   INT. ENGINEERING
+
+	as before. A beep is heard from his console.
+
+					DATA
+				(pleased)
+			Elevated CO2 levels at twenty
+			kilometers.
+
+					GEORDI'S COM VOICE
+			Now you're talking. And we've
+			got some new temperatures coming in.
+
+29   INT. SCIENCE LAB
+
+	as before.
+
+					MOSELEY
+				(excited; reading his
+				 monitor)
+			All thermal monitoring stations
+			are reporting no further
+			temperature drops.
+
+					GEORDI
+				(equally excited)
+			Correction, Doctor. Two
+			equatorial stations are showing
+			slight increases.
+
+	Moseley sees it's working and turns to Geordi.
+
+					MOSELEY
+			Thank you.
+				(to com)
+			Thank you all. You've given us
+			what we need... time.
+
+30   INT. MAIN BRIDGE
+
+	as before. Rasmussen is still in Riker's chair.
+
+					PICARD
+			Glad we could help, Doctor. The
+			Enterprise will remain in orbit
+			and continue to monitor your
+			progress. Picard out.
+
+
+     STAR TREK: "A Matter of Time" - 9/20/91 - ACT TWO     27.
+
+30   CONTINUED:
+
+					RASMUSSEN
+				(quoting historically)
+			"You've given us what we need...
+			Time."
+
+					PICARD
+			Mister Worf, return to a
+			synchronous orbit.
+
+					WORF
+			Aye, sir.
+
+					RASMUSSEN
+			Very clever, Picard. And, well
+			done. We've always known how you
+			did it, but to experience the
+			moment, to witness the nuances...
+			it's indescribable.
+
+	Picard reacts. Rasmussen sits back and smiles.
+
+									FADE OUT.
+
+                        END OF ACT TWO                          
+
+    STAR TREK: "A Matter of Time" - 9/20/91 - ACT THREE    28.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+31   INT. SICKBAY
+
+	Beverly is running an instrument along A MALE PATIENT's
+	injured leg. At another station A BOY is being treated
+	by an N.D. NURSE. Troi stands with Beverly.
+
+					TROI
+			He's after more than a history
+			lesson. I can tell you that.
+
+					BEVERLY
+			What is it? What are you getting
+			from him?
+
+					TROI
+			I don't know. But it's like he's
+			trying to confuse us... misdirect
+			us somehow.
+
+	Rasmussen ENTERS.
+
+					RASMUSSEN
+			Well that certainly was exciting,
+			wasn't it?
+
+					BEVERLY
+			Professor. Is everything alright?
+			Are you well?
+
+					RASMUSSEN
+			Couldn't be better, thank you.
+			I just thought we might chat about
+			your questionnaire.
+				(to the prone patient)
+			Buck up, crewman, you're a credit
+			to that uniform.
+
+					TROI
+			I've got some things to take care
+			of.
+
+					RASMUSSEN
+			No, please Counselor. I would
+			very much appreciate your
+			remaining.
+
+	Troi remains. She obviously doesn't like this guy.
+
+    STAR TREK: "A Matter of Time" - 9/20/91 - ACT THREE    29.
+
+31   CONTINUED:
+
+					RASMUSSEN
+			Doctor, in response to my sixth
+			question, you spoke of a neural
+			stimulator. May I see one?
+
+					BEVERLY
+			I don't see why not.
+				(she finishes her
+				 treatment)
+			Give me a minute.
+
+	Beverly EXITS. Rasmussen and Troi walk slowly away
+	from the male patient.
+
+					RASMUSSEN
+				(to Troi)
+			You don't like me very much, do
+			you?
+
+					TROI
+			I don't dislike you, Professor.
+
+	They pass the nurse and child.
+
+					RASMUSSEN
+				(to child)
+			Keep your eyes wide, soldier.
+			You'll be telling your
+			grandchildren how you were there
+			at Penthara Four.
+				(back to Troi)
+			But you don't trust me. You
+			should, you know.
+
+					TROI
+			Should I?
+
+					RASMUSSEN
+			"Picard's empath won't trust you."
+			That's what they all said.
+
+					TROI
+			Picard's empath?
+
+					RASMUSSEN
+			We're not that unalike, you and
+			I. You possess a sense that is
+			foreign to the others. My
+			knowledge of the future is
+			similar. You know, some of my
+			best friends are empaths... they
+			trust me.
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT THREE  30.
+
+31   CONTINUED: (2)
+
+					TROI
+			Why would you care whether I trust
+			you or not?
+
+					RASMUSSEN
+			We're birds of a feather...
+			colleagues. We could learn a lot
+			from each other.
+
+					TROI
+			You're right... I don't trust you.
+
+	Beverly returns carrying a neural stimulator.
+
+					RASMUSSEN
+				(to Troi; a syrupy
+				 smile)
+			I knew you'd say that.
+
+					TROI
+				(returning the smile)
+			I'm sure you did.
+
+					BEVERLY
+				(handing the neural
+				 simulator to Rasmussen)
+			Well, it's nice to see you two
+			are finally getting along.
+
+					TROI
+				(holding back her
+				 sarcasm)
+			I really must be going.
+
+	As Troi EXITS, Beverly turns back to Rasmussen with a
+	warm smile. He returns the smile but seems a bit shy.
+	There's an awkward beat which ends when a NURSE hands
+	Beverly a PADD. Beverly punches something in and hands
+	it back to the nurse.
+
+					BEVERLY
+			Why don't you try a Berylite scan?
+			I'd be interested to see where
+			his micro-levels are.
+
+	The nurse nods and EXITS. Beverly turns back to
+	Rasmussen.
+
+					BEVERLY
+			So... what else can I show you?
+
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT THREE  31.
+
+31   CONTINUED: (3)
+
+					RASMUSSEN
+			You're a very curious woman.
+
+	Beverly reacts.
+
+					RASMUSSEN
+			No, no. I don't mean curious like
+			that. I mean you're curious...
+			curious about things. About
+			Berylite levels... about the
+			future.
+
+	They begin to walk back toward Beverly's office.
+
+					BEVERLY
+				(smiling)
+			Curiosity is why most of us are
+			out here, professor.
+
+					RASMUSSEN
+			I understand. But you're
+			different. More... vibrant.
+			More...
+
+	Rasmussen is fishing for a word.
+
+					BEVERLY
+			More vibrant. That's nice, I like
+			that.
+
+	They enter the vestibule outside Beverly's office.
+
+					RASMUSSEN
+			You know, whenever I... travel
+			back, I meet very interesting
+			people... men and women. But
+			never anyone who gave me thoughts
+			about not going home.
+
+	Beverly is genuinely flattered, a bit turned-on.
+
+					BEVERLY
+			You're not supposed to be
+			influencing the past, remember?
+			And I'm beginning to feel a
+			little... influenced. Anyway,
+			I'm old enough to be your great,
+			great, great, great, grandmother!
+
+	Rasmussen smiles warmly...
+
+									CUT TO:
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT THREE  32.
+
+32   INT. MAIN BRIDGE
+
+	Picard, Riker, Data, Worf, the Ensign and other
+	supernumeraries at their stations.
+
+					PICARD
+			What kind of questions did he have
+			for you, Number One?
+
+					RIKER
+			All he wanted to know about was
+			previous starships. What I
+			thought was innovative on the
+			last Enterprise or the one before
+			that. He said he wanted to see
+			how well we "grasped the
+			fundamentals."
+
+					DATA
+			His queries to me primarily
+			focused on Doctor Soong's...
+
+	An ALARM is heard.
+
+					WORF
+			Captain, I am detecting a massive
+			earthquake on the surface.
+
+	Another ALARM is heard. Riker moves to an aft station.
+
+					WORF
+				(continuing)
+			Two earthquakes, sir.
+
+					PICARD
+			Location?
+
+					DATA
+			Both epicenters are beneath the
+			two southernmost drill sites,
+			Captain.
+
+					PICARD
+			Is La Forge still down there?
+
+					WORF
+			Yes, sir.
+
+					PICARD
+			Find him.
+
+	Worf starts pushing buttons on his panel. Another
+	alarm is heard.
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT THREE  33.
+
+32   CONTINUED:
+
+					RIKER
+			We've also got some volcanic
+			activity... pretty severe.
+
+					PICARD
+			Magnify.
+
+33   ANGLE ON VIEWSCREEN (OPTICAL)
+
+	as the screen changes from a wider view of the planet
+	to a closer view, we see huge volcanic plumes rising
+	through the dense dust clouds.
+
+					GEORDI'S COM VOICE
+			La Forge here, Captain. Moseley
+			and I are on our way back to his
+			lab.
+
+					PICARD
+			Are you alright?
+
+					GEORDI'S COM VOICE
+			We're okay, but those were pretty
+			big, sir. If this was Earth, I'd
+			say around an eight or an eight
+			five on the Richter Scale. We're
+			starting to see some volcanic
+			plumes, Captain.
+
+	More alarms are heard.
+
+34   ANOTHER ANGLE
+
+					WORF
+			Two more eruptions, sir.
+
+					DATA
+			It is most likely that we
+			overestimated the geologic
+			stability around the CO2 pockets.
+
+					GEORDI'S COM VOICE
+			We're in the lab, sir.
+
+	Picard motions to Worf to put Geordi on the viewscreen.
+
+35   ANGLE TO INCLUDE VIEWSCREEN (OPTICAL)
+
+	and we see the interior of the lab. Everyone is busy
+	dealing with the emergency.
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT THREE  34.
+
+35   CONTINUED:
+
+					MOSELEY
+			We're fairly well quake-proofed
+			down here, Picard. It's the
+			volcanic dust I'm worried about.
+
+	Another jolt hits the lab.
+
+					PICARD
+				(to Moseley)
+			What about the dust?
+
+	Another jolt hits the lab.
+
+					GEORDI
+			The ash the volcanos are throwing
+			into the atmosphere is going to
+			compound the existing problem.
+			In a matter of days, there'll be
+			no sunlight getting through those
+			clouds.
+
+					MOSELEY
+			And no amount of CO2 is going to
+			help us then.
+
+					RIKER
+			Captain, look at this.
+
+	Picard walks quickly to the aft station. Riker points
+	to one of two maps on a monitor.
+
+					RIKER
+				(continuing)
+			These are the coordinates of the
+			eruptions, and these...
+
+	Riker points to the other map.
+
+					RIKER
+				(continuing)
+			... are the phaser drilling sites.
+
+	Riker presses a button and the two drawings overlap.
+	The points are nearly identical. Picard looks up at
+	Riker. Both men are aware of what has happened.
+
+					PICARD
+			The mantle is collapsing where
+			the pressure was released.
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT THREE  35.
+
+35   CONTINUED: (2)
+
+					GEORDI
+			Captain, Doctor Moseley and I have
+			a couple of ideas, but they're
+			going to take some time to sort
+			out.
+
+					PICARD
+			Sort them out, Commander.
+
+					GEORDI
+			Aye, sir.
+
+	The view of the lab is replaced by the shrouded planet
+	with multiple volcanic plumes now visible. Lightning
+	can be seen at the cloud tops.
+
+					RIKER
+				(looking at the screen)
+			We came here to help these people.
+
+					PICARD
+			And look what we've done.
+
+	Off Picard's reaction we:
+
+									CUT TO:
+
+36   EXT SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit.
+
+37   INT. CORRIDOR
+
+	Rasmussen walks by some crewmen and cheerfully nods.
+	He goes to Data's door, rings the bell. The door opens
+	and a bizarre cacophony of sounds almost overpowers
+	him.
+
+38   INT. DATA'S QUARTERS (OPTICAL)
+
+	Data is busy at his console.
+
+					RASMUSSEN
+				(shouting)
+			What in God's name is that?!
+
+					DATA
+				(shouting)
+			Music, Professor.
+
+  STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT THREE  36.
+
+38   CONTINUED:
+
+					RASMUSSEN
+				(shouting)
+			Music?
+
+					DATA
+				(shouting)
+			Yes, sir. Mozart's "Jupiter
+			symphony in G minor"; Bach's "Third
+			Brandenberg Concerto"; Beethoven's
+			"Symphony Number Nine, Second
+			Movement 'Molto Vivace'"; and "La
+			Donna e Mobile", from Verdi's
+			"Rigoletto".
+
+					RASMUSSEN
+				(shouting)
+			Could you thin it out a bit?
+
+					DATA
+			Computer, eliminate Program One.
+
+	One of the four compositions is silenced. Rasmussen
+	shakes his head.
+
+					DATA
+			Computer, eliminate Program Two.
+
+	Another program stops. Rasmussen shakes his head
+	again.
+
+					DATA
+			Computer, eliminate Program Three.
+
+	Only one is still playing. Rasmussen uses his finger
+	to suggest Data turn it down.
+
+					DATA
+			Computer, half volume.
+
+	The sound gets quieter and Rasmussen nods approval.
+
+					RASMUSSEN
+			How the hell can you listen to
+			four pieces of music at the same
+			time?
+
+					DATA
+			Actually, I am capable of
+			distinguishing over one hundred
+			fifty simultaneous compositions.
+					(MORE)
+
+ STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT THREE 36A.
+
+38   CONTINUED: (2)
+
+					DATA (cont'd)
+			But in order to analyze the
+			aesthetics, I try to limit myself
+			to ten or less.
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT THREE  37.
+
+38   CONTINUED: (2)
+
+					RASMUSSEN
+				(sarcastic)
+			Only four today?
+
+					DATA
+			I am assisting Commander La Forge
+			in the analysis of an extremely
+			complex calculation. It demands
+			a great deal of my concentration.
+
+					RASMUSSEN
+			I came to thank you for answering
+			my questions, though I probably
+			should have asked you to limit
+			yourself to fifty thousand words.
+
+					DATA
+			You did ask me to be thorough.
+
+					RASMUSSEN
+			I realize it's hard to believe,
+			Data, but very few records of
+			Doctor Soong's work survived to
+			the twenty-sixth century. It
+			would be invaluable to myself and
+			other historians if you could
+			provide us with some schematics.
+
+					DATA
+			Certainly, as soon as my work here
+			is completed.
+
+					RASMUSSEN
+			Just as long as it's before
+			oh-nine-hundred tomorrow. That's
+			when I'll be... heading back.
+
+					WORF'S COM VOICE
+			Bridge to Commander Data.
+
+					DATA
+			Yes, Worf.
+
+					WORF
+			Commander La Forge is hailing you
+			from the surface, sir.
+
+					DATA
+			Patch it through, please.
+
+    STAR TREK: "A Matter of Time" - 9/20/91 - ACT THREE    38.
+
+38   CONTINUED: (3)
+
+	Geordi appears on Data's MONITOR. As soon as Data
+	turns, Rasmussen takes a tricorder from the desk and,
+	almost inadvertantly, pockets it.
+
+					GEORDI
+			Have you rerun the phase reversal
+			figures, Data?
+
+					DATA
+			There were no errors, Geordi.
+			The variance must be no more than
+			point zero six terawatts.
+
+					GEORDI
+			I don't see any other choice.
+			We'll keep running the numbers
+			down here. You better inform the
+			captain... of the good news and
+			the bad news. La Forge out.
+
+	The monitor goes to black.
+
+					RASMUSSEN
+				(amused)
+			Which do you suppose he's going
+			to want to hear first?
+
+	Off Data's reaction we CUT TO:
+
+39   INT. READY ROOM
+
+	We open on CU of Picard. Data is there.
+
+					PICARD
+			The good news.
+
+					DATA
+			The motion of the dust has created
+			a great deal of electrostatic
+			energy in the upper atmosphere.
+			With a modified phaser blast, we
+			could create a shock-front that
+			would encircle the planet and
+			ionize the particles.
+
+					PICARD
+			That would be like striking a
+			spark in a room filled with gas.
+
+    STAR TREK: "A Matter of Time" - 9/20/91 - ACT THREE    39.
+
+39   CONTINUED:
+
+					DATA
+			With one exception, sir. The
+			particles would be converted
+			into a high-energy plasma which
+			our shields could absorb and
+			redirect harmlessly into space.
+
+					PICARD
+			Turn the Enterprise into a
+			lightning rod.
+
+					DATA
+			Precisely, sir.
+
+					PICARD
+			And what about the bad news, Data?
+
+					DATA
+			If our phaser discharge is off
+			by as little as point-zero-six
+			terawatts, it would cause a
+			cascading exothermal inversion.
+
+					PICARD
+			Meaning?
+
+					DATA
+			We would completely burn off the
+			planet's atmosphere.
+
+	Off Picard's reaction we:
+
+									FADE OUT.
+
+                       END OF ACT THREE                         
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FOUR  40.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+41   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit over the shrouded planet. The lightning
+	continues.
+
+					PICARD (V.O.)
+			Captain's log, supplemental.
+			While Doctor Moseley takes La
+			Forge's plan to the leaders of
+			the colony, I find myself weighing
+			the potential consequences of a
+			more philosophical issue.
+
+42   INT. READY ROOM
+
+	Picard is staring out the window deep in thought. The
+	door chimes.
+
+					PICARD
+				(not turning)
+			Come.
+
+	Rasmussen ENTERS. Picard continues to stare out the
+	window.
+
+					PICARD
+			I would imagine you know why I've
+			asked you here.
+
+					RASMUSSEN
+			I have a fairly good idea.
+
+					PICARD
+			I'm faced with a dilemma. There's
+			a planet beneath us that is slowly
+			turning to ice. If we don't do
+			something about it, I'm told that
+			within weeks, thousands, perhaps
+			tens of thousands, will die.
+
+					RASMUSSEN
+			That would be a shame.
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT FOUR  41.
+
+42   CONTINUED:
+
+					PICARD
+				(turning to Rasmussen)
+			Yes, it would. It would be quite
+			a shame.
+
+					RASMUSSEN
+			So what's your dilemma?
+
+					PICARD
+			Mister La Forge has a possible
+			solution. The margin of error
+			is extremely critical, but if it's
+			successful, there's no more
+			threat.
+
+					RASMUSSEN
+			And if it's not successful?
+
+					PICARD
+			Every living thing on the planet
+			will perish.
+
+					RASMUSSEN
+			So... do nothing and thousands
+			will die. Do something and
+			millions could die. Tough choice.
+
+					PICARD
+				(speaking hypothetically
+				 -- he's not asking)
+			Not if you were to help me.
+
+					RASMUSSEN
+			You're not suggesting I tell you
+			the outcome of your efforts?
+
+					PICARD
+			No, I'm not. Everything Starfleet
+			stands for, everything I've ever
+			believed in, tells me I can't
+			ask you that.
+				(pause)
+			But at the same time, there are
+			twenty million lives down there,
+			and you know what happened to
+			them... what will happen to them.
+
+					RASMUSSEN
+			So, it seems you have another
+			dilemma. One that questions your
+			convictions.
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT FOUR  42.
+
+42   CONTINUED: (2)
+
+					PICARD
+			I have never been afraid to
+			reevaluate my convictions,
+			Professor. Right now, I have
+			twenty million reasons to do so.
+
+					RASMUSSEN
+			And why did you ask to see me?
+
+					PICARD
+			Your presence potentially gives
+			me access to a kind of information
+			that was never available to me
+			before. An additional tool, a
+			new weapon in my armory... you,
+			Professor. If I'm going to
+			reexamine my beliefs, I must
+			take advantage of every possible
+			asset. It would be irresponsible
+			of me not to have you here.
+
+					RASMUSSEN
+			However you come to terms with
+			your beliefs, Captain, I must
+			tell you I'm quite comfortable 
+			with mine.
+
+					PICARD
+			How can you be? How can you be
+			"comfortable" watching people die?
+
+					RASMUSSEN
+				(patronizing)
+			Let me put it this way. If I were
+			to tell you that none of those
+			people died, you'd easily conclude
+			that you tried your "solution"
+			and it succeeded. So, you'd
+			confidently try again. No harm
+			in that. But what if I were to
+			tell you they all died? What
+			then? Obviously, you'd decide not
+			to make the same mistake twice.
+			Now, what if one of those...
+
+					PICARD
+				(interrupting)
+			I know, Professor, "What if one
+			of those lives I save down there
+			is a child who grows up to be the
+			next Adolf Hitler or Khan Singh?"
+					(MORE)
+
+  STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT FOUR  43.
+
+42   CONTINUED: (3)
+
+					PICARD (cont'd)
+			First year philosophy students
+			have been asked that question ever
+			since the earliest wormholes were
+			discovered. But this is not a
+			class in temporal logic... It's
+			not hypothetical, it's real.
+			Can't you see that?
+
+					RASMUSSEN
+			I see it all too well. But you
+			must see that if I were to
+			influence you, everything in this
+			sector, in this quadrant of the
+			galaxy could change. History, my
+			history, would unfold in a way
+			other than it already has. Now
+			what possible incentive could
+			anyone offer me to allow that to
+			happen?
+
+					PICARD
+			I have two choices. Either way,
+			one version or another of history
+			will wend its way forward. The
+			history you know or another one.
+			Who's to say which is better?
+			All I know here, today, is that
+			one way, millions of lives could
+			be saved. Isn't that incentive
+			enough?
+
+					RASMUSSEN
+			Everyone dies, Captain. It's just
+			a question of when. All of those
+			people down there died years
+			before I was born. All of you
+			up here, as well. So you see,
+			I can't get quite as worked up
+			as you over the fate of some
+			colonists who, for me, have been
+			dead a long time.
+
+					PICARD
+			We have a Prime Directive,
+			Professor, which tells us we have
+			no right to interfere with the
+			natural evolution of alien worlds.
+					(MORE)
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT FOUR  44.
+
+42   CONTINUED: (4)
+
+					PICARD (cont'd)
+			But even though I am sworn to
+			uphold it, I have disregarded that
+			directive on more than one
+			occasion... When I knew it was
+			the right thing to do. If you
+			are holding true to some
+			"temporal" equivalent of that
+			directive, isn't there a
+			possibility that this is an
+			occasion for you to make an
+			exception, to help me choose...
+			because it's the right thing to
+			do?
+
+					RASMUSSEN
+			Are we just talking about a
+			choice? It sounds to me like
+			you're trying to manipulate the
+			future.
+
+					PICARD
+			Every choice we make allows us
+			to manipulate the future. Do I
+			ask Marie or Suzanne to the spring
+			dance? Do I take my holiday on
+			Tahiti or on Risa? A man's life,
+			his future, hinges on each of a
+			thousand choices. Living is
+			making choices.
+					(MORE)
+
+  STAR TREK: "A Matter of Time" - REV. 9/26/91 - ACT FOUR  45.
+
+42   CONTINUED: (5)
+
+					PICARD (cont'd)
+			Now you ask me to believe that
+			if I make a choice other than the
+			one found in your history books,
+			it could irreparably alter your
+			past! Well, perhaps I don't give
+			a damn about your past, Professor
+			Rasmussen. Because your past is
+			my future and as far as I'm
+			concerned, it hasn't been written
+			yet.
+
+					RIKER'S COM VOICE
+			Captain, the electrostatic
+			conditions are about as good as
+			they're going to get. If we're
+			going to try this, now's the time.
+
+	Picard turns to Rasmussen. A beat.
+
+	For a brief instant Rasmussen's guard drops. His
+	cockiness now has a trace of remorse.
+
+					RASMUSSEN
+			Please don't ask me, Captain.
+			I can't help you. I'm sorry.
+
+	After a long stare, Picard almost seems to smile. He
+	turns and EXITS. Rasmussen innocently returns the
+	smile and follows Picard onto the bridge. On his way
+	out, Rasmussen takes a small pile of isolinear chips
+	from a table. They disappear into his pocket.
+
+43   INT. MAIN BRIDGE
+
+	Picard ENTERS with Rasmussen following. Riker, Data,
+	Worf, the Ensign and supernumeraries at their stations.
+
+					PICARD
+				(to Riker)
+			How long will it take them to
+			program the phasers, Number One?
+
+					RIKER
+				(seeing Picard means
+				 business)
+			We just need to tie in Geordi's
+			atmospheric sensors.
+
+  STAR TREK: "A Matter of Time" - REV. 9/30/91 - ACT FOUR  45A.
+
+43   CONTINUED:
+
+					RASMUSSEN
+			So you've made your choice after
+			all... and without my help.
+
+					PICARD
+			Quite the contrary, Professor.
+			You've been quite helpful.
+
+					RASMUSSEN
+			How's that?
+
+					PICARD
+			By your refusing to assist me,
+			I'm left with the same choice I
+			began with; to try or not to
+			try... to run the risk or to play
+			it safe. But your arguments have
+			reminded me how precious the right
+			to choose can be... that right
+			or wrong, the choice is mine.
+			And since I've never been much
+			for playing it safe... I choose
+			to try.
+
+	Rasmussen smiles. Picard turns his back on him.
+
+					PICARD
+			Program the firing sequence,
+			Mister Data.
+
+					DATA
+			Aye, sir.
+
+	Off their reactions we:
+
+									FADE OUT.
+
+                        END OF ACT FOUR                         
+
+  STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE  46.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+44   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit over the shrouded planet. The ship is
+	oriented so the deflector dish is facing the surface.
+	The lightning has increased.
+
+					PICARD (V.O.)
+			Captain's log, stardate 45335.0.
+			Doctor Moseley has met with the
+			colony leaders, who all agree
+			they are willing to take the
+			risk.
+
+45   INT. MAIN BRIDGE
+
+	Picard, Riker, Data, Worf, the Ensign and other
+	supernumeraries, as before. Rasmussen sits in Troi's
+	chair.
+
+					WORF
+				(to Geordi on
+				 viewscreen)
+			Warp power is being rerouted to
+			the main deflector dish,
+			Commander.
+
+46   ANGLE ON VIEWSCREEN (OPTICAL)
+
+	where we see Geordi and Moseley working in the lab.
+	The snow is still falling heavily.
+
+					GEORDI
+			Keep the phasers on active surge
+			control, Worf. We're only going
+			to have one shot at this.
+
+47   RESUME SCENE (INTERCUT BRIDGE AND LAB AS NEEDED) -
+	(OPTICAL)
+
+	Rasmussen almost can't control himself.
+
+					RASMUSSEN
+			Well, this is it!
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      47.
+
+47   CONTINUED:
+
+					RIKER
+				(ignoring Rasmussen)
+			You have the sequence locked in,
+			Data?
+
+					DATA
+			Yes, sir. After an eight point
+			three second burst from the dish,
+			we will discharge all EPS taps
+			through the phasers.
+
+					PICARD
+			Geordi, it's time you return to
+			the ship.
+				(to com)
+			Mister O'Brien, prepare to
+			transport...
+
+					GEORDI
+			Excuse me, sir, but I can be a
+			lot more help down here. We've
+			got to compensate for the density
+			variations right up to the last
+			second.
+
+	Picard looks questioningly at Data.
+
+					DATA
+			Doctor Moseley's computers can
+			accomplish the same task, sir.
+			But Commander La Forge would be
+			better able to anticipate
+			unexpected variances.
+
+					PICARD
+				(looking at the screen)
+			Geordi, you know better than
+			anyone that there's no guarantee
+			this is going to work. And if
+			it fails...
+
+					GEORDI
+			There's no guarantee it's going
+			to fail, Captain. I'd like your
+			permission to remain on the
+			surface.
+
+	Picard looks at Riker. A beat.
+
+					PICARD
+			Permission granted.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      48.
+
+47   CONTINUED: (2)
+
+					RASMUSSEN
+				(like a well-known fact)
+			La Forge remained below.
+
+					PICARD
+			Good luck, Commander.
+
+					GEORDI
+			Thank you, sir.
+
+	The viewscreen switches to an image of the planet.
+	Continuous lightning flashes through the dark clouds
+	and volcanic plumes.
+
+48   OMITTED
+
+49   ANOTHER ANGLE
+
+	we hear a few beeps coming from Data's console.
+
+					DATA
+			The deflector dish has been
+			reconfigured, Captain.
+
+	Picard realizes the time has come. After a beat he
+	nods to Riker, who takes over.
+
+					RIKER
+			Proceed, Mister Data.
+
+					DATA
+			Stand by for auto-phaser interlock.
+			Activating deflector beam.
+
+	Data pushes a button.
+
+50   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	Five parallel white beams shoot out from the deflector
+	dish.
+
+51   EXT. SPACE - PENTHARA IV (OPTICAL)
+
+	as the beams partially disperse when they reach the
+	upper dust clouds.
+
+         STAR TREK: "A Matter of Time" - 9/20/91 - ACT FIVE         49.
+
+52   INT. MAIN BRIDGE
+
+	as before.
+
+					WORF
+			EPS taps are on-line.
+				(a beat)
+			Phasers firing.
+
+53   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	(NOTE: The following sequence of opticals will take
+	only ten-twelve seconds.) A thin orange beam fires
+	parallel to the others.
+
+54   EXT. SPACE - PENTHARA IV (OPTICAL)
+
+	The phaser beam hits the spot where the other beams
+	meet the cloud tops. A beat.
+
+	An enormous EXPLOSION far below us. The orange glow
+	spreads in all directions and quickly begins to envelop
+	the clouded atmosphere.
+
+	A few seconds later, as soon as the fiery orange
+	curtain has encapsulated the planet, a series of
+	glowing blue "fingers" spread from the far side toward
+	the point where the phaser originally hit. The blue
+	explosions are replacing the orange ones.
+
+	As the final streak of blue "glow" replaces the last
+	visible area of orange, a pillar of blue light forms
+	and streaks toward the Enterprise.
+
+55   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	as the blue energy beam makes contact, enveloping the
+	ship.
+
+56   INT. MAIN BRIDGE
+
+	The bridge is vibrating and a huge roar is heard.
+	Everyone is understandably tense.
+
+					DATA
+			Activating shield invertors...
+			now!
+
+	Data hits a button.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      50.
+
+57   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The blue light, which continues to envelop the planet
+	below, is still being drawn to the Enterprise in the
+	form of a thin beam, enveloping the ship, as well.
+
+	The glowing ship rotates 180 degrees and an even
+	brighter blue beam appears from the deflector dish.
+	As it discharges out into space we see the glow on the
+	planet begin to dissipate as if it were being sucked
+	up through the beam reaching toward the ship, and then
+	off into deep space.
+
+	It's over in seconds. The pillar of light from the
+	planet vanishes as the last of the energy is deflected
+	through the dish.
+
+58   INT. MAIN BRIDGE
+
+	The last reminders of the huge vibrations and noise
+	echo into silence. All is still.
+
+59   ANGLE ON VIEWSCREEN (OPTICAL)
+
+	the now cloudless planet is visible. A few smaller
+	volcanic plumes can be seen.
+
+60   RESUME
+
+	Picard looks to Riker and then to Data.
+
+					PICARD
+				(tentatively)
+			Mister La Forge?
+
+	A beat.
+
+61   BACK TO VIEWSCREEN (OPTICAL)
+
+	as it switches to the science lab, where there's a
+	guarded optimism reflected in all the faces. The snow
+	has stopped.
+
+					GEORDI
+			La Forge here. Still breathing,
+			Captain.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      51.
+
+61   CONTINUED:
+
+					MOSELEY
+			Particulate levels are right where
+			they're supposed to be... and the
+			sun is shining!
+
+					GEORDI
+			You see, sir, I told you there
+			was nothing to worry about.
+
+					PICARD
+			Report back to the ship when
+			you're ready, Commander.
+				(to Moseley)
+			Doctor, we'll stay in orbit to
+			analyze the remaining volcanic
+			disturbances.
+				(smiling)
+			I think the best advice might be
+			to let them cool down on their
+			own.
+
+					MOSELEY
+			I'm getting in the habit of
+			thanking you, Picard.
+
+	Moseley touches a button and the screen returns to
+	the view of the cloudless planet.
+
+	Rasmussen stands and approaches Picard.
+
+					RASMUSSEN
+			Well, I'd love to see more, but
+			it's nearly time for me to go.
+			I'm tickled pink to have had the
+			opportunity of witnessing this,
+			Picard.
+				(patronizing)
+			And you did it all without any
+			help.
+
+	Rasmussen opens a ring on one of his fingers and looks
+	inside.
+
+					RASMUSSEN
+				(continuing)
+			I must run. I've got some packing
+			to do.
+				(as he passes Riker)
+			You know, you're taller in person.
+
+	As Rasmussen EXITS, Picard turns to Worf and nods.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      52.
+
+62
+thru	OMITTED
+63
+
+64   EXT. SPACE - THE ENTERPRISE - OPTICAL
+
+	in orbit around the planet.
+
+65   INT. SHUTTLEBAY (OPTICAL)
+
+	Rasmussen, his valise over a shoulder, ENTERS to find
+	Picard, Beverly, Riker, Worf, and Data by his vessel.
+	An N.D. SECURITY GUARD stands nearby.
+
+					RASMUSSEN
+			Would you look at this. Who would
+			have suspected a teary farewell?
+
+					PICARD
+			I'm afraid we're going to have
+			to take a look in your vessel,
+			Professor.
+
+					RASMUSSEN
+				(they just don't get
+				 it)
+			Curious till the end, eh, Captain?
+
+	Picard remains stern-faced.
+
+					RASMUSSEN
+				(continuing)
+			You can't be serious, Picard.
+			We've been through this more than
+			once and I...
+
+					PICARD
+			A number of objects have turned
+			up missing in the last few days.
+			If they are in your possession,
+			I would like them returned.
+
+					RASMUSSEN
+			I'm not here in search of relics.
+
+	Rasmussen opens his ring again, looks in and starts
+	toward his ship.
+
+					RASMUSSEN
+				(continuing)
+			I'm sure they'll turn up.
+
+	Worf blocks his way.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      53.
+
+65   CONTINUED:
+
+					WORF
+			If you will not open the vessel,
+			I will... with explosives, if
+			necessary.
+
+					RASMUSSEN
+				(defiant)
+			I doubt you have the means.
+
+					RIKER
+			If we don't get in that thing,
+			I guarantee you won't either.
+
+	Rasmussen shows the first signs of panic. But it
+	vanishes and he smiles.
+
+					RASMUSSEN
+				(to Picard)
+			Considering the sensitive nature
+			of my equipment, I think you'll
+			understand if I request that only
+			Mister Data be allowed to see it.
+
+					RIKER
+			Why Data?
+
+					PICARD
+				(understanding)
+			Because if I order Data never to
+			divulge what he sees in there,
+			he won't.
+				(to Data)
+			With the exception of anything
+			that might belong to us.
+
+					DATA
+			Understood, sir.
+
+	Rasmussen smiles and leads Data toward the craft.
+
+					RASMUSSEN
+			Back in a minute.
+
+	Rasmussen presses the back of his hand and then his
+	palm against a specific point on the vessel and a door
+	APPEARS and OPENS. He enters followed by Data, who
+	glances back at Picard a beat before the door REAPPEARS
+	and CLOSES. Worf, Beverly, Picard and Riker look at
+	each other.
+
+         STAR TREK: "A Matter of Time" - 9/20/91 - ACT FIVE         54.
+
+66   INT. VESSEL
+
+	The vessel's interior, similar to its exterior, is
+	truly futuristic, with multifaceted panels containing
+	minimal blinkies. As Data ENTERS, he immediately
+	notices two large collector trays.
+
+	Normally slid into a rack, the trays are exposed and
+	filled with objects stolen from the Enterprise: two
+	tricorders, a neural stimulator, a hypospray and
+	bioscanner, one of Geordi's visors, PADDS, a small desk
+	top viewer, a Klingon knife, piles of isolinear chips
+	and other computer chips, palm beacons, even bar
+	glasses and silverware from Ten Forward, and various
+	other whatsits from here and there. Data examines the
+	loot and turns to Rasmussen.
+
+					DATA
+			I do not believe any of these
+			items belong to you, Professor.
+
+	Rasmussen raises a phaser at Data.
+
+					RASMUSSEN
+			Nor does this!
+
+	Data stands very still.
+
+					RASMUSSEN
+				(continuing)
+			This phaser is set at the highest
+			stun setting. If I'm correct,
+			that is sufficient to immobilize
+			even you.
+
+					DATA
+			Do you plan to put these objects
+			into a museum?
+
+					RASMUSSEN
+			They're far too valuable for that.
+			You see, in the century I come
+			from, they haven't even been
+			invented yet.
+
+	Data looks at the ship's futuristic design.
+
+					DATA
+			But this vessel... ? And the
+			temporal distortion that coincided
+			with your arrival?
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      55.
+
+66   CONTINUED:
+
+					RASMUSSEN
+			Oh, this is a time-pod. And it
+			is from the twenty-sixth
+			century... at least that's what
+			the poor fellow said. You see,
+			he decided to travel back to the
+			twenty-second century... that's
+			my time, and he had the misfortune
+			of meeting me... His clothes
+			fit quite well, don't you think?
+				(gesturing to the pod)
+			Took me weeks to figure out how
+			to work this thing.
+
+					DATA
+			You are not an historian?
+
+					RASMUSSEN
+			More of an inventor. Up till a
+			few weeks ago, a dismally
+			unsuccessful one.
+
+					DATA
+			What are your intentions, now?
+
+					RASMUSSEN
+			Well, thanks to your captain, it
+			seems my intentions have changed
+			slightly.
+
+	He points to the trays.
+
+					RASMUSSEN
+				(continuing)
+			I was quite content with the
+			notion of returning with those
+			trinkets. I'd "invent" about one
+			a year. But now, look what
+			fortune has graced me with...
+				(pointing toward Data)
+			You will take a little longer to
+			figure out than a tricorder, but
+			it should be well worth the
+			effort.
+
+	He checks his ring.
+
+					RASMUSSEN
+				(continuing)
+			If the auto-timer is programmed
+			the way I think it is...
+					(MORE)
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      56.
+
+66   CONTINUED: (2)
+
+					RASMUSSEN (cont'd)
+			in about two minutes we'll be on
+			our way back to a place called
+			New Jersey... I'm afraid you
+			won't be awake for the ride.
+
+	Rasmussen aims the phaser at Data and tries to fire,
+	but it only makes a lame noise. Panicked, he readjusts
+	and fires again... nothing.
+
+					DATA
+			I assume your hand print will open
+			the door whether you are conscious
+			or not.
+
+	Off Rasmussen's look, we CUT TO:
+
+67   INT. SHUTTLEBAY - (OPTICAL)
+
+	Picard, Beverly, Riker, Worf, and an N.D. Security
+	guard, as before. The vessel door opens and Rasmussen
+	exits, closely followed by Data, who now carries the
+	phaser.
+
+					RASMUSSEN
+				(disgusted)
+			That weapon was working yesterday.
+
+					DATA
+				(to Picard, handing him
+				 the phaser)
+			You were correct to suspect him,
+			sir. But he is from the past,
+			not the future.
+
+	Picard reacts to what Data says and turns to Rasmussen.
+
+					PICARD
+				(mimicking Rasmussen
+				 in Act Four)
+			Trying to make my history unfold
+			in a way other than it already
+			has, Professor?
+
+					RASMUSSEN
+			This was all a misunderstanding,
+			Picard. Just let me back in there
+			and we'll forget the whole thing.
+
+         STAR TREK: "A Matter of Time" - 9/20/91 - ACT FIVE         57.
+
+67   CONTINUED:
+
+					PICARD
+				(still mimicking)
+			Now what possible incentive could
+			anyone offer me to allow that?
+
+					DATA
+				(to Riker)
+			I believe you will find all the
+			missing items in the vessel, sir.
+
+	Riker nods to Worf who acknowledges and heads into the
+	vessel. Rasmussen turns to Beverly with a desperate,
+	pleading look.
+
+					RASMUSSEN
+			Doctor...
+
+					BEVERLY
+				(ice)
+			A very nice performance.
+
+					RASMUSSEN
+				(a touch of remorse)
+			Not all of it. Some of it was
+			real.
+
+	Beverly's cold stare tells him he's wasting his time.
+	He checks his ring and turns toward Picard, panicky.
+
+					RASMUSSEN
+			Captain...
+
+					DATA
+			He claims to be a twenty-second
+			century inventor, sir.
+
+					PICARD
+				(it's all coming into
+				 focus)
+			Well, it's too bad you weren't
+			a bit more inventive. If fewer
+			things had disappeared, we might
+			not have suspected you. As it
+			was, our only stumbling block was
+			your vessel. Our sensors couldn't
+			penetrate it.
+
+	Worf climbs out of the pod carrying the two trays.
+
+       STAR TREK: "A Matter of Time" - REV. 9/25/91 - ACT FIVE      58.
+
+67   CONTINUED: (2)
+
+					PICARD
+				(continuing)
+			But as soon as the door opened,
+			our computer was able to detect
+			and deactivate everything you'd
+			stolen...
+				(holding up the phaser)
+			... including this.
+
+	Picard drops it onto the top tray as Worf passes him.
+	Worf hands the trays to the N.D. security guard.
+
+					RASMUSSEN
+			I'd love to hear more, Picard,
+			but I really must get back in that
+			pod.
+
+	Rasmussen heads for the vessel, but is stopped by Worf.
+	Picard looks to Riker.
+
+					RIKER
+			Take him to a detention cell,
+			Mister Worf. And notify Starfleet
+			that we'll be dropping him off
+			at Starbase Two-one-four.
+
+					RASMUSSEN
+				(panicking, struggling)
+			You can't do this... I've got
+			to get back... I don't belong
+			here.
+
+	The tiny ship suddenly GLOWS, SHIMMERS, and DISAPPEARS.
+	Rasmussen can't believe it.
+
+					RASMUSSEN
+			No!
+
+	Worf walks him toward the exit.
+
+					PICARD
+			I'm sure there are more than a
+			few legitimate historians at
+			Starfleet who will be quite eager
+			to meet a Human from your era.
+
+	Worf and Rasmussen reach the exit.
+
+					PICARD
+				(continuing)
+			Oh, and Professor...
+
+         STAR TREK: "A Matter of Time" - 9/20/91 - ACT FIVE         59.
+
+67   CONTINUED: (3)
+
+	Rasmussen stops and turns.
+
+					PICARD
+				(continuing)
+			Welcome to the twenty-fourth
+			century.
+
+	Worf and Rasmussen EXIT. Off reactions, we CUT TO:
+
+68   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit of Penthara IV.
+
+									FADE OUT.
+
+                        END OF ACT FIVE                         
+

@@ -1,0 +1,6757 @@
+
+          STAR TREK: "Interface" - REV. 07/20/93 - ACT FIVE        59B.
+
+	GEORDI'S DIALOGUE - PAGE 55, SCENE 72
+
+					GEORDI
+			You're trapped?
+
+	A long beat as he listens.
+
+					GEORDI
+				(continuing)
+			Caught on the ship...
+
+	Another long beat.
+
+					GEORDI
+				(continuing)
+			You killed the Raman's crew?
+
+					GEORDI
+				(continuing)
+			What do you want?
+
+
+
+
+
+
+
+
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                       "Gambit, Part I" 
+                          #40277-256 
+                              
+                           Story by 
+                      Christopher Hatton 
+                              and 
+                         Naren Shankar 
+                              
+                          Teleplay by 
+                         Naren Shankar 
+                              
+                          Directed by 
+                        Peter Lauritson 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+
+                        JULY 26, 1993
+
+         STAR TREK: "Gambit, Part I" - 07/26/93 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part I" 
+
+                             CAST                               
+                              
+                PICARD             BARAN
+                RIKER              BARTENDER
+                DATA               CHEKOTE
+                BEVERLY            GIUSTI
+                TROI               NARIK
+                WORF               SANDERS
+                GEORDI             TALLERA
+                COMPUTER VOICE     VEKOR
+                                   YRANAC
+                                   TRANSPORTER CHIEF (V.O.)
+
+                Non-Speaking       Non-Speaking
+                  N.D. SECURITY      N.D. BAR PATRONS
+                  N.D. CREWMEMBERS   
+
+         STAR TREK: "Gambit, Part I" - 07/26/93 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part I" 
+                       
+                             SETS 
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              BRIDGE
+              READY ROOM               MERCENARY SHIP
+              RIKER'S QUARTERS
+              OBSERVATION LOUNGE       PLANET SURFACE -
+              SICKBAY                    CLEARING
+              YRANAC'S QUARTERS
+          
+            DESSICA TWO
+              BAR
+          
+            MERCENARY SHIP
+              BRIDGE
+              RIKER'S QUARTERS
+
+  STAR TREK: "Gambit, Part I" - 07/26/93 - PRONUNCIATION GUIDE 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part I" 
+                         
+                      PRONUNCIATION GUIDE 
+
+                  BARAN           buh-RAN
+                  BARRADAS        buh-RAD-us
+                  DEBRUNE         deh-BROON
+                  DESSICAN        DESS-i-kan
+                  GIUSTI          JOOS-tee
+                  GLYPH           GLIFF
+                  NAFIR           nah-FEAR
+                  NARIK           NAH-rick
+                  SAKETHAN        suh-KETH-en
+                  TALLERA         ta-LARE-uh
+                  VEKOR           veh-KORE
+                  YADALLA         yuh-DOLL-uh
+                  YRANAC          yuh-RAN-ick
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       1.
+
+                STAR TREK: THE NEXT GENERATION                  
+                      "Gambit, Part I"                            
+                            TEASER                              
+
+	FADE IN:
+
+1    INT. A BAR
+
+	It's a rough, wretched watering-hole, just the kind of
+	place you'd expect on a frontier world at the edge of
+	Federation space. The patrons are a hard and nasty
+	bunch -- if you're looking for trouble, this is a good
+	place to find it.
+
+2    TROI
+
+	is at the counter, speaking with the BARTENDER, a
+	large, intimidating male alien. Deanna is not in
+	uniform and instead is wearing clothes that look
+	perfectly normal in this place.
+
+	There's a teasing, insouciant quality to Troi -- the
+	bartender is attracted to her and she knows it; she's
+	using it.
+
+					BARTENDER
+			Tell me... why is it so important
+			that you find this man?
+
+	Troi smiles, hinting at mystery.
+
+					TROI
+			We had some business dealings...
+			he owes me money.
+
+					BARTENDER
+				(suggestively)
+			If we had business dealings, I can
+			tell you I wouldn't disappear...
+
+					TROI
+			Maybe we should discuss that
+			possibility. But first, I have to
+			find him... collect the money I'm
+			owed...
+
+					BARTENDER
+			Let me guess... you and your
+			friend were smuggling relics from
+			the ruins of Nafir...
+
+       STAR TREK: "Gambit, Part I" - 07/27/93 - TEASER       2.
+
+2    CONTINUED:
+
+					TROI
+				(maybe)
+			Mmmmmm...
+
+					BARTENDER
+			A dangerous game.
+
+					TROI
+			Maybe I like danger.
+
+	He eyes her for a moment, hoping that's an invitation.
+
+					BARTENDER
+			Then you've come to the right
+			place.
+				(leans toward her)
+			I'll be closing in a few hours.
+			Perhaps we can discuss this...
+			more privately.
+
+	Troi would rather have a tooth drilled, but she smiles
+	sweetly at him.
+
+					TROI
+			If I can't find him, I'll have to
+			move on. Are you sure you haven't
+			seen him?
+
+					BARTENDER
+			Human... two meters tall... smooth-headed...
+			no, I don't remember
+			anyone like that.
+
+	Troi eyes him.
+
+					TROI
+			You're lying...
+
+					BARTENDER
+			And you're Betazoid... I thought
+			so.
+
+	He leans in to her, speaks quietly.
+
+					BARTENDER
+			The people who come here count on
+			a certain amount of... anonymity.
+			If I started answering questions
+			about them... even to a very
+			beautiful woman... I wouldn't be
+			in business very long.
+
+	He sets another drink in front of her.
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       3.
+
+2    CONTINUED: (2)
+
+					BARTENDER
+			As a businesswoman, I'm sure you
+			understand.
+
+	And he moves off, leaving a frustrated Troi.
+
+3    RIKER
+
+	is in another part of the room. He is with a group of
+	people who are in a raucous, merry mood. He laughs
+	heartily with them, presumably at a tale that has just
+	been told, claps one of them on the back, and
+	withdraws.
+
+					RIKER
+			Great story... I'll have to
+			remember that the next time I'm in
+			a knife fight...
+
+	He turns to encounter WORF, and the two move aside and
+	talk quietly.
+
+					RIKER
+				(continuing)
+			Any luck?
+
+					WORF
+			I think the one over there knows
+			something.
+
+	Worf looks casually toward a table in the background,
+	and Riker's gaze follows.
+
+4    YRANAC - THEIR POV
+
+	A sleazy male Yridian sits alone at a table, sipping a
+	drink and watching the scene around him furtively.
+
+5    BACK TO SCENE
+
+					WORF
+			He wouldn't admit to having seen
+			the Captain... but he said that
+			anyone who visited the ruins of
+			Nafir would probably come here
+			eventually... I suspect he knows
+			more.
+
+					RIKER
+			Let's go.
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       4.
+
+5    CONTINUED:
+
+	Riker moves immediately toward the table; Worf tries to
+	tell him something.
+
+					WORF
+				(loud whisper)
+			Commander -- I told him --
+
+	But Riker is out of earshot. Worf follows him to the
+	table where Yranac is sitting. The man looks up a bit
+	nervously as they approach and sit with him.
+
+					RIKER
+			My friend here tells me you might
+			know about the man we're looking
+			for.
+
+	Yranac's eyes dart around the room, as though checking
+	to see if he's being observed.
+
+					YRANAC
+			The only reason I'm talking to
+			you... is that I have a sister,
+			too.
+
+	Riker glances at Worf, puzzled.
+
+					WORF
+				(covering for Riker)
+			I explained to him... that we are
+			looking for the man who
+			impregnated your sister.
+
+	There is a brief beat as Riker looks at Worf, stifling
+	his response (is that the best story you could come up
+	with?); then he turns back to Yranac.
+
+					RIKER
+			You can imagine how much this
+			means to me.
+
+					YRANAC
+			Family honor is important... If
+			someone had defiled my sister...
+			I would do anything... pay
+			anything... to find the one
+			responsible.
+
+	Yranac's message is clear: he's selling this
+	information.
+
+					RIKER
+			I see. And just how much would
+			"anything" be?
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       5.
+
+5    CONTINUED: (2)
+
+					YRANAC
+			As much as... five bars of goldpress
+			latinum.
+
+	But before Riker can respond, a hand snakes around
+	Yranac's neck, pulling him up and off the chair.
+
+					BARTENDER
+			I think you've had too much to
+			drink. You'd better leave.
+
+	The patrons in the immediate vicinity glance at the
+	incident, and move away slightly. They're used to
+	these unpleasantries and don't want to get involved.
+
+					BARTENDER
+			On your way, Yranac.
+
+	Suddenly a phaser comes into frame and presses against
+	the bartender's head.
+
+					BEVERLY'S VOICE
+			I'm sorry... but I think he wants
+			to stay.
+
+	The bartender flickers his eyes toward BEVERLY, who is
+	also dressed in local clothes, and who holds the
+	phaser. The bartender lets go of Yranac.
+
+					BEVERLY
+				(to Yranac)
+			Sit down.
+
+	Yranac does. Beverly keeps the phaser trained on the
+	bartender. Riker leans in to Yranac.
+
+					RIKER
+			This --
+				(gestures to Beverly)
+			-- is my sister.
+				(beat)
+			She's angry.
+				(beat)
+			She has a vicious temper. I
+			wouldn't cross her.
+
+	Troi joins them and positions herself on the other side
+	of Yranac.
+
+					BARTENDER
+			You talk and you're a dead man,
+			Yranac.
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       6.
+
+5    CONTINUED: (3)
+
+	Yranac looks from one to the other, assessing. To
+	Riker:
+
+					YRANAC
+			Perhaps there is an element of
+			risk here that I did not fully
+			appreciate.
+
+					WORF
+			And how much more latinum will it
+			take to offset that risk?
+
+					YRANAC
+			This isn't about latinum.
+				(spreads his hands)
+			As a man with a sister -- a sister
+			with a temper -- I can sympathize
+			with you. But...
+				(beat)
+			How did you come here? Do you
+			have a ship in orbit?
+
+					RIKER
+			Yes...
+
+					YRANAC
+			Then take me with you. You can
+			drop me anywhere you like.
+
+	Riker and Worf exchange a look.
+
+					RIKER
+			Agreed. Now talk.
+
+	Yranac takes a breath.
+
+					YRANAC
+			The man you're looking for was
+			here several weeks ago. There was
+			a group of aliens sitting at this
+			table... he was asking them
+			questions.
+
+					WORF
+			Who were these aliens?
+
+					YRANAC
+			I don't know. But they looked
+			dangerous.
+				(beat)
+			They attacked him. He managed to
+			incapacitate three of them before
+			he was knocked down.
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       7.
+
+5    CONTINUED: (4)
+
+	He points to the wall behind him.
+
+					YRANAC
+			He was thrown against that wall...
+			and fell there.
+
+	Yranac points to a spot on the floor near the wall.
+	Beverly hands the phaser to Troi, who keeps it trained
+	on the bartender. She pulls out a tricorder and scans
+	the wall and floor.
+
+					BEVERLY
+			I'm picking up some Starfleet
+			fiber traces... and human cellular
+			debris.
+
+					RIKER
+			Can you establish a DNA sequence?
+
+	Beverly taps a few commands into her tricorder; she
+	looks puzzled.
+
+					BEVERLY
+			There's something strange here.
+			The cell structures are badly
+			distorted. It looks as if they've
+			been exposed to some kind of high
+			energy field.
+
+					WORF
+			A weapon discharge?
+
+					BEVERLY
+			It could be. There are faint
+			traces of micro-crystalline damage
+			in the floor material. But I'm
+			not familiar with the pattern.
+
+	Yranac stares at her. He's realizing this group is
+	other than what they seem.
+
+					YRANAC
+			Who are you people?
+
+					RIKER
+			You didn't say anything about a
+			weapon.
+
+	Yranac is beginning to look a little nervous.
+
+       STAR TREK: "Gambit, Part I" - 07/26/93 - TEASER       8.
+
+5    CONTINUED: (5)
+
+					YRANAC
+				(quickly)
+			I hadn't finished yet. You'll
+			like this... the man got what was
+			coming to him. When they knocked
+			him down, one of them took out a
+			weapon... and fired.
+				(hoping this is wellreceived)
+			He was vaporized.
+
+	There's a moment of stunned silence. Yranac looks from
+	one to the other, anxiously awaiting their reaction.
+	Troi is staring intently at him. Then she turns to
+	Riker.
+
+					TROI
+			He's telling the truth.
+
+	Off their reactions...
+
+                                             FADE OUT.
+
+                         END OF TEASER                          
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      9.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+          (NOTE: Episode credits fall over opening scenes.)            
+
+6    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	in orbit.
+
+7    INT. SICKBAY
+
+	Beverly is staring at an OKUDAGRAM of a DNA sequence
+	displayed on the wall monitor. Riker ENTERS and
+	crosses to her.
+
+					RIKER
+			Doctor?
+
+	Beverly turns to him; her expression is grim.
+
+					BEVERLY
+			There's no question. It's Captain
+			Picard's DNA.
+
+	Riker is impassive, his expression unreadable, but it's
+	all Beverly can do to keep from breaking down. It's
+	hard for her to admit it to herself; she desperately
+	wants to find some indication she's wrong, but she
+	knows she isn't.
+
+					BEVERLY
+				(continuing)
+			I used a multi-base progression to
+			regenerate the DNA. The technique
+			is practically flawless...
+
+	She continues to give her report, attempting to
+	submerge her feelings in her work.
+
+					BEVERLY
+				(continuing)
+			The cellular damage could have
+			been caused by a variety of energy
+			fields... it's hard to be
+			specific. I can't tell whether it
+			was the field itself that killed
+			him or if he was already dead
+			when...
+
+	She trails off, unable to continue. Riker wants to
+	comfort her, but there isn't much to say.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT ONE   10.
+
+7    CONTINUED:
+
+					RIKER
+			I'll need your analysis for my
+			report to Starfleet.
+
+	She hands him a PADD.
+
+					BEVERLY
+			It's all here.
+
+					RIKER
+			Thank you.
+				(beat)
+			I'll inform the crew.
+
+	Riker EXITS. Beverly returns to her work, trying to
+	maintain her composure in the face of this tragedy.
+
+                                             CUT TO:
+
+8    INT. RIKER'S QUARTERS
+
+	Riker is working at his desk when door CHIMES.
+
+					RIKER
+			Come.
+
+	The DOOR OPENS and Troi ENTERS.
+
+					TROI
+			How are you doing?
+
+					RIKER
+			I'm all right.
+
+	The words are not convincing.
+
+					TROI
+			The crew is pretty shaken up...
+			I'm arranging a memorial
+			service... I think you should be
+			the one to deliver the eulogy.
+
+	There's a long beat before Riker answers.
+
+					RIKER
+			You'd be better at something like
+			that. Or Beverly. She knew him
+			the longest...
+
+	Troi knows he's avoiding.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      11.
+
+8    CONTINUED:
+
+					TROI
+			I know it won't be easy... but
+			it's important for all of us to
+			face what's happened. You're in
+			command now. The crew will be
+			looking to you for guidance --
+
+					RIKER
+			You don't understand. I can't
+			give the eulogy because I won't be
+			at the service.
+
+	Troi is surprised at the extent of his denial.
+	Carefully --
+
+					TROI
+			A memorial service helps to give
+			everyone a sense of completion.
+			Helps them begin the healing
+			process...
+
+					RIKER
+			That's exactly the point. I don't
+			want to heal.
+
+					TROI
+			Wil --
+
+	He touches his chest.
+
+					RIKER
+			I've got an open wound in here, it
+			hurts like hell, and I don't want
+			it to get better. I don't want to
+			believe that everything's all
+			right.
+
+					TROI
+			You're angry...
+
+					RIKER
+			You're damn right. And I intend
+			to stay angry -- until I find
+			whoever's responsible for the
+			Captain's death.
+
+	Troi's patience evaporates. She's hurting, too, and
+	her professional demeanor crumbles under the strain.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      12.
+
+8    CONTINUED: (2)
+
+					TROI
+			That's pretty selfish, Wil.
+				(a beat as Riker is
+				 taken aback)
+			Do you think you're the only one
+			in pain? That you have a monopoly
+			on loss? Well, I've got news for
+			you. We're all hurting... we're
+			all angry. And like it or not,
+			you've got a responsibility to the
+			crew. You can't just indulge your
+			personal desire for revenge.
+
+					RIKER
+				(harshly)
+			That's enough, Counselor.
+
+	They stare at each other, she still bristling, he
+	jolted by her anger and vehemence. He regrets his
+	attack.
+
+					RIKER
+				(continuing, softer)
+			I'm sorry.
+				(beat)
+			Deanna. This isn't about revenge.
+			It's about justice. The Captain
+			died in a bar fight... for
+			nothing. Somebody has to answer
+			for that.
+				(beat)
+			Then I can mourn.
+
+9    INT. BRIDGE
+
+	Riker is in the Captain's chair; Worf is at tactical.
+	Various N.D.s in the b.g. ENSIGN GIUSTI is at Ops.
+
+					WORF
+			Commander. We are receiving a
+			transmission from Admiral Chekote
+			at Starbase two-twenty-seven.
+
+					RIKER
+			Put it through to the Ready Room.
+
+					WORF
+			Aye, sir.
+
+	Riker EXITS to...
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      13.
+
+10   INT. READY ROOM (OPTICAL)
+
+	As Riker ENTERS, he stops; he stares at Picard's empty
+	desk for a brief moment, feeling everything it
+	represents... and then, decisively, he moves and sits
+	down -- there will be time to remember later.
+
+	He activates the desk terminal, and the image of
+	ADMIRAL CHEKOTE appears on the monitor.
+
+					RIKER
+			Sir.
+
+					CHEKOTE
+			I've read your report, Commander.
+			My condolences to you and your
+			crew. Captain Picard's death is
+			a loss to the entire Federation.
+				(beat)
+			I see you've asked to postpone
+			your mission to the Argus
+			sector... for what reason?
+
+					RIKER
+			I have a request, sir.
+				(beat)
+			I'd like to conduct an
+			investigation into Captain
+			Picard's death.
+
+					CHEKOTE
+			The Dessican authorities have
+			jurisdiction in this case,
+			Commander.
+
+					RIKER
+			I know that, sir. But frankly, I
+			don't have much confidence in the
+			authorities on Dessica Two.
+			There's every reason to believe
+			they're corrupt.
+
+					CHEKOTE
+			I suspect you're right. But the
+			question remains... are you the
+			one to pursue this?
+
+					RIKER
+			Sir, the Captain's death has hit
+			me pretty hard. I may not be
+			completely objective... but no one
+			is more determined than I am.
+					(MORE)
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      14.
+
+10   CONTINUED:
+
+					RIKER (Cont'd)
+			I won't quit until we find out
+			who's responsible.
+
+	A beat, then Chekote nods.
+
+					CHEKOTE
+			All right, Commander. I'm
+			officially placing the Enterprise
+			on detached duty. Your mission is
+			at your discretion. Good luck.
+
+					RIKER
+			Thank you, sir.
+
+	Off Riker's determined expression...
+
+11   INT. YRANAC'S QUARTERS
+
+	Riker ENTERS to find Yranac sitting at a table
+	surrounded by a huge assortment of food, eating
+	heartily. Riker is carrying a PADD.
+
+					YRANAC
+			Ah, Commander Riker. I've been
+			meaning to speak to you. I was
+			wondering if you could move me to
+			better quarters. I don't care
+			much for the decor here.
+
+					RIKER
+			These are the best quarters we
+			have.
+
+	Yranac shrugs and continues eating.
+
+					RIKER
+				(continuing)
+			Now that you've had some time to
+			relax, I was hoping you might have
+			remembered some details about the
+			aliens you saw... something you'd
+			forgotten earlier.
+
+					YRANAC
+			Sorry. My memory isn't what it
+			used to be.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      15.
+
+11   CONTINUED:
+
+	Riker suspects that Yranac knows more than he's
+	telling, but Yranac's being cagey -- he's protecting
+	every scrap of information he's got so he has something
+	to bargain with. Riker's task is to get him to admit
+	to as much as he can.
+
+					RIKER
+			You said the aliens looked
+			dangerous. How could you tell?
+
+					YRANAC
+			They killed someone. I'd say that
+			qualifies them as dangerous.
+
+					RIKER
+			But you said that you noticed they
+			looked dangerous before the fight
+			even started. What made you think
+			that? Were they unusually
+			aggressive... ? Were they heavily
+			armed... ?
+
+					YRANAC
+			I don't recall.
+
+					RIKER
+			They murdered a man in plain view
+			of everyone in that bar... and you
+			can't remember anything about
+			them?
+
+					YRANAC
+			Now that you mention it, I do
+			remember one thing...
+				(beat)
+			They said they'd kill anyone who
+			talked about what happened.
+
+					RIKER
+			But you offered to help us.
+
+	Yranac shrugs; he feels secure enough to admit this
+	much.
+
+					YRANAC
+			You're right. I saw a business
+			opportunity. And besides, they
+			were gone.
+
+					RIKER
+			Do you know where they went?
+
+	Yranac doesn't answer and instead simply smiles.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      16.
+
+11   CONTINUED: (2)
+
+					RIKER
+			You know who they are and you know
+			where I can find them.
+
+					YRANAC
+			Perhaps I do.
+
+					RIKER
+			What do you want?
+
+	Yranac thinks he's tantalized Riker enough.
+
+					YRANAC
+			Not a great deal, Commander. Just
+			a shuttlecraft. I believe I'd
+			like to travel for a while, see
+			more of the galaxy. You
+			understand.
+
+					RIKER
+			A shuttlecraft?
+				(beat; smiles)
+			Well, here's my offer. Instead of
+			a ship, I'm going to give you some
+			time.
+
+					YRANAC
+				(confused)
+			Time?
+
+					RIKER
+			If you're lucky, you'll only have
+			to spend the next five years in
+			prison instead of the next twenty.
+
+	Riker grabs Yranac by the front of the shirt and draws
+	him to within an inch of his face.
+
+					RIKER
+				(continuing)
+			You've got twelve outstanding
+			arrest warrants for fraud and
+			petty theft in the Klingon Empire.
+			If you tell me what you know, I'll
+			pull a few strings... maybe get
+			them to reduce your sentence after
+			you're extradited.
+
+	Yranac is in a full-blown panic.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      17.
+
+11   CONTINUED: (3)
+
+					YRANAC
+			You can't turn me over to the
+			Klingons. They don't just
+			imprison you... Do you know what
+			the punishment is for fraud?
+
+	Riker knows exactly what it is.
+
+					RIKER
+			Yes. I certainly do.
+
+	Yranac is terrified at the prospect, but he's still
+	trying to bargain his way out.
+
+					YRANAC
+			If I tell you what I know, you
+			must promise you won't give me to
+			the Klingons.
+
+					RIKER
+			I'll think about it.
+
+					YRANAC
+			Perhaps you could send me to a
+			Federation rehabilitation colony
+			instead.
+
+					RIKER
+			Talk!
+
+	Yranac slumps; he's played all his cards and he's lost.
+	His only chance now is to tell the truth.
+
+					YRANAC
+			The aliens were some kind of
+			mercenary group. They've been
+			operating in this sector for the
+			last six months.
+
+					RIKER
+			Where do we find them?
+
+					YRANAC
+			I heard one of them mention the
+			Barradas system... I think they
+			were headed there.
+
+					RIKER
+			You think?
+
+					YRANAC
+				(miserable)
+			That's all I know.
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT ONE      18.
+
+11   CONTINUED: (4)
+
+	Riker considers the information for a moment.
+
+					RIKER
+				(taps combadge)
+			Riker to Data.
+
+					DATA'S COM VOICE
+			Data here.
+
+					RIKER
+				(to combadge)
+			Take us out of orbit. Set course
+			for the Barradas system, warp six.
+
+	Riker fixes Yranac with a hard stare and EXITS.
+
+                                             FADE OUT.
+
+                        END OF ACT ONE                          
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT TWO      19.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+12   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	dropping out of warp.
+
+13   INT. OBSERVATION LOUNGE
+
+	Riker, Data, GEORDI, and Worf.
+
+					DATA
+			Barradas Three is the only M-class
+			planet in this system, and it is
+			listed as unpopulated. However,
+			sensors have detected intermittent
+			energy signals emanating from its
+			surface.
+
+					RIKER
+			What's the source?
+
+					GEORDI
+			The signals are difficult to
+			localize, but... they might be
+			emissions from some kind of power
+			converter...
+
+					WORF
+			Which could indicate a base or a
+			ship.
+
+					RIKER
+			What else do we know about
+			Barradas Three?
+
+					DATA
+			The planet was an outpost of the
+			Debrune approximately two thousand
+			years ago. The Federation
+			Archaeological survey has
+			catalogued numerous ruins on the
+			surface.
+
+	Riker considers for a beat.
+
+					RIKER
+			Mister Worf, I want a security
+			detail to accompany the Away Team
+			to the surface. I'll lead the
+			team. Geordi, you're with me...
+			Mister Data, you have the Bridge.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT TWO     19A.
+
+13   CONTINUED:
+
+					DATA
+			Aye, sir.
+
+	As far as Riker is concerned, the meeting's over; he
+	moves to leave and the others rise as well.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT TWO   20.
+
+13   CONTINUED: (2)
+
+					DATA
+			Sir.
+
+	Riker turns back to him.
+
+					DATA
+				(continuing)
+			As Acting First Officer, I must
+			question your decision to
+			accompany the Away Team. If
+			Captain Picard were here --
+
+					RIKER
+				(tightly)
+			He's not.
+
+					DATA
+			I realize that, sir. But if he
+			were, and he wanted to lead an
+			Away Team, you would tell him that
+			the Captain's place is --
+
+					RIKER
+			On the Bridge. I know.
+				(beat)
+			But not this time.
+
+	And he EXITS. Data accepts the dismissal.
+
+14   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	entering orbit around Barradas Three.
+
+15   OMITTED
+
+16   EXT. PLANET SURFACE - CLEARING - DAY
+
+	Riker, Geordi, Worf, and two Security Officers, N.D. #1
+	and N.D. #2, are in a large clearing. The forest has
+	encroached on a variety of simple ruins; however, in
+	several places through the site, there are strange
+	INDENTATIONS in the ground: smooth, circularly-shaped
+	holes which almost suggest that something was scooped
+	away.
+
+	Geordi, Worf and N.D. #1 are equipped with tricorders;
+	the entire team is armed with phasers.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT TWO   21.
+
+17   RIKER AND GEORDI
+
+	are standing together as Geordi scans the site; the
+	others continue working in the b.g.
+
+	Geordi works his tricorder with frustration; he's
+	having trouble getting clear readings.
+
+					GEORDI
+			It's tough to get accurate sensor
+			readings... there's a lot of
+			interference in the area.
+
+					RIKER
+			From what?
+
+					GEORDI
+			I'm not sure... it's unlocalized.
+			It could be atmospheric...
+
+					RIKER
+			What do you make of this?
+
+	Riker moves near one of the circular indentations in
+	the ground. Geordi kneels down and examines the ground
+	with his VISOR.
+
+					GEORDI
+			The ruins are ancient... but I'd
+			say this indentation was made
+			fairly recently...
+				(unconvinced)
+			There might have been a battle
+			here...
+
+	Riker looks at the indentation.
+
+					RIKER
+			It doesn't look like any blast
+			point I've ever seen... the shape
+			is too perfect.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT TWO   22.
+
+17   CONTINUED:
+
+					GEORDI
+				(surprised)
+			Sir, there's micro-crystalline
+			damage all through this area.
+			It's the same kind of pattern
+			Doctor Crusher picked up in the
+			floor of that bar on Dessica Two.
+
+					WORF (O.S.)
+			Commander...
+
+18   ANOTHER ANGLE - WORF (OPTICAL)
+
+	Worf is standing near the edge of the clearing with
+	N.D. #1. Riker and Geordi move to join them.
+
+					WORF
+				(continuing)
+			I have found something.
+
+	Worf points down at TWO ARTIFACTS which are lying in
+	the grass. There are no other ruins nearby, and the
+	artifacts look completely out of place where they are.
+	Riker stares at them, puzzled.
+
+					RIKER
+				(musing)
+			It almost looks as if someone...
+			dropped them --
+
+	Without warning, a PHASER BLAST hits N.D. #1 square in
+	the chest; he goes down instantly.
+
+	Geordi and Worf dive for safety behind some nearby
+	ruins; Riker and N.D. #2 are forced away from the
+	others in order to find cover.
+
+19   THE SCENE (OPTICAL)
+
+	The phaser fire came from the trees ahead of the Away
+	Team; as the action plays out, we will see the
+	attackers. They are a team of THREE ARMED MERCENARIES:
+	the leader, a Romulan female, TALLERA; a large,
+	intimidating alien female, VEKOR; and an alien male,
+	NARIK.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT TWO     22A.
+
+19   CONTINUED:
+
+	(Note: while their individual uniforms are different,
+	all the mercenaries have the same distinctive DEVICE
+	attached to their necks.)
+
+	Protected by covering fire, Tallera rushes out into the
+	clearing, grabs the two artifacts, and dives back into
+	cover.
+
+	Our people quickly return fire with their phasers, but
+	the mercenaries have us outgunned -- both halves of the
+	Away Team are pinned down.
+
+20   GEORDI
+
+	taps his combadge as we HEAR continuing fire.
+
+					GEORDI
+				(to com)
+			La Forge to Enterprise... we are
+			under attack...
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT TWO      23.
+
+21   INT. BRIDGE
+
+	Data is in command; Ensign Giusti is at Ops.
+
+					GEORDI'S COM VOICE
+			Repeat, we are under attack...
+
+	A loud blast of static bursts through the com.
+
+					GIUSTI
+			Commander, we've lost contact with
+			the Away Team.
+
+					DATA
+			Is there a malfunction?
+
+					GIUSTI
+				(checks console)
+			No, sir... the com system is being
+			jammed...
+
+					DATA
+			What is the source?
+
+					GIUSTI
+			Somewhere on the surface...
+
+	A beat as Data considers.
+
+					DATA
+			Bridge to Transporter Room Two.
+			Can you get a lock on the Away
+			Team?
+
+					TRANSPORTER CHIEF'S VOICE
+			Negative, sir. There's too much
+			interference.
+
+22   EXT. PLANET SURFACE - CLEARING - DAY (OPTICAL)
+
+	Riker is crouched low behind a rock with N.D. #2.
+	Riker indicates a clump of trees a short distance away.
+
+					RIKER
+			I'm going to try to reach those
+			trees. If I can get there, we
+			might be able to set up a
+			crossfire. Keep me covered...
+
+      STAR TREK: "Gambit, Part I" - 07/26/93 - ACT TWO      24.
+
+22   CONTINUED:
+
+	N.D. #2 nods... and then Riker makes a dash for the
+	trees, as a PHASER BLAST EXPLODES behind him -- he
+	catches part of the blast and he falls, unconscious.
+
+23
+thru	OMITTED
+26
+
+27   GEORDI AND WORF
+
+	quickly regroup, and joined by N.D. #2, the three
+	charge forward to try and get to Riker, but...
+
+28   TALLERA, NARIK, AND VEKOR (OPTICAL)
+
+	reach Riker first and surround him. An instant later,
+	the entire group DEMATERIALIZES. (Note: The
+	mercenaries' Transporter effect should be different
+	from our own.)
+
+	A second later, Geordi, Worf and N.D. #2 reach the spot --
+	but they're too late. Riker is gone -- the mercenaries
+	have captured him.
+
+                                             FADE OUT.
+
+                        END OF ACT TWO                          
+
+  STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT THREE  25.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+29   EXT. SURFACE - CLEARING - DAY (CONTINUOUS)
+
+	Geordi, Worf, and N.D. #2 are at the spot where Riker
+	and the mercenaries dematerialized seconds before.
+
+					DATA'S COM VOICE
+			Data to Away Team... please
+			respond...
+
+	Geordi reacts, surprised -- the com jamming has
+	stopped.
+
+					GEORDI
+				(to com)
+			Data, we've been attacked. We've
+			got one casualty... and Commander
+			Riker has been taken captive.
+
+					WORF
+				(to com)
+			Sir, the mercenaries have
+			transported away... they must have
+			a base or a ship nearby. Can you
+			locate anything on sensors?
+
+30   INT. BRIDGE
+
+	Data and Giusti as before.
+
+					GIUSTI
+				(off console)
+			Commander, we're picking up a
+			vessel leaving orbit...
+
+					DATA
+			Why was it not detected earlier?
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     26.
+
+30   CONTINUED:
+
+					GIUSTI
+				(off console)
+			They could have been using the
+			planet as a shield...
+				(urgently)
+			Sir, they are powering up their
+			weapon systems.
+
+					DATA
+			Raise shields. Red Alert.
+
+	The ship goes to red alert.
+
+31   EXT. SPACE - THE ENTERPRISE & THE MERCENARY SHIP
+	(OPTICAL)
+
+	As the sleek, dangerous-looking mercenary ship races
+	away from the planet, it fires on the Enterprise.
+
+32   INT. BRIDGE
+
+	as the SHIP SHAKES.
+
+					DATA
+			Damage report.
+
+					GIUSTI
+			Minor hit on the port deflector...
+			no damage.
+				(beat)
+			They're running, sir... their
+			speed is warp eight-point-seven
+			and holding. I think they're at
+			their maximum..
+
+					DATA
+			Take us to warp nine and pursue.
+			Lock phasers on target.
+
+					GIUSTI
+			Aye, sir... we should be within
+			phaser range in twenty-three
+			seconds.
+
+	A beat.
+					GIUSTI
+				(continuing)
+			Switching to long-range
+			scanners...
+					(MORE)
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     27.
+
+32   CONTINUED:
+
+					GIUSTI (Cont'd)
+				(off console, concerned)
+			Commander... the sensor image of
+			that ship is extremely weak...
+			it's fading...
+
+	Giusti works her console frantically for a beat... and
+	then she looks up.
+
+					GIUSTI
+				(continuing)
+			The ship doesn't register on the
+			long range sensors. I'm sorry,
+			sir... we've lost them.
+
+	Data reacts and moves to Ops.
+
+					DATA
+			Increase the sensor field
+			bandwidth. Patch in the lateral
+			sensor arrays to enhance
+			detection.
+
+					GIUSTI
+				(works console,
+				 frustrated)
+			It's no good... the signal's
+			gone... it just... disappeared.
+
+	Data reacts to the news, concerned. He considers for
+	a beat.
+
+					DATA
+			Plot a course and take us back to
+			Barradas Three. Notify the Away
+			Team to be ready for transport.
+
+	Off Data's concerned expression.
+
+33   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	back in orbit around Barradas Three.
+
+34   INT. OBSERVATION LOUNGE
+
+	Data, Troi, Geordi, and Worf. Data is standing near
+	the large monitor which is displaying a graphic of the
+	mercenary ship and other associated information.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     28.
+
+34   CONTINUED:
+
+					DATA
+			Starfleet Intelligence has
+			confirmed that a ship matching
+			this configuration has been linked
+			to raids on several other planets
+			in this sector.
+
+	Everyone is frustrated, but Geordi and Worf are
+	particularly restive; they're upset with what they
+	perceive to be their failure on the surface, and it's
+	difficult for them to sit patiently through Data's
+	careful, measured briefing.
+
+					DATA
+				(continuing)
+			For the short time it was within
+			our visual range, we were able to
+			take sensor readings of the
+			mercenary vessel.
+				(beat)
+			It appears to be encased in an
+			energy-absorbing material.
+			Although we can see the ship, this
+			energy sheath renders it virtually
+			undetectable to our long-range
+			sensors.
+
+					TROI
+			There must be some way to track
+			it.
+
+	Geordi consults a PADD in front of him.
+
+					GEORDI
+			Data, I know this is a long
+			shot... but if I remodulate the
+			long-range sensor array, I might
+			be able to increase its
+			sensitivity enough to detect the
+			ship.
+
+	Data is not convinced.
+
+					DATA
+			Without a full compositional
+			analysis of the energy sheath, the
+			chances of finding the correct
+			remodulation sequence are remote.
+				(beat)
+			Furthermore, based on their speed,
+			they could be as far as two-point-three-seven
+			light years from this
+			location.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     29.
+
+34   CONTINUED: (2)
+
+	Troi, Geordi, and Worf react; that's a lot of space to
+	search. But Worf is not ready to give up yet.
+
+					WORF
+			That means they must still be
+			within this sector. If we used
+			all available shuttlecraft to
+			conduct a level-one search --
+
+					DATA
+			It would still take at least ten
+			days to complete. In that time
+			the mercenaries would continue to
+			distance themselves from us.
+
+	Data's logic is relentless -- and a little irritating.
+
+					WORF
+				(frustrated)
+			Sir. They have taken Commander
+			Riker. We must do something. We
+			cannot just sit here.
+
+					DATA
+			On the contrary, Lieutenant, that
+			is precisely what we must do.
+
+	Data continues, unaware of the mounting frustration in
+	the room.
+
+					DATA
+				(continuing)
+			Since there are no viable
+			alternatives, we will return to
+			the surface and attempt to
+			determine what the mercenaries
+			were doing on this planet. An
+			investigation may reveal some
+			indication of their purpose.
+			Notify me when you have assembled
+			your search teams.
+				(beat)
+			Dismissed.
+
+	Data has made it very clear just who is in command.
+	The situation makes Troi, Geordi and Worf a little
+	uncomfortable, but they all know how to follow orders.
+	They EXIT unhappily. Off Data's determined expression.
+
+35   EXT. SPACE - THE MERCENARY SHIP (OPTICAL)
+
+	coming out of warp.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     30.
+
+36   INT. MERCENARY SHIP - BRIDGE
+
+	Tallera (the Romulan female we saw earlier) is leading
+	a groggy Riker across the room as he struggles
+	painfully back to consciousness. Riker's combadge is
+	gone and there is now a small patch-like device (like
+	all the other mercenaries wear) at the side of his
+	throat.
+
+	The mercenary bridge is sleek and spare with no wasted
+	space, just like everything on this ship. A large
+	Viewscreen dominates the forward section and there's a
+	small Transporter pad in one corner. The walls are
+	lined with consoles which are manned by various N.D.
+	MERCENARIES. The ALERT LIGHTS are active, and there is
+	a tense, urgent feeling on the bridge.
+
+	In the center of the bridge is a raised platform
+	encircled by a rail and a console. From here, the
+	Captain commands an unobstructed view of the entire
+	room. It should feel as though this ship and crew are
+	always ready for battle.
+
+	Tallera pushes Riker against the rail and stares at him
+	silently.
+
+	The mercenary captain, BARAN, stands on his platform.
+	He's a humanoid male alien, intelligent, muscular -- a
+	man to be reckoned with. Baran is wearing a small
+	CONTROL DEVICE at his belt.
+
+	Baran is engaged in a heated conversation with the
+	engineer, Narik, and for the moment, ignores Riker and
+	Tallera.
+
+					NARIK
+				(upset)
+			I warned you not to push the
+			engines so hard. Two of the power
+			shunts are on the verge of
+			collapse. We'll be lucky if we
+			can maintain warp six.
+
+					BARAN
+			How long will it take to repair?
+
+					NARIK
+			I can try to realign the warp
+			core... it'll take at least
+			eleven hours.
+				(beat)
+			But I'll have to shut the engines
+			down completely.
+
+	Baran fixes Narik with a hard look.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     31.
+
+36   CONTINUED:
+
+					BARAN
+			We're not stopping. We can't
+			afford to be sitting helpless in
+			space. I want warp eight
+			available in five hours. And I'm
+			not going to listen to your
+			excuses.
+
+	Narik glares angrily at Baran but does not dispute him.
+	He nods and moves to a console in the b.g. Baran then
+	turns and stares coldly at Riker.
+
+					BARAN
+			What were you doing on Barradas
+			Three?
+
+					RIKER
+				(all I'm saying)
+			William T. Riker, Commander, SC
+			two-three-one dash four-two-seven.
+
+	Baran cocks his head and regards him. Is he going to
+	play this silly game?
+
+					BARAN
+			All right. I am Arctus Baran...
+			and I don't have a number.
+				(beat)
+			Now. What were you doing on
+			Barradas Three -- Commander?
+
+					RIKER
+			We were studying the ruins. It
+			was a scientific expedition.
+
+					BARAN
+			Don't patronize me. Those ruins
+			have been studied for centuries.
+			There's nothing new to learn from
+			them.
+
+					RIKER
+			Then what were you doing there?
+
+	Baran smiles, acknowledging the riposte. Then he takes
+	the device at his belt and activates it. Riker sinks
+	to his knees, gasping, in tremendous pain.
+	Instinctively, he tries to pull the patch off his neck.
+
+					BARAN
+			Don't bother, Commander, you can't
+			remove it. It's a neural servo.
+			It's connected directly to your
+			nervous system.
+					(MORE)
+
+  STAR TREK: "Gambit, Part I" - REV. 07/30/93 - ACT THREE  32.
+
+36   CONTINUED: (2)
+
+					BARAN (Cont'd)
+			It lets me control precisely how
+			much pain you feel.
+				(beat)
+			This setting is usually
+			sufficient.
+				(beat)
+			However, if necessary it can go
+			much higher.
+
+	Baran lets Riker writhe in pain for a beat before he
+	shuts off the device. Riker's pain stops and he
+	groans, barely able to speak, exhausted by the ordeal.
+
+					BARAN
+			These devices were my
+			predecessor's idea... a convenient
+			way of enforcing discipline...
+
+					RIKER
+				(weakly)
+			What happened to him?
+
+					BARAN
+				(I got rid of him)
+			He failed to discipline me
+			sufficiently...
+
+	The female alien, Vekor, moves near the platform.
+
+					VEKOR
+			This is a waste of time, Baran.
+			Get rid of him now.
+
+					BARAN
+			You should be more patient, Vekor.
+			It can be rewarding.
+				(beat)
+			We will wait. Let the memory of
+			his pain argue with him for a
+			while... maybe it will change his
+			attitude.
+
+	Narik steps forward.
+
+					NARIK
+			Vekor's right -- we should get rid
+			of him. It's dangerous to have
+			someone from Starfleet on board.
+
+					BARAN
+			Dangerous? It might be
+			profitable. A Starfleet Commander
+			is a valuable hostage.
+
+  STAR TREK: "Gambit, Part I" - REV. 07/30/93 - ACT THREE  32A.
+
+36   CONTINUED: (3)
+
+					VEKOR
+			Starfleet won't negotiate with us.
+			But they'll pursue us as long as
+			we have him.
+
+	We're beginning to see that this crew is not just one
+	harmonious, happy team. Everyone is suspicious of the
+	others and everyone is looking out for himself first.
+
+	Baran presses his pain control briefly; Vekor cries out
+	and staggers back.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT THREE     33.
+
+36   CONTINUED: (3)
+
+					BARAN
+			This discussion is over, Vekor.
+			Return to your post.
+
+	But Vekor meets Baran's gaze and does not move. The
+	tension is building...
+
+					PICARD (O.S.)
+			They're right, Baran, and you know
+			it...
+
+	The group turns to see...
+
+37   PICARD
+
+	As he turns around from one of the consoles to face the
+	others. He's dressed like one of the mercenaries.
+
+					PICARD
+				(continuing)
+			I say kill him. Now.
+
+	Off Riker's stunned reaction.
+
+                                             FADE OUT.
+
+                       END OF ACT THREE                         
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR     34.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+38   INT. MERCENARY BRIDGE (CONTINUOUS)
+
+	Riker is completely stunned at the sight of Picard, but
+	he quickly controls himself -- before he says anything,
+	he has to figure out what's going on here.
+
+	Picard, however, doesn't even give Riker a second
+	glance; his attention is focused entirely on Baran.
+
+					PICARD
+				(re: Riker)
+			If he has nothing to give us, then
+			we should kill him now and be done
+			with it. Everyone seems to
+			recognize that fact except you.
+
+	Picard speaks harshly, with a violent edge that's only
+	barely restrained.
+
+					BARAN
+			I don't need a consensus to run
+			this ship, Galen.
+
+	This is not the first argument Baran and Picard have
+	had, and the hostility between the two men is evident.
+	Picard is about to respond when suddenly, the SHIP
+	SHUDDERS slightly and the LIGHTS DIM.
+
+					BARAN
+				(quickly)
+			What's going on?
+
+	Narik quickly moves to monitor one of the consoles in
+	the b.g.
+
+					NARIK
+			We're bypassing the aft plasma
+			couplings... the power loss should
+			only last a few seconds...
+
+	A short beat passes and the lights return to normal.
+	Baran returns his attention to Picard.
+
+					BARAN
+			You should learn not to limit your
+			options. Riker could be useful to
+			us in the future.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR     35.
+
+38   CONTINUED:
+
+					PICARD
+			He may not be as useful as you
+			think...
+
+	Picard moves toward Riker.
+
+					PICARD
+				(continuing)
+			... if this is the same Riker I've
+			heard about.
+
+	Riker is deeply confused; he doesn't know what Picard
+	is doing or how to react to it. For now, he's just got
+	to try and play along.
+
+					RIKER
+				(to Picard)
+			And which "Riker" is that?
+
+					PICARD
+			Commander of the Enterprise... ?
+			Formerly assigned to the USS
+			Hood... ?
+
+					RIKER
+			That's right.
+
+					PICARD
+			Then you must be the William T.
+			Riker with a history of
+			insubordination...
+
+	As Picard continues to speak, Riker begins to pick up
+	something in his tone and manner -- he senses where
+	Picard's going with this.
+
+					PICARD
+				(continuing)
+			He was even relieved of duty once,
+			during the Cardassian incident at
+			Minos Korva.
+
+	Picard's story has thrown Baran off balance.
+
+					BARAN
+				(to Picard)
+			How do you know all this?
+
+  STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FOUR  35A.
+
+38   CONTINUED: (2)
+
+					PICARD
+			I've been smuggling artifacts out
+			of Federation sites for years.
+			It's difficult to avoid developing
+			a... familiarity with certain
+			Starfleet personnel...
+
+	Picard turns directly to Riker.
+
+					PICARD
+				(taunting)
+			If we hadn't captured him, he
+			probably would've ended up in
+			front of a court martial.
+
+	By now, Riker understands what Picard has been trying
+	to set up, and he plays into it.
+
+					RIKER
+				(hard)
+			I've gotten out of them before.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR     36.
+
+38   CONTINUED: (3)
+
+	Baran looks thoughtfully at Riker.
+
+					PICARD
+				(to Baran)
+			He's no use to us. Finish him now
+			or let me do it for you.
+
+	But before Baran can reply, the SHIP SHUDDERS again.
+	For a moment, everyone thinks it's just Narik making
+	repairs like before... and then suddenly, the ship
+	LURCHES FORWARD, accelerating rapidly; the ALARM
+	KLAXONS sound.
+
+	Baran reacts, concerned; he shoves Riker toward an ND
+	Mercenary.
+
+					BARAN
+				(to ND)
+			Watch him.
+
+	The argument is quickly forgotten as Baran, Tallera,
+	Narik, Vekor, and Picard rush to the consoles. The
+	WHINE of the ship's engines begins to get louder...
+
+					BARAN
+				(to Narik, accusing)
+			What have you done?
+
+					NARIK
+			It has nothing to do with my
+			repairs...
+				(works console)
+			I think there's a malfunction in
+			the engine's intermix chamber...
+
+					VEKOR
+			We're accelerating...
+
+					TALLERA
+			Plasma pressure is rising...
+
+					BARAN
+			Where's the malfunction?
+
+					NARIK
+			It could be any one of thirty
+			subsystems. It'll take time to
+			locate...
+
+					TALLERA
+			I don't think you're going to have
+			the chance. Plasma pressure is
+			reaching critical levels...
+
+   STAR TREK: "Gambit, Part I" - REV. 07/28/93 - ACT FOUR   37.
+
+38   CONTINUED: (4)
+
+	The whine of the engines increases...
+
+					BARAN
+			Seal off the intermix chamber.
+
+					VEKOR
+				(works console)
+			I can't... the override sequence
+			won't engage...
+
+39   ANGLE ON PICARD
+
+	as he works his console.
+
+					PICARD
+			It's the antimatter flow
+			regulator... It's locked open...
+
+	As Baran rushes over to inspect Picard's panel, for a
+	brief moment, Picard manages to make eye contact with
+	Riker.
+
+40   RIKER
+
+	catches the glance -- what's Picard up to now?
+
+41   RESUME SCENE
+
+					TALLERA
+			Plasma pressure has exceeded
+			maximum levels... eight percent
+			above critical and rising.
+
+					NARIK
+			We have to jettison the core...
+
+					BARAN
+			No! We'll be stranded here --
+
+					PICARD
+			The flow regulator is frozen...
+
+	Riker catches Picard's eye for a moment -- and realizes
+	what's going on -- Picard has created the malfunction
+	specifically for Riker to fix.
+
+					RIKER
+			Let me do it.
+
+	Baran and the others react.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/28/93 - ACT FOUR   38.
+
+41   CONTINUED:
+
+					RIKER
+				(to Baran)
+			I've had a lot of experience with
+			these kinds of system failures...
+			I might be able to do something.
+
+					TALLERA
+			Plasma pressure is eleven percent
+			above critical... The containment
+			fields are beginning to degrade...
+
+	Baran really has no other option.
+
+					BARAN
+				(to Riker)
+			Go!
+
+	Riker rushes to Picard's console, works the commands,
+	and quickly studies the readout.
+
+					RIKER
+			It looks like you've got a control
+			logic lockout in the regulator
+			subsystem.
+
+	He begins to work the panel...
+
+					RIKER
+				(continuing)
+			I'm going to try to run an active
+			bypass through the plasma flow
+			convertor...
+
+	He pushes Narik towards another console.
+
+					RIKER
+				(continuing)
+			Start running a phase-locked
+			feedback through the regulator...
+			I'll need about a six second
+			delay...
+
+	Narik angrily shoves Riker away.
+
+					NARIK
+			I don't take orders from you.
+
+					BARAN
+			Do as he says!
+
+	Narik glares at Riker and begins to work his console.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/28/93 - ACT FOUR   39.
+
+41   CONTINUED: (2)
+
+					TALLERA
+			Plasma pressure is fourteen
+			percent above critical...
+
+	Riker moves to another station, OPENS A PANEL and
+	begins working inside it.
+
+					BARAN
+			If you fail--
+
+					RIKER
+				(cuts him off)
+			We'll all be dead anyway.
+				(beat, works)
+			Just a few more seconds...
+
+	Riker moves back to a console and makes a final
+	adjustment... The ship SHUDDERS briefly, and the whine
+	of the engines quickly drops back to normal.
+
+					TALLERA
+			Plasma pressure is dropping...
+				(beat)
+			We're back into safe levels.
+
+	There's a moment of relief.
+
+					RIKER
+				(to Baran)
+			If you want to make sure that
+			doesn't happen again, you'd better
+			re-initialize the regulator
+			subprocessors. A full diagnostic
+			on the intermix chamber wouldn't
+			hurt either.
+
+					BARAN
+				(to Narik and Vekor)
+			Do it.
+
+	Narik and Vekor nod and move away; Baran, Tallera, and
+	Picard are left with Riker.
+
+					BARAN
+				(to Tallera, re: Riker)
+			Put him in quarters for now.
+
+	Riker smiles confidently at Picard.
+
+					RIKER
+				(to Picard)
+			Still wish you'd killed me?
+
+	Picard glares at Riker but says nothing; then he EXITS.
+	Off Baran's thoughtful expression as Tallera leads
+	Riker away.
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR     40.
+
+42   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	still in orbit around Barradas Three.
+
+43   EXT. PLANET SURFACE - CLEARING (OPTICAL)
+
+	Data, Geordi, Worf, and an N.D. Security Team are
+	exploring the ruins and the site of the battle.
+
+44   DATA
+
+	is carefully studying one of the strange, circular
+	indentations in the ground as Worf and Geordi walk up
+	to him.
+
+					WORF
+			The search teams have reported in,
+			sir. They located several
+			archaeological sites. Each one
+			has been looted.
+
+	Geordi considers.
+
+					GEORDI
+			It's possible that the micro-crystalline
+			damage I found in
+			these indentations was the result
+			of some kind of high-energy
+			Transporter beam...
+				(beat)
+			... but I still don't understand.
+			There's nothing here that's
+			particularly valuable. Why would
+			anyone want to steal any of these
+			things?
+
+	Data considers.
+
+					DATA
+			Perhaps these artifacts have
+			special value to the Romulans.
+
+					WORF
+			The Romulans?
+
+					DATA
+			These structures were built by the
+			Debrune. That race was an ancient
+			offshoot of the Romulans. And the
+			ruins on the planet where Captain
+			Picard was killed were also
+			Romulan in origin.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FOUR   41.
+
+44   CONTINUED:
+
+					WORF
+			The leader of the group which
+			attacked us was a Romulan.
+				(beat)
+			Perhaps they are controlling the
+			mercenaries...
+
+					DATA
+			But the question remains: Why are
+			they stealing these artifacts?
+
+	Reactions.
+
+45   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	still in orbit around Barradas Three.
+
+46   INT. BRIDGE - ANGLE ON AFT SCIENCE
+
+	In the b.g., Worf is at tactical and Ensign Giusti is
+	at Ops.
+
+	Data and Geordi are looking at the monitor which
+	displays an OKUDAGRAM of several star systems and
+	associated information. Several planets are
+	highlighted.
+
+					DATA
+			There are several archaeological
+			sites in this sector containing
+			ruins which are Romulan in origin.
+				(beat, pointing)
+			These are the locations which have
+			been attacked by the mercenary
+			vessel.
+
+					GEORDI
+			It looks like they've done a
+			pretty thorough job.
+
+					DATA
+			The only sites which have not been
+			attacked are on Calder Two,
+			Yadalla Prime, and Draken Four.
+
+	Geordi considers.
+
+					GEORDI
+			Yadalla and Draken are on the far
+			edge of the sector... but Calder
+			Two is less than a day from here
+			at maxiumum warp.
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FOUR   42.
+
+46   CONTINUED:
+
+					DATA
+			That would be their next likely
+			target.
+
+	Geordi studies the display.
+
+					GEORDI
+			According to this, there's a
+			Federation outpost on Calder Two.
+
+					DATA
+			But it is only a small science
+			station; it has limited defensive
+			capabilities.
+				(beat)
+			I do not believe it could
+			withstand an attack by the
+			mercenary ship.
+
+	The implications are clear. Data gets up and moves to
+	the captain's chair.
+
+					DATA
+			Mister Worf. Send a message to
+			the Federation outpost on Calder
+			Two. Advise them that if a ship
+			matching the mercenary vessel's
+			configuration approaches, they
+			should attempt to delay them until
+			our arrival.
+				(to Giusti)
+			Ensign Giusti, take us out of
+			orbit. Set course for the Calder
+			system. Warp nine.
+
+					GIUSTI
+			Aye, sir.
+
+47   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	goes into warp.
+
+                                             CUT TO:
+
+     STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR     43.
+
+48   INT. MERCENARY SHIP - RIKER'S QUARTERS
+
+	Riker is alone and thoroughly agitated -- he's got
+	plenty of questions and no answers. Suddenly, the DOOR
+	OPENS and Picard ENTERS.
+
+					PICARD
+			We don't have much time...
+
+	Picard is rushed and urgent, but he is no longer the
+	violent, angry character he was on the bridge -- this
+	is the Picard Riker knows.
+
+					PICARD
+				(continuing)
+			I hardly expected to see you here,
+			Wil.
+
+	For a brief moment, Riker just stares at him; he's not
+	sure how to react.
+
+					RIKER
+			I was trying to find the people
+			who killed you.
+				(beat)
+			A witness in that bar saw you
+			vaporized.
+
+					PICARD
+			These mercenaries use weapons
+			which activate their Transporter.
+			It allows them to beam away
+			objects quickly, by simply firing
+			at them. That's what they did to
+			me.
+
+	Riker's totally frustrated -- he wants answers.
+
+					RIKER
+			I don't understand any of this.
+			Who are these people? How did you
+			get involved with them?
+
+					PICARD
+			One of the sites I wanted to study
+			had been raided. A lot of
+			artifacts were stolen... the site
+			was practically destroyed. I
+			wanted to find who was
+			responsible.
+				(beat)
+			I tracked them to the bar on
+			Dessica Two. I suppose I asked
+			too many questions... They
+			captured me to find out how much
+			I knew about their operation...
+
+   STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FOUR   44.
+
+48   CONTINUED:
+
+					RIKER
+			But you ended up as part of the
+			crew...
+
+					PICARD
+			I convinced them I was a smuggler
+			named "Galen", and I offered to
+			help them appraise the relics
+			they'd stolen...
+
+	Picard keeps one eye anxiously trained on the door --
+	he knows someone could walk in at any moment..
+
+					PICARD
+				(continuing)
+			Wil, these aren't common thieves.
+			They're stealing Romulan artifacts
+			from archaeological sites
+			throughout this sector...
+				(beat)
+			Baran has me analyzing each one
+			for a particular particle
+			signature. They're looking for a
+			specific artifact...
+
+					RIKER
+			Why?
+
+					PICARD
+			That's what we have to find out.
+			And Baran is the key. I believe
+			he's the only one on board who
+			really knows what we're looking
+			for.
+				(beat)
+			I want you to try to get close to
+			Baran... gain his confidence.
+
+	Riker begins to catch on.
+
+					RIKER
+			That's why you set up the engine
+			failure... you knew I'd be able to
+			fix it...
+
+					PICARD
+				(nods)
+			He also believes you're a less
+			than perfect Starfleet officer...
+			you'll have to play into that
+			role.
+					(MORE)
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FOUR         45.
+
+48   CONTINUED: (2)
+
+					PICARD (Cont'd)
+				(beat)
+			Baran doesn't care much for me --
+			he tolerates me because he needs
+			me to test the artifacts. If you
+			and I become enemies, there's a
+			better chance you can become his
+			friend.
+
+	A beat.
+
+					RIKER
+			All right. I'll do what I can --
+
+	Suddenly, the DOOR OPENS and Baran ENTERS. Without a
+	moment's hesitation, Picard PUNCHES Riker in the face.
+
+					BARAN
+				(furious)
+			What are you doing here?
+
+	Picard is trying to make this look like an
+	interrogation.
+
+					PICARD
+			Getting some answers. Just
+			because you couldn't get him to
+			talk --
+
+	Suddenly, Picard gasps and grabs his neck; Baran has
+	activated his pain device. Baran lets it continue for
+	a beat before shutting it off.
+
+					BARAN
+			No one conducts an interrogation
+			on this ship without my
+			permission.
+				(beat)
+			Is that understood?
+
+	Picard returns Baran's stare but does not respond; he
+	simply EXITS.
+
+	Off Riker and Baran's expressions.
+
+                                             FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FIVE       46.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+49   INT. MERCENARY BRIDGE
+
+	Baran is standing on the central platform briefing the
+	crew. Picard, Vekor, Narik, and Tallera and other N.D.
+	Mercenaries are gathered around.
+
+					BARAN
+			Our next objective is located in
+			the Sakethan burial mounds on
+			Calder Two.
+
+	Picard reacts -- he recognizes the name.
+
+					PICARD
+			Calder Two isn't just another
+			archaeological site. There's a
+			Federation outpost there.
+
+					BARAN
+				(dismissive)
+			I don't see that as a problem.
+
+					PICARD
+			It's defended by Starfleet.
+			They're not going to just stand by
+			while we walk in and take whatever
+			we want.
+
+					BARAN
+			I'm aware of the tactical
+			situation.
+
+					VEKOR
+				(concerned)
+			What are their defenses?
+
+					BARAN
+			Nothing to worry about. They have
+			a type-four deflector shield
+			protecting the outpost and the
+			ruins.
+
+					PICARD
+			They'll also have a minimum of two
+			phaser banks... and possibly even
+			photon torpedoes. Is that enough
+			to worry about?
+
+					TALLERA
+			How do you know so much about this
+			outpost?
+
+       STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FIVE       47.
+
+49   CONTINUED:
+
+	Tallera studies Picard suspiciously. Picard answers
+	without breaking stride.
+
+					PICARD
+			I tried to smuggle a Sakethan
+			glyph stone out of there two years
+			ago. I barely got away in one
+			piece.
+
+	Baran can feel the group losing confidence in his plan.
+	He moves quickly to reassure them.
+
+					BARAN
+			Our weapons are more than a match
+			for their defenses. I anticipate
+			we'll be able to destroy the
+			outpost in less than fifteen
+			minutes. After that, we'll send
+			in Tallera and the landing party
+			to secure the relics.
+
+	Picard is in very difficult position: he has to protect
+	the outpost, but at the same time, Picard wants Baran
+	to succeed with the raid so that he'll be able to
+	continue his mission.
+
+					PICARD
+			Fifteen minutes is more than
+			enough time to transmit a distress
+			call.
+
+					BARAN
+			By the time they're able to detect
+			us, we'll be jamming their
+			communications. They'll have no
+			chance to send a message.
+
+	The others mercenaries are not so confident.
+
+					NARIK
+			But our sensors will be useless as
+			well.
+				(beat)
+			Starfleet's already searching for
+			this ship. They could be on top
+			of us without our realizing it.
+
+					PICARD
+			He's right. And our landing party
+			would be stranded on the surface.
+
+					BARAN
+			That's a risk I'm prepared to
+			take.
+
+       STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FIVE       48.
+
+49   CONTINUED: (2)
+
+					PICARD
+			That's because you won't be down
+			there... your life won't be at
+			risk.
+
+	Baran bristles at the implication.
+
+					BARAN
+			If we don't find what we're
+			looking for, none of our lives
+			will be worth anything.
+
+	Picard seizes on this.
+
+					PICARD
+			Why? Who are we working for?
+
+	Baran has no intention of answering the question.
+
+					BARAN
+			All you need to know is that we
+			have to attack that outpost. We
+			don't have a choice.
+
+					PICARD
+			Maybe we do.
+				(beat)
+			Why don't we use Riker?
+
+	Baran reacts.
+
+					PICARD
+			A Starfleet Commander might be
+			able to talk us past the outpost
+			security without raising any
+			suspicions.
+				(beat)
+			Once they drop their shields, we
+			could beam the artifacts up
+			without having to leave the ship.
+
+	Baran sees that his crew is quickly falling into line
+	with Picard.
+
+					VEKOR
+				(to Picard)
+			Why would Riker help us? Just
+			because he's out of favor with
+			Starfleet doesn't mean he's ready
+			to betray them.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         49.
+
+49   CONTINUED: (3)
+
+					PICARD
+			If he doesn't help us, we'll
+			destroy the outpost and kill
+			everyone on it. He's still a
+			Starfleet officer... he won't let
+			innocent people die if he can
+			prevent it.
+
+					TALLERA
+				(quietly, to Baran)
+			The last time we engaged
+			Starfleet, we lost a man. We
+			can't afford any more casualties.
+				(beat)
+			If we can avoid a battle, I think
+			we should.
+
+	A tense beat. Baran has no supporters left here... he
+	has no other choice.
+
+					BARAN
+			All right. We'll try it.
+				(beat; to group)
+			We'll be at Calder Two in
+			approximately five hours... you
+			all know your duties. I want this
+			ship ready for battle...
+				(pointedly to Picard)
+			... in case your plan doesn't work.
+
+	Baran EXITS. Off Picard's expression.
+
+                                             CUT TO:
+
+50   INT. MERCENARY SHIP - CARGO BAY
+
+	The room looks like a cross between an archaeological
+	museum and a science lab. The walls are jammed with
+	scientific consoles, and the remaining spaces are
+	filled with artifacts scattered around the room in and
+	out of cargo containers.
+
+	Picard is working at a console; he has a TRICORDER and
+	a PADD, and a small relic sits on a SCANNER PAD in
+	front of him. The scanner pad looks like it was
+	cobbled-together from several tech-instrument
+	attachments.
+
+	Picard is performing a complex, multi-step analysis.
+	He scans the relic with his tricorder and works the
+	console, making several adjustments to the scanner.
+
+       STAR TREK: "Gambit, Part I" - REV. 07/30/93 - ACT FIVE       50.
+
+50   CONTINUED:
+
+	He carefully adjusts the scanner with a tool before
+	he's satisfied -- it's clear this is a difficult and
+	time-consuming process.
+
+					PICARD
+			Computer. Access spectral
+			enhancement mode three and begin
+			scan.
+
+	The scanner pad LIGHTS UP, and a short beat later, the
+	computer BEEPS.
+
+					COMPUTER VOICE
+			Scan complete.
+
+					PICARD
+			Analysis?
+
+					COMPUTER VOICE
+			Terikon particle decay profile
+			does not fall within specified
+			reference range. Probability of
+			match: zero-point-zero-four
+			percent.
+
+	Picard makes a note in his PADD and takes the relic off
+	the scanner. He picks up another artifact and places
+	it on the scanner.
+
+					PICARD
+			Computer. Reset diagnostic for
+			new sample, lot number three-six-nine-A...
+
+	The DOOR OPENS and Tallera ENTERS.
+
+					TALLERA
+			Baran wants to see the analysis of
+			the last lot. He thinks you're
+			moving a little slowly.
+
+					PICARD
+			Tell Baran if he wants the
+			analysis done faster, he can do it
+			himself. If he wants it done
+			correctly, he can wait.
+
+	Picard turns his attention back to the sample, but
+	Tallera moves to the console and turns off the scanner.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         51.
+
+50   CONTINUED: (2)
+
+					TALLERA
+			Do you enjoy living dangerously,
+			Galen? Baran can kill you in an
+			instant if he activates his
+			control device...
+
+	Tallera's manner is friendly, even seductive. She's
+	trying to draw Picard out, figure him out.
+
+					PICARD
+			I doubt he'll do that. I've
+			increased the accuracy of the
+			identification process by a factor
+			of ten. I'm the best person here
+			to analyze these artifacts, and
+			Baran knows it.
+
+	He snaps the scanner back on and places another
+	artifact on the pad.
+
+					PICARD
+			Computer, begin scan.
+
+					TALLERA
+			He may need you now -- but I know
+			Baran, and I can tell you he's not
+			going to back down forever.
+				(beat)
+			You accomplish nothing by
+			provoking him.
+
+	Picard turns to her. He might be able to use this
+	opportunity to get some information himself.
+
+	In the background, we hear the computer voice:
+
+					COMPUTER VOICE
+			Scan complete.
+
+					PICARD
+			I don't like operating in the
+			dark. If I knew what the point of
+			this mission were... why I'm
+			scanning these relics...
+
+					TALLERA
+			If Baran felt it were wise to let
+			the crew know that, I'm sure he
+			would have.
+
+	A beat as Picard assesses her.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         52.
+
+50   CONTINUED: (3)
+
+					PICARD
+			Do you know what this is all
+			about?
+
+	She smiles, an enigmatic smile that suggests a special
+	relationship between her and Baran.
+
+					TALLERA
+			What Baran knows, I know...
+
+					PICARD
+			Then tell me what we're doing
+			here. Why are we risking our
+			lives taking these artifacts? Who
+			wants them?
+
+					TALLERA
+			I see no reason to tell you
+			anything... but you can rest
+			assured I don't necessarily share
+			everything I know with Baran,
+			either.
+
+	A beat as she moves closer to him.
+
+					TALLERA
+				(softly)
+			This conversation, for example...
+			will stay between us.
+
+	He gives her a look. Is there a hint of complicity?
+	Of seduction?
+
+	He can't be sure what this mysterious woman is getting
+	at, but he certainly doesn't trust her.
+
+					PICARD
+			You can tell him every word I've
+			said. He knows I don't think he's
+			much of a leader.
+
+	Tallera takes a step back, as though feeling a rebuff.
+	The edge has returned to her voice.
+
+					TALLERA
+			He's been in charge of this crew
+			for a long time.
+
+					PICARD
+			He wouldn't be captain for five
+			minutes if he didn't have the
+			control device.
+					(MORE)
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         53.
+
+50   CONTINUED: (4)
+
+					PICARD (Cont'd)
+			The crew follows him because they
+			have no choice. Baran's power is
+			based only on fear and
+			intimidation.
+
+	Tallera regards him gravely, probing, trying to assess
+	him.
+
+					TALLERA
+			That almost sounds like a prelude
+			to mutiny...
+
+					PICARD
+			If someone were to challenge Baran --
+			the crew would follow.
+
+					TALLERA
+			I was right. You do like living
+			dangerously...
+
+	There is a beat as she moves closer to him.
+
+					TALLERA
+			I like you, Galen. I can tolerate
+			a lot from someone like you... but
+			only to a point.
+				(beat)
+			I intend to complete this mission
+			successfully and get what's been
+			promised me. If it looks as
+			though you're getting in the way
+			of that... I'll deal with you
+			myself.
+
+	She turns and EXITS. Picard stares after her, trying
+	to gauge just how formidable she really is.
+
+                                             CUT TO:
+
+51   EXT. SPACE - THE MERCENARY SHIP (OPTICAL)
+
+	enters orbit around Calder Two.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         54.
+
+52   INT. MERCENARY BRIDGE (OPTICAL)
+
+	Picard, Tallera, Narik, and Vekor are in the b.g. at
+	various stations. Riker is talking to a Starfleet
+	Officer, LIEUTENANT SANDERS, on a monitor at one of the
+	consoles. Baran stands nearby, out of view of the
+	screen, watching Riker carefully.
+
+					SANDERS
+			Commander, no one is allowed on
+			the surface without prior
+			authorization from the Federation
+			Science Council.
+
+					RIKER
+			I'm aware of that, Lieutenant, but
+			the outpost is in imminent danger
+			of attack. I want to station
+			security personnel on the surface
+			to protect you.
+				(beat)
+			I am ordering you to drop your
+			shields.
+
+	Sanders takes his time considering.
+
+					SANDERS
+			I'm sorry, sir... but the
+			regulations are very specific. I
+			can't do it.
+				(beat)
+			If you like, you can remain in
+			orbit until we contact the Science
+			Council, but we're experiencing
+			some communication difficulties
+			right now, so it might take some
+			time --
+
+	Baran abruptly cuts off the transmission.
+
+					BARAN
+				(angry)
+			They're delaying on purpose.
+			Someone has warned them.
+
+	Baran gestures to an N.D. at the weapons console.
+
+					BARAN
+			Charge main disruptor array...
+			destroy the outpost.
+
+	Picard sees that although there's no longer any way to
+	avoid a battle, there might still be a way to save the
+	people below -- but he has to act quickly. Picard
+	moves to the weapons console and moves the N.D. out of
+	the way...
+
+       STAR TREK: "Gambit, Part I" - REV. 07/28/93 - ACT FIVE      54A.
+
+52   CONTINUED:
+
+					PICARD
+			That would take too long.
+			Starfleet might be here any
+			minute...
+
+	Picard begins working the console...
+
+					BARAN
+			What are you doing?
+
+					PICARD
+			I'm configuring the disruptors to
+			fire a phase-resonant pulse... If
+			I can hit their shield generator
+			at precisely the right frequency,
+			I should be able to knock it off-line
+			with a single shot...
+				(beat)
+			Firing...
+
+	We hear the SOUND of disruptors firing... A tense
+	beat...
+
+					PICARD
+				(off console)
+			Their shields are down...
+
+	Baran and Picard exchange a brief glance.
+
+53   BARAN
+
+	moves quickly to Tallera's station. Tallera is
+	studying her console intently.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         55.
+
+53   CONTINUED:
+
+					BARAN
+			The artifacts should be located in
+			several small structures...
+			arranged in staggered
+			formations...
+
+					TALLERA
+			I'm scanning...
+
+	Tallera works the console for a beat.
+
+					TALLERA
+			I think I've found them.
+
+					BARAN
+			Lock the coordinates and start
+			bringing them up.
+
+	Tallera works her console...
+
+54   ANGLE ON TRANSPORTER (OPTICAL)
+
+	as several artifacts MATERIALIZE on the Transporter
+	pad.
+
+55   RESUME SCENE
+
+					BARAN
+			There should be at least two more
+			pieces down there.
+
+					TALLERA
+				(off console)
+			I've got them --
+
+	Tallera suddenly looks up from her console.
+
+					TALLERA
+				(continuing)
+			I've lost transporter lock.
+
+	Picard breaks in.
+
+					PICARD
+			They've managed to get their
+			shields back up.
+
+	Baran moves to Picard.
+
+					BARAN
+			I need those artifacts. Lock all
+			disruptors on target... this time
+			I want that outpost destroyed.
+
+       STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FIVE       56.
+
+55   CONTINUED: (2)
+
+	Picard reacts -- there's no way he can disobey the
+	order... Picard moves to the weapons control
+	station...
+
+	Suddenly, the SHIP SHAKES -- it's been hit.
+
+56   OMITTED
+
+57   INT. BRIDGE
+
+	Data is at command and Troi is at her station; Worf is
+	at tactical and Giusti at ops.
+
+					WORF
+			Direct hit on their aft deflector,
+			sir... They are undamaged.
+
+					DATA
+			Ensign, scan for Starfleet
+			combadge signals. Is Commander
+			Riker aboard that ship?
+
+					GIUSTI
+				(works console)
+			I can't tell, sir. Sensors are
+			unable to penetrate their hull.
+
+					DATA
+			Open a channel.
+				(to com)
+			This is the Federation Starship
+			Enterprise. You are ordered to
+			stand down...
+
+58   INT. MERCENARY BRIDGE (OPTICAL)
+
+					DATA'S COM VOICE
+				(continuing)
+			... Drop your shields and prepare
+			to be boarded.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         57.
+
+58   CONTINUED:
+
+	Baran instantly accuses Riker.
+
+					BARAN
+			You sent them a message... you
+			told them where to find us.
+
+					RIKER
+			That's ridiculous... when did I
+			have the chance?
+
+	Baran has one option left. He takes out his pain
+	control device and shows it pointedly to Riker.
+
+					BARAN
+				(re: device)
+			This is set to kill.
+				(beat)
+			Order your ship to disengage.
+
+	He shoves Riker in front of the main Viewscreen.
+
+					BARAN
+				(to N.D. Mercenary)
+			Activate visual.
+
+59   INT. ENTERPRISE - BRIDGE (OPTICAL)
+
+	Riker appears on the Viewscreen. Reactions all around.
+
+					DATA
+			Commander. Are you all right?
+
+                                             INTERCUT:
+
+60   INT. MERCENARY BRIDGE (OPTICAL)
+
+					BARAN
+				(insistent)
+			Tell them!
+
+	Riker has an idea... he's going to make a desperate
+	gamble.
+
+					RIKER
+				(hard)
+			Withdraw the Enterprise, Mister
+			Data. That's an order.
+
+          STAR TREK: "Gambit, Part I" - 07/26/93 - ACT FIVE         58.
+
+60   CONTINUED:
+
+					DATA
+				(puzzled)
+			Sir, that is impossible. The ship
+			you are on has violated a
+			Federation outpost. It is my duty
+			to stop it.
+
+					RIKER
+			I'm your commanding officer and
+			I'm giving you a direct order.
+			Understood?
+
+	Worf and Data exchange a look. What the hell is going
+	on?
+
+					DATA
+			Commander, if you could explain --
+
+                                             END INTERCUT:
+
+61   INT. MERCENARY BRIDGE (OPTICAL)
+
+					RIKER
+			I've never explained my orders to
+			you before and I'm not going to
+			start now.
+
+	Riker cuts off the transmission and turns quickly to
+	Baran.
+
+					RIKER
+			I have no intention of letting
+			them blow us into space.
+				(beat)
+			If I can set up a low energy com
+			link between the ships... I can
+			use my personal command codes to
+			deactivate their shields.
+
+	Baran looks at him for a quick beat and then indicates
+	a nearby console.
+
+					BARAN
+			Do it.
+
+       STAR TREK: "Gambit, Part I" - REV. 07/28/93 - ACT FIVE       59.
+
+61   CONTINUED:
+
+	Riker moves to the console and begins working
+	furiously.
+
+62   INT. ENTERPRISE BRIDGE
+
+	Everyone is still mystified by Riker's behavior.
+
+					DATA
+			Counselor, could Commander Riker
+			have been drugged or mentally
+			altered in some way to explain
+			this?
+
+					TROI
+			I didn't sense anything which
+			would indicate that...
+
+					WORF
+				(off console)
+			Commander, we are receiving some
+			kind of signal from the mercenary
+			ship...
+				(beat; astonished)
+			These are Commander Riker's access
+			codes... he is attempting to shut
+			down our shields...
+
+					TROI
+			That doesn't make any sense. He
+			knows those codes would have been
+			changed as soon as he was
+			captured...
+
+	A beat as Data considers this strange situation.
+	Then...
+
+					DATA
+			That is correct, Counselor. He
+			does know.
+				(beat)
+			Mister Worf. Prepare to drop the
+			shields.
+
+					WORF
+				(astonished)
+			Sir? We will be totally
+			defenseless.
+
+					DATA
+			I am aware of that.
+
+       STAR TREK: "Gambit, Part I" - REV. 07/27/93 - ACT FIVE       60.
+
+62   CONTINUED:
+
+					WORF
+			The moment they see our --
+
+					DATA
+			That is an order.
+
+	A beat.
+
+					WORF
+			Aye-aye, sir.
+
+	Reluctantly, Worf works his console.
+
+63   INT. MERCENARY SHIP
+
+	Riker, Picard, Baran, and Tallera are gathered around
+	a console.
+
+					RIKER
+			It worked! Their shields are
+			dropping...
+
+	Baran turns to Picard.
+
+					BARAN
+			Fire!
+
+	Picard exchanges a look with Riker... and presses the
+	button.
+
+64   EXT. SPACE - THE ENTERPRISE AND MERCENARY SHIP
+	(OPTICAL)
+
+	The Mercenary ship opens fire on the helpless
+	Enterprise, scoring a direct hit on the warp nacelles.
+
+                                             FREEZE FRAME.
+
+	SUPER: TO BE CONTINUED...
+
+                                             FADE OUT.
+
+                        END OF ACT FIVE                         
+
+                         END OF PART I                          
+
+
+
+
+
+
+
+
+
+
+                STAR TREK: THE NEXT GENERATION 
+                              
+                       "Gambit, Part II" 
+                          #40277-257 
+                              
+                           Story by 
+                         Naren Shankar 
+                              
+                          Teleplay by 
+                        Ronald D. Moore 
+                              
+                          Directed by 
+                          Alex Singer 
+
+
+THE WRITING CREDITS MAY NOT BE FINAL AND SHOULD NOT BE USED
+FOR PUBLICITY OR ADVERTISING PURPOSES WITHOUT FIRST CHECKING
+WITH THE TELEVISION LEGAL DEPARTMENT.
+
+Copyright 1993 Paramount Pictures Corporation. All Rights
+Reserved. This script is not for publication or
+reproduction. No one is authorized to dispose of same. If
+lost or destroyed, please notify the Script Department.
+
+                         FINAL DRAFT
+
+                        AUGUST 6, 1993
+
+        STAR TREK: "Gambit, Part II" - 08/06/93 - CAST 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part II" 
+
+                             CAST                               
+                              
+                PICARD             BARAN
+                RIKER              GIUSTI
+                DATA               KORAL
+                BEVERLY            NARIK
+                TROI               SATOK
+                WORF               TALLERA
+                GEORDI             VEKOR
+                COMPUTER VOICE 
+    
+                Non-Speaking       Non-Speaking
+                  N.D. CREWMEMBERS   N.D. MERCENARIES
+
+        STAR TREK: "Gambit, Part II" - 08/06/93 - SETS 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part II" 
+                       
+                             SETS 
+
+
+            INTERIORS                  EXTERIORS
+          
+            USS ENTERPRISE             USS ENTERPRISE
+              BRIDGE
+              READY ROOM               MERCENARY SHIP
+              CORRIDOR
+              SHUTTLEBAY               VULCAN
+              OBSERVATION LOUNGE
+              BARAN'S QUARTERS
+          
+            MERCENARY SHIP
+              BRIDGE
+              CARGO BAY
+              PICARD'S QUARTERS
+              CARGO HOLD
+          
+            VULCAN CAVERN
+
+  STAR TREK: "Gambit, Part II" - 08/06/93 - PRONUNCIATION GUIDE 
+
+                STAR TREK: THE NEXT GENERATION 
+                       "Gambit, Part II" 
+                      
+                      PRONUNCIATION GUIDE 
+
+                   BARAN           buh-RAN
+                   GOL             GALL
+                   GIUSTI          JOOS-tee
+                   PSIONIC         SY-on-ik
+                   HYRALAN         HI-rah-lon
+                   T'PAAL          tuh-PAL
+                   V'SHAR          vuh-SHAR
+                   SATAK           SAY-tak
+                   T'KARATH        tuh-KAR-ath
+                   TALLERA         ta-LARE-uh
+                   VEKOR           veh-KORE
+                   YADALLA         yuh-DOLL-uh
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - TEASER      1.
+
+                STAR TREK: The Next Generation                  
+                       "Gambit, Part II"                            
+                            TEASER                              
+
+	FADE IN:
+
+	(NOTE: Episode begins with 90 second RECAP of Part I)
+
+1    INT. ENTERPRISE - BRIDGE
+
+	As seen at the end of Part I -- DATA, TROI, WORF, and
+	GIUSTI in their places. The ship is ROCKED SLIGHTLY by
+	the blast from the Mercenary ship.
+
+					WORF
+			Direct hit to the port nacelle...
+				(beat, then surprised)
+			But -- only minimal damage.
+
+	Another SHAKE.
+
+					WORF
+				(continuing)
+			Hit on the starboard nacelle...
+			again, no appreciable damage.
+
+					TROI
+			Wil must've done something to
+			their weapons.
+
+					DATA
+			I believe so, Counselor. It is
+			now up to us to... play along.
+				(to Giusti)
+			Release inertial dampers and cut
+			power on decks thirty-one through
+			thirty-seven.
+				(to Worf)
+			Set phasers to twenty-five
+			percent. Return fire.
+
+					WORF
+			Aye, sir.
+
+                                             CUT TO:
+
+2    EXT. SPACE - ENTERPRISE & MERCENARY SHIP (OPTICAL)
+
+	The Enterprise FIRES on the Mercenary vessel.
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - TEASER      1A.
+
+3    INT. MERCENARY SHIP - BRIDGE
+
+	The ship is ROCKED. (PICARD, RIKER, BARAN, TALLERA,
+	NARIK, and VEKOR as seen at the end of Part I.)
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - TEASER      2.
+
+3    CONTINUED:
+
+					BARAN
+				(to Picard)
+			Continue firing!
+
+					PICARD
+				(off console)
+			We've lost three plasma relays on
+			the disruptors. Auxiliary
+			power... is not available.
+
+					BARAN
+				(exasperated)
+			Transfer weapons control to my
+			station. There's a way to by-pass
+			the relays and feed power --
+
+	The ship is ROCKED again.
+
+					NARIK
+			The anti-matter containment unit
+			is starting to buckle!
+
+	Tallera moves quickly and smoothly to Baran.
+
+					TALLERA
+				(urgent, quiet)
+			The Enterprise has been badly
+			damaged but they still have
+			superior firepower. If we remain
+			here, we will be destroyed. The
+			logical course of action is to
+			withdraw.
+
+	Baran doesn't want to go, but another SHAKE convinces
+	him. Baran's next words are intended for public
+	consumption.
+
+					BARAN
+				(loudly)
+			We've done enough damage. Narik,
+			set course one eight zero, mark
+			two one five. Warp six.
+			Initiate.
+
+	Narik works the console. Across the Bridge, Riker and
+	Picard exchange a slightly relieved look.
+
+                                             CUT TO:
+
+4    INT. ENTERPRISE - BRIDGE (OPTICAL)
+
+	As before.
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - TEASER      3.
+
+4    CONTINUED:
+
+					GIUSTI
+				(off console)
+			They're preparing to activate
+			their warp drive, Commander.
+
+					WORF
+				(urgent)
+			Sir. We will not be able to track
+			them with our sensors if they go
+			to warp. I can still disable them
+			before they --
+
+					DATA
+			I am aware of the tactical
+			situation, Lieutenant. Let them
+			go.
+
+	Worf glares at the image of the Mercenary ship on the
+	Viewscreen as it begins to move away from the
+	Enterprise.
+
+5    EXT. SPACE - THE MERCENARY SHIP (OPTICAL)
+
+	The Mercenary ship leaves the "crippled" Enterprise and
+	races away.
+
+                                             FADE OUT.
+
+                         END OF TEASER                          
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE      4.
+
+                            ACT ONE                             
+
+	FADE IN:
+
+          (NOTE: Episode credits fall over opening scenes.)            
+
+6    EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship hangs in space.
+
+7    INT. ENTERPRISE - BRIDGE
+
+	Worf at Tactical, Troi and GEORDI at the aft science
+	stations, Giusti at Ops. Data moves from station to
+	station, and people automatically report to him as he
+	approaches.
+
+					GIUSTI
+				(off console)
+			Sensor sweep eight has been
+			completed, sir. Still no sign of
+			the mercenary ship.
+
+					DATA
+			Understood. Begin sensor sweep
+			nine using the lateral array set
+			to maximum gain.
+
+					GIUSTI
+			Aye, sir.
+
+	Data makes his way to the aft stations.
+
+8    INCLUDE TROI (OPTICAL)
+
+	On the monitor in front of Troi is a video replay of
+	Riker's last Viewscreen transmission from Part I. Troi
+	FREEZES the image as Data approaches.
+
+					TROI
+			I've gone over every word, every
+			inflection, every facial
+			response... but I still haven't
+			found any kind of code or hidden
+			message.
+
+					DATA
+			Understood. I agree that the
+			probability that such a message
+			exists is remote, but I believe we
+			should check.
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE      5.
+
+8    CONTINUED:
+
+					TROI
+			I'll keep trying.
+
+	She returns to the console and Data turns to Worf.
+
+					WORF
+				(to Data)
+			Two starships have been sent to
+			intercept the mercenaries at
+			Yadalla Prime and Draken Four, in
+			case they attempt to attack those
+			planets.
+
+					DATA
+			Very well. Inform Starfleet
+			Command that we will hold position
+			here until further notice.
+
+					WORF
+			So we are just going to... remain
+			here?
+
+					DATA
+			Yes. But we will continue to
+			pursue all avenues of
+			investigation which are available
+			to us.
+
+					WORF
+			If we had not allowed them to
+			escape, this would not be
+			necessary.
+
+	Data thinks about this for a beat.
+
+					DATA
+			That is correct. However, I
+			believe Commander Riker wanted us
+			to let them escape.
+
+	Suddenly Geordi sees something on his monitor.
+
+					GEORDI
+				(excited)
+			I think I've got something.
+
+	Data moves to Geordi's console. On the monitor is an
+	OKUDAGRAM of an intricate series of numbers and letters --
+	clearly some kind of code.
+
+					GEORDI
+				(continuing)
+			I've been studying the com link
+			Commander Riker used to transmit
+			his command codes.
+					(MORE)
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE      6.
+
+8    CONTINUED: (2)
+
+					GEORDI (Cont'd)
+			I didn't see anything at first,
+			but when I ran the transmission
+			through a sub-harmonic analysis I
+			found this.
+				(indicates graphic)
+			It was sent on the same carrier
+			wave as the command codes.
+
+	Data and Troi look at the monitor.
+
+					TROI
+				(to Data)
+			It might be the message you've
+			been looking for.
+
+	Data sits down at the console and begins to rapidly
+	work the controls.
+
+					DATA
+			Possibly. I will attempt to resequence
+			the signal.
+				(to Geordi)
+			Begin running a search for a
+			decryption key.
+
+	As Data and Geordi work...
+
+                                             CUT TO:
+
+9    EXT. SPACE - THE MERCENARY SHIP (OPTICAL)
+
+	The ship comes to a STOP near a large planet.
+
+10   INT. MERCENARY SHIP - BRIDGE
+
+	Baran in command. Picard, Riker, Tallera, Vekor, and
+	Narik at their stations.
+
+					NARIK
+				(off console)
+			I'm taking the engines off-line.
+
+					BARAN
+			How long until we can repair our
+			battle damage?
+
+					NARIK
+			It will take at least five hours
+			to replace the anti-matter
+			containment unit.
+
+      STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE      7.
+
+10   CONTINUED:
+
+					BARAN
+			You have three hours, Narik. One
+			minute beyond that and you'll
+			answer for it with your life.
+
+	Narik glares at Baran, but has little choice except to
+	nod and EXIT the Bridge. Baran turns his attention to
+	Riker, who seems lost in thought near one of the
+	consoles. Picard is standing nearby.
+
+					BARAN
+				(to Riker)
+			I suppose I should thank you.
+			None of us would be alive if it
+			weren't for you.
+
+	But Riker doesn't seem to appreciate Baran's thanks.
+	His tone is bitter and downcast.
+
+					RIKER
+				(bitter)
+			You're welcome.
+
+	Picard moves smoothly in and begins to mercilessly
+	torment Riker. In the b.g. Tallera watches their
+	interchange with a thoughtful expression.
+
+					PICARD
+			What's wrong, Commander? Starting
+			to have second thoughts about
+			betraying your comrades... because
+			that's what you've done --
+			betrayed them... betrayed them in
+			order to save yourself.
+				(beat)
+			You were just a second-rate
+			officer before... now you're a
+			coward and a traitor. How does
+			that feel?
+
+	Riker gives him a cool look... then, without warning,
+	Riker HITS Picard squarely in the jaw, knocking him off
+	his feet.
+
+					RIKER
+			I don't know. How did that feel?
+
+	Picard's eyes flash and he gets up and moves toward
+	Riker.
+
+   STAR TREK: "Gambit, Part II" - REV. 08/16/93 - ACT ONE   8.
+
+10   CONTINUED: (2)
+
+					BARAN
+				(hard)
+			That's enough.
+				(to Picard)
+			Galen, get down to the cargo hold
+			and check those artifacts.
+				(beat)
+			Move.
+
+	Picard and Riker continue to glare at each other, then
+	Picard seems to back down and he EXITS.
+
+11   TALLERA
+
+	Looks from Baran to Riker... thinks for a few beats,
+	then EXITS.
+
+                                             CUT TO:
+
+12   INT. MERCENARY SHIP - CARGO BAY
+
+	Picard is checking over a group of NEW ARTIFACTS (a few
+	pieces of exotic pottery, ancient weapons, tools, etc.)
+	on the scanner pad. Picard makes a note on a PADD and
+	takes a relic off the scanner. He begins to examine
+	another relic. The doors OPEN and Tallera ENTERS.
+	Picard doesn't look up.
+
+					PICARD
+				(irritated)
+			Tell Baran I'm working as fast as
+			I can.
+
+	Tallera just studies him without responding... she's
+	getting suspicious. Picard turns and looks at her.
+
+					PICARD
+				(continuing)
+			What?
+
+					TALLERA
+			I'm trying to decide if you're
+			incredibly stupid... or incredibly
+			smart. Why didn't you continue to
+			fire on the Enterprise when their
+			shields dropped?
+
+   STAR TREK: "Gambit, Part II" - REV. 08/16/93 - ACT ONE   9.
+
+12   CONTINUED:
+
+	Picard turns back to his work, and as they talk, he
+	continues to make complex adjustments to the strange
+	equipment -- sometimes hooking up new devices,
+	discarding others, etc.
+
+					PICARD
+			You were there. The disruptors
+			lost power.
+				(to computer)
+			Computer, reset diagnostic for new
+			sample and begin scan.
+
+					TALLERA
+			I've watched you handle the weapon
+			systems before. You know exactly
+			how to by-pass a problem like
+			that.
+				(beat)
+			And why do you continue to argue
+			with Riker? It should be obvious
+			that by alienating him you are
+			also alienating Baran, and yet you
+			continue to do it. Why?
+
+					COMPUTER VOICE
+			Scan complete. Terikon profile
+			negative.
+
+	Picard removes the artifact and replaces it with
+	another one -- this ARTIFACT has several intricate
+	designs on the side and is shaped like a large puzzle
+	piece. Picard is deliberately taking a challenging
+	attitude in order to maintain his cover and throw
+	Tallera off.
+
+					PICARD
+				(sarcastic)
+			I'm touched by your concern for my
+			well-being.
+
+					TALLERA
+			That's not an answer.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE     10.
+
+12   CONTINUED: (2)
+
+					PICARD
+			Computer, reset diagnostic and
+			begin scan.
+				(to Tallera)
+			I'm not a prisoner in a Romulan
+			labor camp, Tallera. I don't have
+			to answer your questions and I
+			don't give a damn what you think.
+
+	Tallera studies his face for a moment.
+
+					COMPUTER VOICE
+			Scan complete. Terikon profile
+			positive. Ninety-eight percent
+			probability of match.
+
+	They both turn and look at the artifact on the scanner
+	pad.
+
+					PICARD
+			Well, whatever it is... it looks
+			like we've found it.
+
+	Tallera moves to the artifact and looks at it closely
+	for a long beat, her expression becomes cool and
+	unreadable.
+
+					TALLERA
+				(touches com device)
+			Tallera to Captain.
+
+					BARAN'S COM VOICE
+			Yes?
+
+					TALLERA
+			I'm in the cargo hold. Galen's
+			made a positive Terikon match on
+			one of the artifacts.
+
+					BARAN'S COM VOICE
+			Is he sure?
+
+					TALLERA
+			He's sure.
+
+13   INT. BARAN'S QUARTERS - CONTINUOUS
+
+	In contrast to the other quarters on the mercenary
+	ship, Baran's quarters border on the luxurious...
+	overstuffed furniture, gaudy sculpture -- very
+	decadent. Baran is lounging in a chair while Riker
+	sits on a couch... Baran holds a drink.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE     11.
+
+13   CONTINUED:
+
+					BARAN
+				(excited, to com)
+			Good. Bring it here immediately
+			and don't let anyone else get near
+			it.
+
+					TALLERA'S COM VOICE
+			Understood. Tallera out.
+
+	Baran takes a long, very satisfying drink from his
+	glass and settles back into his chair.
+
+					RIKER
+			I take it that's good news.
+
+					BARAN
+			Very. It means we've completed
+			half of what promises to be a very
+			profitable mission... and even
+			better than that it means, I'm
+			almost ready to get rid of your
+			friend Galen.
+
+					RIKER
+			Really?
+
+					BARAN
+				(nods)
+			We have only one more artifact to
+			find... and once Galen confirms
+			it's genuine, his usefulness on
+			this ship will come to a very
+			sudden end.
+
+					RIKER
+			I can't say I'm sorry to hear
+			that.
+
+	Baran studies Riker closely for a moment... he's not
+	quite sure what to make of him... he might have an ally
+	here, but Baran is wary and suspicious by his very
+	nature.
+
+					BARAN
+			I'm sure.
+				(beat)
+			Galen may be a loud-mouthed fool,
+			but sometimes he can be very
+			perceptive... his observations
+			about you for instance.
+
+					RIKER
+			Oh?
+
+   STAR TREK: "Gambit, Part II" - REV. 08/06/93 - ACT ONE   12.
+
+13   CONTINUED: (2)
+
+					BARAN
+			After what you did at Calder Two,
+			I doubt you have much of a future
+			in Starfleet.
+
+					RIKER
+			I've... pretty much come to the
+			same conclusion.
+
+					BARAN
+			Assuming for the moment that you
+			were no longer my prisoner... what
+			would you do now?
+
+	Riker thinks about this for a moment... then gives
+	Baran a very direct look.
+
+					RIKER
+			I guess I'd have to look for a new
+			career... there must be a place
+			where someone with fifteen years
+			of Starfleet technical knowledge
+			would be useful.
+				(beat)
+			Do you know of any place like
+			that?
+
+	Baran takes a drink... he's not going to rush into
+	anything.
+
+					BARAN
+			Possibly.
+				(beat)
+			But if there's one thing I've
+			learned on this ship, it's to be
+			cautious... and not to blindly
+			embrace what seems to be good
+			fortune. And at the moment, you
+			seem like a rather large stroke of
+			luck.
+
+					RIKER
+			I haven't exactly sworn my undying
+			allegiance to you, Baran. In
+			fact, I'd like to know a little
+			bit more about the job.
+
+					BARAN
+			Such as?
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE     12A.
+
+13   CONTINUED: (3)
+
+					RIKER
+			Such as what you meant by a "very
+			profitable mission."
+
+					BARAN
+				(smiles)
+			I thought you Starfleet types
+			weren't interested in things like
+			profit.
+
+					RIKER
+			I'm not exactly... the "ideal"
+			Starfleet type.
+
+					BARAN
+			No, I guess you're not.
+				(beat)
+			All you need to know for now is
+			that your share could be more than
+			enough to insure a very long and
+			very wealthy life far away from
+			the Federation.
+
+					RIKER
+			Sounds promising.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT ONE     13.
+
+13   CONTINUED: (4)
+
+					BARAN
+			It is. But if you want that
+			share, you'll have to earn it.
+				(beat)
+			And you can start by putting aside
+			your dislike for Galen and trying
+			to become his friend.
+
+	Riker reacts as if this is a particularly unpleasant
+	request.
+
+					RIKER
+			Why?
+
+					BARAN
+			Galen has allies among the crew...
+			they might cause a problem if I
+			kill him. I want you to get close
+			to him and find out who they are.
+
+					RIKER
+			Okay.
+
+	Riker stands to go, but Baran stops him.
+
+					BARAN
+			One more thing, Riker.
+				(beat)
+			When the time comes, I want you to
+			kill Galen.
+
+	A beat and then Riker nods... OFF his expression...
+
+                                             FADE OUT.
+
+                        END OF ACT ONE                          
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT TWO     14.
+
+                            ACT TWO                             
+
+	FADE IN:
+
+14   INT. ENTERPRISE - BRIDGE
+
+	Data is sitting at the aft science station as Worf and
+	Geordi look on. Giusti at Ops. The monitor screen
+	shows an OKUDAGRAM image of a sequence of numbers and
+	letters which have been arranged into some kind of
+	pattern.
+
+					DATA
+			I have completed the analysis of
+			the signal from the mercenary
+			ship. I believe these groupings
+			represent bearings and coordinates
+			taken from their navigational
+			system.
+
+					GEORDI
+			So you think this is their flight
+			plan...
+
+					DATA
+			Yes. If I am correct, the
+			mercenary vessel is heading toward
+			these coordinates in...
+				(works)
+			... the Hyralan Sector.
+
+					WORF
+			Their maximum speed is warp eight
+			point seven... it will take them
+			at least fourteen hours to reach
+			that position.
+
+					GEORDI
+			We could be there in five.
+
+	Data turns to Worf.
+
+					DATA
+			Make it so.
+
+					WORF
+				(annoyed)
+			Finally.
+
+	Data reacts to the tone of irritation in Worf's voice,
+	but says nothing as Worf tends to the business at hand.
+
+					WORF
+				(continuing, to Con
+				 Officer)
+			Set course for the Hyralan Sector
+			and engage at warp nine.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT TWO     15.
+
+14   CONTINUED:
+
+	Data moves quietly to Worf.
+
+					DATA
+			Lieutenant, may I see you in the
+			Ready Room?
+
+					WORF
+			Of course.
+
+	Data and Worf EXIT.
+
+15   INT. READY ROOM - CONTINUOUS
+
+	Data and Worf ENTER. Once the doors close, Data turns
+	around and confronts Worf without preamble.
+
+					DATA
+			Lieutenant, I am dissatisfied with
+			your performance as acting first
+			officer.
+
+					WORF
+				(surprised)
+			May I... ask in what way?
+
+					DATA
+			You continually question my orders
+			in front of the crew. I do not
+			think this is appropriate
+			behavior.
+
+					WORF
+			Sir... with all due respect, I
+			have always felt free to voice my
+			opinions... even when they
+			differed from those of Captain
+			Picard or Commander Riker.
+
+					DATA
+			That is true. But in those
+			situations, you were acting as
+			head of security, not as First
+			Officer. The primary role of the
+			second in command is to carry out
+			the decisions of the Captain... in
+			this case, me.
+
+					WORF
+			But is it not my duty to offer
+			you... alternatives?
+
+   STAR TREK: "Gambit, Part II" - REV. 08/06/93 - ACT TWO   16.
+
+15   CONTINUED:
+
+					DATA
+			Yes. But once I have made a
+			decision, it is your job to carry
+			it out regardless of how you may
+			personally feel. Any further
+			objections should be given to me
+			in private, not in front of the
+			crew.
+				(beat)
+			I do not recall Commander Riker
+			ever publicly showing irritation
+			with his Captain as you did a
+			moment ago.
+
+					WORF
+				(abashed)
+			No, sir.
+
+					DATA
+			If you feel that you are not
+			capable of carrying out this role,
+			I can assign it to Commander La
+			Forge and return you to Tactical.
+			I would not enter it as a
+			reprimand on your record... simply
+			as a transfer.
+
+					WORF
+			I would... prefer to remain at my
+			current post.
+
+					DATA
+			Then I will expect you to conform
+			to the guidelines I have laid out.
+
+					WORF
+			Aye, sir.
+
+	Worf turns to go, then Data stops him.
+
+					DATA
+			Mister Worf... I am sorry if I
+			have ended our friendship.
+
+	Worf looks at him for a moment... suddenly feeling a
+	sense of remorse at his behavior.
+
+					WORF
+			Sir... it is I who has jeopardized
+			our friendship, not you. If you
+			will... overlook this incident, I
+			would like to continue to consider
+			myself your friend.
+
+					DATA
+			I would like that as well.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT TWO     17.
+
+15   CONTINUED: (2)
+
+					WORF
+			Thank you, sir.
+
+	Worf EXITS.
+
+                                             CUT TO:
+
+16   EXT. MERCENARY SHIP (OPTICAL)
+
+	The ship hangs in space.
+
+17   INT. MERCENARY SHIP - BRIDGE
+
+	Baran and Riker are standing over Narik, who is working
+	at his engineering console. Vekor is working at a
+	console in the b.g.
+
+					BARAN
+				(with an edge)
+			Your time is almost up, Narik. I
+			need warp power.
+
+					NARIK
+				(working)
+			You can't rush this, Baran... if
+			the constrictor coil isn't
+			perfectly aligned, the entire antimatter
+			containment unit could
+			rupture... and that would be the
+			end of the engines, the ship, and
+			us.
+
+					BARAN
+				(brusque)
+			I don't have time for your
+			excuses. We have a schedule to
+			keep.
+				(to Riker)
+			Can you do this any faster?
+
+	Riker notes that Baran's hand has dropped to his
+	control device... a word from Riker and Narik is dead.
+	Narik realizes this as well and he gives Riker a
+	worried look. Riker looks over the console, seems to
+	consider this.
+
+					RIKER
+			I think Narik may be right this
+			time... a constrictor coil will
+			only align so fast. We'll have to
+			wait.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT TWO     18.
+
+17   CONTINUED:
+
+					BARAN
+			How long?
+
+	Riker studies the console for a moment.
+
+					RIKER
+			I'd say another hour, maybe less.
+
+	Baran turns to Narik, a cold and unforgiving look on
+	his face.
+
+					BARAN
+			One hour.
+
+	Narik returns to work with a renewed spirit of vigor as
+	Baran and Riker move away from him. Baran moves
+	casually to Vekor.
+
+					BARAN
+				(to Vekor)
+			Where is Galen?
+
+					VEKOR
+			In his quarters.
+
+	Baran gives Riker a meaningful look as he speaks, but
+	keeps his ovice casual.
+
+					BARAN
+			Typical. Everyone else is working
+			and he's asleep. Someone should
+			go kick him out of bed.
+
+	Riker gives a slight nod... he understands what Baran
+	wants of him.
+
+					RIKER
+			I'll take care of it.
+
+					BARAN
+			Good.
+
+	Riker EXITS.
+
+                                             CUT TO:
+
+18   INT. MERCENARY SHIP - PICARD'S QUARTERS
+
+	A small, cramped room with only the barest of
+	accommodations. Picard is looking over a PADD when the
+	door suddenly OPENS. Picard whirls instinctively and
+	whips out a phaser. Riker freezes in the open doorway
+	for a moment, then Picard motions him inside.
+
+   STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT TWO   19.
+
+18   CONTINUED:
+
+					RIKER
+				(wry)
+			It's good to see you, too.
+
+					PICARD
+			I've had a few... unpleasant
+			surprises.
+				(puts the phaser away)
+			This isn't a good idea, Wil.
+			Baran may get suspicious.
+
+					RIKER
+			As a matter of fact, Baran's the
+			one who sent me here.
+				(off his look)
+			He told me to "wake you up," but
+			he really wants me to "pretend" to
+			get friendly with you and then
+			help you organize a mutiny... so
+			he can find your supporters among
+			the crew and eliminate them.
+				(beat)
+			So here I am... pretending to like
+			you after all.
+
+	Picard can't help but smile a little at the irony of it
+	all.
+
+					PICARD
+			Wheels within wheels... I'm
+			starting to forget which side I'm
+			on.
+				(beat)
+			All right... what have you found
+			out so far?
+
+					RIKER
+			When we get to the Hyralan Sector,
+			we're supposed to rendezvous with
+			a Klingon transport ship. I'm not
+			sure, but I think they might be
+			delivering another Romulan
+			artifact to us.
+
+					PICARD
+				(puzzled)
+			A second artifact... ?
+				(beat)
+			By the way, these artifacts aren't
+			Romulan... they're Vulcan.
+
+					RIKER
+			Vulcan?
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT TWO     20.
+
+18   CONTINUED: (2)
+
+	Picard hands the PADD he was studying to Riker.
+
+					PICARD
+			I've been looking over the glyphs
+			and pictograms I found on the
+			Calder Two artifact. There's not
+			enough data to translate the
+			inscription, but the alphabet and
+			symbology are more consistent with
+			early Vulcan artifacts than
+			Romulan.
+
+					RIKER
+			Do these artifacts have some kind
+			of religious or cultural
+			significance... something that
+			would make them valuable enough to
+			kill for?
+
+					PICARD
+			I don't know.
+				(frustrated)
+			If I could just get access to the
+			Enterprise computer for even a few
+			moments...
+
+	Picard takes a few steps in the cramped room, trying to
+	think. A long beat, then he starts to think in a
+	different direction.
+
+					PICARD
+			What will Baran do once we obtain
+			the second artifact?
+
+					RIKER
+			You're supposed to confirm it's
+			authentic...
+				(beat)
+			... and then I'm supposed to kill
+			you and take your place.
+
+	They exchange a look.
+
+					PICARD
+				(dry)
+			You always seem to be after my
+			job.
+
+	Riker smiles at the joke, then Picard gets serious
+	again. He touches the device on the side of his neck.
+
+   STAR TREK: "Gambit, Part II" - REV. 08/16/93 - ACT TWO   21.
+
+18   CONTINUED: (3)
+
+					PICARD
+			Once Baran decides I've outlived
+			my usefulness... he can simply
+			kill me with the neural servo.
+				(beat)
+			I think... we'd better start
+			planning a mutiny.
+
+	Off Picard's expression...
+
+                                             CUT TO:
+
+19   INT. MERCENARY SHIP - CARGO HOLD
+
+	Picard is talking to Narik, who has taken one of the
+	panels off the wall and is working on some complex
+	circuitry within using a device. Mid-conversation.
+
+					PICARD
+			We need a new captain... so I've
+			come to one inescapable
+			conclusion...
+
+					NARIK
+			I agree.
+				(beat)
+			But I don't think that's you.
+
+					PICARD
+			Oh?
+
+	Narik closes up the panel and stands up to face Picard.
+
+   STAR TREK: "Gambit, Part II" - REV. 08/06/93 - ACT TWO   22.
+
+19   CONTINUED:
+
+					NARIK
+			I don't trust you, Galen... and I
+			don't think the rest of the crew
+			does either. They're not going to
+			follow you.
+
+					PICARD
+			And who do you think they'll
+			follow... you?
+
+					NARIK
+			No. But they will follow
+			Tallera... and so will I.
+
+	Narik brushes past him and EXITS. Picard waits for a
+	beat, frustrated that his first effort was so clearly
+	shot down... then he heads for the door. But before he
+	reaches it, the door OPENS and Tallera ENTERS and she
+	blocks his way. The door CLOSES behind her. She looks
+	at him coolly.
+
+					TALLERA
+			Who are you?
+
+					PICARD
+			What?
+
+					TALLERA
+			You're no smuggler... and I don't
+			think your name's Galen.
+
+	He tries to brush past her, but Tallera raises a phaser
+	and points it directly at him.
+
+					TALLERA
+			You will tell me who you really
+			are and what you are doing on this
+			ship... or I will kill you right
+			here.
+
+	Off Picard's expression...
+
+                                             FADE OUT.
+
+                        END OF ACT TWO                          
+
+  STAR TREK: "Gambit, Part II" - REV. 08/09/93 - ACT THREE  23.
+
+                           ACT THREE                            
+
+	FADE IN:
+
+20   INT. MERCENARY SHIP - CARGO HOLD - CONTINUOUS
+
+	As before.
+
+					PICARD
+			I don't know what you're talking
+			about.
+
+					TALLERA
+			I will not play games with you.
+			I found the message you sent to
+			the Enterprise. When Riker used
+			his command codes to drop their
+			shields, you sent a transmission
+			to them on the same carrier wave.
+				(beat)
+			You're a Starfleet officer.
+
+	As Picard starts to protest --
+
+					TALLERA
+			Do not bother to deny it. It is
+			the only... logical conclusion.
+
+	She holds his gaze for another beat, then lowers the
+	phaser and holsters it.
+
+					TALLERA
+				(continuing)
+			My name is actually T'Paal... I am
+			a member of the V'Shar.
+
+					PICARD
+				(shocked)
+			Vulcan Security?
+
+					TALLERA
+			That is correct. I infiltrated
+			this ship a year ago posing as a
+			Romulan mercenary. I am here to
+			investigate a possible threat to
+			Vulcan.
+
+					PICARD
+			What sort of threat?
+
+  STAR TREK: "Gambit, Part II" - REV. 08/16/93 - ACT THREE  24.
+
+20   CONTINUED:
+
+					TALLERA
+			First things first, Galen. Who
+			are you?
+
+	Picard thinks for a moment, then decides to take the
+	plunge.
+
+					PICARD
+				(continuing)
+			I'm Captain Jean-Luc Picard of the
+			Enterprise.
+
+	Tallera nods... this confirms her thinking.
+
+					TALLERA
+			Very well. To answer your
+			question, for several years, there
+			has been a small, but growing
+			movement of extreme isolationists
+			on Vulcan... a group that believes
+			contact with alien races has
+			"polluted" our culture... and is
+			destroying Vulcan purity.
+				(beat)
+			This group advocates the total
+			isolation of Vulcan from the rest
+			of the galaxy and the eradication
+			of all alien influences from our
+			planet.
+
+					PICARD
+			It sounds like a very... illogical
+			philosophy.
+
+					TALLERA
+			Agreed. But extremists often have
+			a logic all their own.
+
+					PICARD
+			What are these artifacts we're
+			collecting? I know they're Vulcan
+			in origin...
+
+  STAR TREK: "Gambit, Part II" - REV. 08/16/93 - ACT THREE  25.
+
+20   CONTINUED: (2)
+
+	Tallera looks away and her voice drops a little... this
+	is a disturbing subject for her and it's not easy to
+	talk about... there is even an element of shame in it.
+
+					TALLERA
+			I am sure you are familiar with
+			the ancient history of my
+			people... before we found
+			logic... before we found peace.
+
+					PICARD
+			You were much like my people once
+			were... a warlike, savage race...
+
+					TALLERA
+			There was even a time when we used
+			our telepathic abilities as a
+			weapon... a time when we learned
+			to kill with a thought.
+
+	That triggers something in Picard's memory.
+
+					PICARD
+			The Stone of Gol... ?
+
+	Tallera looks at him, mildly surprised.
+
+					TALLERA
+			You know of it?
+
+					PICARD
+			I know the story from Vulcan
+			mythology. According to the
+			legend whoever possessed the stone
+			needed only to think of throwing
+			it at someone... and that person
+			would be killed.
+
+					TALLERA
+			The Stone of Gol is real, but
+			there is nothing magical or
+			supernatural about it.
+					(MORE)
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    26.
+
+20   CONTINUED: (3)
+
+					TALLERA (Cont'd)
+				(beat)
+			It is a psionic resonator... a
+			device which focuses and amplifies
+			telepathic energy. It is one of
+			the most devastating weapons ever
+			conceived.
+
+					PICARD
+			As I recall the legend, the Stone
+			of Gol was destroyed by the gods
+			when the Vulcan people found the
+			way to peace...
+
+					TALLERA
+			The resonator was believed to have
+			been destroyed during the Time of
+			the Awakening. Only one piece was
+			known to have survived and it was
+			placed in a Vulcan museum under
+			heavy guard.
+				(beat)
+			Six months ago, that piece was
+			stolen from the museum. Soon
+			after, mercenary ships began
+			raiding archaeological sites
+			across the quadrant. We believe
+			that a member of the isolationist
+			movement is trying to reassemble
+			the resonator.
+
+	Picard is disturbed by the implications.
+
+					PICARD
+			A telepathic weapon...
+
+					TALLERA
+			A Vulcan trained in the mental
+			disciplines would be a formidable
+			assassin. The entire Vulcan
+			council could be killed with a
+			single thought, and there would be
+			no defense.
+				(beat)
+			My orders are to find that would-be
+			assassin and stop him.
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    26A.
+
+20   CONTINUED: (4)
+
+					PICARD
+			Since Baran will presumably need
+			to deliver the artifacts to this
+			assassin in order to get paid, it
+			would seem that the best course of
+			action is to continue with our
+			little masquerade for now.
+
+  STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT THREE  27.
+
+20   CONTINUED: (5)
+
+					TALLERA
+			Agreed. But Captain... I cannot
+			allow the resonator to be
+			assembled. If necessary, I will
+			destroy this ship, its crew... all
+			of us... to prevent that from
+			happening.
+
+	Picard nods grimly in understanding.
+
+                                             CUT TO:
+
+21   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship drops out of warp.
+
+					DATA (V.O.)
+			Acting Captain's Log: Stardate
+			47160.1. The Enterprise is
+			entering the Hyralan Sector which
+			I believe to be the next
+			destination of the mercenary ship.
+
+22   INT. ENTERPRISE - BRIDGE
+
+	Data, Troi, and Worf in Command, Giusti at Ops, an N.D.
+	Crewmember at Tactical.
+
+					GIUSTI
+			We've arrived at the coordinates,
+			sir.
+
+					DATA
+			All stop. Full sensor sweep.
+
+	Giusti works for a moment.
+
+					GIUSTI
+			I'm picking up a small vessel
+			bearing one two seven mark three
+			three five.
+
+					DATA
+			Is it the mercenary ship?
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    28.
+
+22   CONTINUED:
+
+					GIUSTI
+			No, sir... it's a Klingon ship.
+
+	Worf works the console on his chair-arm.
+
+					WORF
+			It is a Toron-class
+			shuttlecraft... one passenger.
+
+					TROI
+			We're awfully far from the Klingon
+			Empire... it can't be a
+			coincidence the shuttle's at these
+			coordinates.
+
+					DATA
+			Agreed.
+				(to Giusti)
+			Open a channel.
+
+23   INCLUDE VIEWSCREEN (OPTICAL)
+
+	The screen comes on and shows KORAL -- a large Klingon
+	with a brooding look and ill-disposition.
+
+					DATA
+				(continuing)
+			I am Lieutenant Commander Data of
+			the Federation Starship
+			Enterprise.
+
+	Koral barely reacts... after a beat he gives a grunt
+	that might be a word.
+
+					KORAL
+			Koral.
+
+	Data and Troi exchange a glance.
+
+					DATA
+			I take it that is your name?
+
+	Silence.
+
+					DATA
+			May I inquire as to your
+			destination?
+
+					KORAL
+			No.
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    29.
+
+23   CONTINUED:
+
+					DATA
+			May I ask the purpose of your
+			journey?
+
+					KORAL
+			No.
+
+	Beat.
+
+					DATA
+			Perhaps I have not made our
+			intentions clear... we are
+			investigating a --
+
+	Koral shuts OFF the transmission and the screen returns
+	to a view of space.
+
+					DATA
+				(continuing)
+			He seems... most uncooperative.
+
+					TROI
+			He may have been curt, but he was
+			also very worried... even a little
+			scared.
+
+					WORF
+			Sir... I recommend that we bring
+			the shuttle aboard with our
+			tractor beam, search it, and
+			interrogate Koral.
+
+					DATA
+			According to the terms of the
+			Klingon/Federation Treaty, Koral
+			has every right to free transit
+			through Federation space. We
+			cannot board or search his vessel
+			without cause.
+
+	Worf looks as if he might object, but then he quickly
+	suppresses that instinct... he's trying hard to live up
+	to his new role as the loyal first officer.
+
+					WORF
+			Yes, sir.
+				(thinks)
+			However... the Treaty also gives
+			us the right to conduct... health
+			and safety inspections of any ship
+			in our space.
+
+					TROI
+			Health and safety inspections... ?
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    30.
+
+23   CONTINUED: (2)
+
+					DATA
+				(thinks)
+			Article forty-seven, paragraph
+			three, subsection B: "Starfleet
+			will have the right to insure all
+			Klingon vessels comply with safety
+			and navigational regulations as
+			specified by mutual agreement."
+				(beat)
+			But I am not sure that using this
+			clause as an excuse to conduct a
+			search would be consistent with
+			the spirit of the Treaty.
+
+	Worf looks disappointed, but again keeps his opinion to
+	himself.
+
+					WORF
+			Yes, sir.
+
+	Beat.
+
+					DATA
+			However, if Koral wishes to
+			contest our actions he can file a
+			protest with the Judge Advocate
+			General's office.
+				(to Worf)
+			Bring the shuttle aboard and then
+			you and Doctor Crusher may begin
+			the inspection.
+
+	Worf smiles and heads toward the Turbolift.
+
+					WORF
+			Aye, sir.
+
+	Off Data's neutral expression...
+
+                                             CUT TO:
+
+24   INT. SHUTTLEBAY
+
+	A short time later. The KLINGON SHUTTLE has now been
+	brought into the bay. Worf and BEVERLY approach the
+	shuttle door and wait. The door to the shuttle OPENS
+	and Koral begins to step out...
+
+24A  ON BEVERLY
+
+	as she looks up... and up... and up...
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    30A.
+
+24B  RESUME SCENE
+
+	Revealing Koral as he stands before Beverly -- he may
+	be the tallest Klingon we've ever seen. He stands
+	there towering above Beverly like some kind of
+	displeased skyscraper. She is a little taken aback,
+	but then steadies herself.
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    31.
+
+24B  CONTINUED:
+
+					BEVERLY
+			Hello.
+				(beat)
+			I'm Doctor Crusher, and this is
+			Lieutenant Worf.
+
+	Silence.
+
+					BEVERLY
+				(continuing)
+			We're here to conduct the health
+			and safety inspection of your
+			ship.
+
+					KORAL
+				(with contempt)
+			Health and safety inspection...
+
+					BEVERLY
+			That's right. You know...
+			radiation leaks... biochemical
+			contamination... other health
+			hazards...
+
+	A long beat as Koral glares at her... Worf begins to
+	wonder if he'll have to use force on this guy... then
+	Koral finally steps aside. Beverly takes out her
+	tricorder with some relief and starts to scan the ship
+	as Koral and Worf eye each other warily.
+
+					BEVERLY
+				(continuing)
+			Well... no radiation so far... I'm
+			sure you're glad to hear that...
+
+	Koral gives her another glare.
+
+					BEVERLY
+			Right.
+
+	As she begins to go inside the shuttle...
+
+                                             CUT TO:
+
+25   INT. MERCENARY SHIP - BRIDGE
+
+	Baran is standing in command when Vekor suddenly sees
+	something on her console. Picard is at the weapons
+	console and Riker is in the b.g.
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    31A.
+
+25   CONTINUED:
+
+					VEKOR
+			There's an incoming message...
+			it's from the Klingon shuttle.
+
+    STAR TREK: "Gambit, Part II" - 08/06/93 - ACT THREE    32.
+
+25   CONTINUED: (2)
+
+	That gets Baran's attention and he moves to stand near
+	Vekor's console. Riker and Picard exchange glances in
+	the b.g.
+
+					VEKOR
+			It was sent approximately fifteen
+			minutes ago.
+				(beat, off console)
+			He's at the rendezvous
+			coordinates... but he's been
+			detained by the Enterprise.
+				(beat)
+			That's all there is... he stopped
+			transmitting.
+
+	Baran takes a couple of steps away and tries to
+	think... he's very disturbed by this new development.
+
+					BARAN
+			The Enterprise...
+
+	Picard throws Riker a suspicious look.
+
+					PICARD
+			How could they have found out
+			about the rendezvous, Commander?
+
+					RIKER
+			How could I have known the
+			rendezvous coordinates? If anyone
+			sent them a message it must've
+			been one of you.
+
+					PICARD
+			Or maybe you're a clever liar.
+
+					BARAN
+			Quiet.
+				(beat)
+			All that matters now is that the
+			Enterprise has the second artifact
+			in their possession.
+
+					PICARD
+			How can you be sure Koral had the
+			piece when he was captured?
+
+					BARAN
+			The Klingon? He reported a
+			positive Terikon match two weeks
+			ago.
+				(beat)
+			We have no choice... we'll have to
+			board the Enterprise and take the
+			artifact.
+
+  STAR TREK: "Gambit, Part II" - REV. 08/06/93 - ACT THREE  33.
+
+25   CONTINUED: (3)
+
+	There is general disbelief around the Bridge at this
+	statement.
+
+					PICARD
+			You have a very bad sense of
+			humor, Baran.
+
+					BARAN
+				(ignoring him)
+			They're not expecting an attack,
+			so they won't have their shields
+			up... we'll stay just outside
+			visual range -- they can't pick us
+			up on their long range sensors...
+			and then we'll transport a raiding
+			party aboard.
+
+					PICARD
+			Do you have any idea how many
+			security officers they have on a
+			ship like that?
+
+					BARAN
+			No, I don't...
+				(looks at Riker)
+			... but he does.
+
+	Riker thinks about this for a moment... then realizes
+	that the best way to keep anyone from getting hurt on
+	a raid like this is for him to lead it.
+
+					RIKER
+			I can get you aboard... and I can
+			find that artifact.
+
+					PICARD
+				(sarcastic)
+			Oh, how convenient... we'll just
+			beam you aboard your old ship and
+			then hope that you won't change
+			your mind and decide to betray us?
+
+					RIKER
+			I've already saved your life
+			twice, Galen. I'd think you'd
+			start to show a little gratitude
+			by now.
+
+					BARAN
+			Galen, if you're so worried about
+			Riker, then you can go along on
+			the raid to watch him.
+
+					PICARD
+			Agreed.
+
+  STAR TREK: "Gambit, Part II" - REV. 08/06/93 - ACT THREE  34.
+
+25   CONTINUED: (4)
+
+					BARAN
+				(to Picard)
+			Draw weapons and equipment for a
+			raiding party of five.
+
+	Picard nods and then EXITS. Baran motions for Riker to
+	come close for a private chat.
+
+					BARAN
+			In case you are thinking of
+			betraying us to your friends on
+			the Enterprise...
+				(points at device)
+			... you might remember that I can
+			still kill you at the first sign
+			of trouble.
+
+					RIKER
+			I haven't forgotten.
+
+	Baran eyes him briefly, seems to come to a decision.
+
+					BARAN
+			I have an additional task for
+			you... one that will prove your
+			loyalty.
+				(beat)
+			This raid is an opportunity to get
+			rid of Galen. Once you've found
+			the artifact... kill him.
+
+	Baran moves away. Off Riker's expression...
+
+                                             FADE OUT.
+
+                       END OF ACT THREE                         
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     35.
+
+                           ACT FOUR                             
+
+	FADE IN:
+
+26   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship hangs in space.
+
+27   INT. OBSERVATION LOUNGE
+
+	Data and Troi are trying to get Koral engaged in
+	conversation, but aren't having much luck. Data is
+	pouring them drinks from a pitcher of liquid.
+
+					TROI
+			I'm sure the health and safety
+			inspection won't last much longer.
+			In the meantime, I'm glad we have
+			this opportunity to get to know
+			you. May I ask what business
+			you're in?
+
+	Silence. Troi tries again.
+
+					TROI
+				(continuing)
+			I hope we're not causing you too
+			much inconvenience... were you on
+			a tight schedule?
+
+	Nothing. Troi looks to Data for help.
+
+					DATA
+				(re: drinks)
+			Lieutenant Worf has programmed our
+			replicators to make a very good
+			approximation of Klingon
+			bloodwine. I think you will find
+			it to your liking.
+
+	Koral takes the mug, looks at it for moment, then
+	deliberately pours it out onto the deck. Troi and Data
+	exchange looks... they're not going to get much out of
+	this guy.
+
+                                             CUT TO:
+
+28   INT. SHUTTLEBAY (OPTICAL)
+
+	Beverly and Worf are standing outside the Klingon
+	shuttle. Beverly closes her tricorder in frustration.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     36.
+
+28   CONTINUED:
+
+					BEVERLY
+			Well, that's my third scan and I
+			still can't find anything out of
+			the ordinary.
+
+					WORF
+			He must be hiding something. We
+			should download his computer
+			memory and analyze it.
+
+					BEVERLY
+			I'd have a tough time defending
+			that as part of a safety
+			inspection.
+
+					WORF
+			We could claim that the computer
+			was generating abnormal radiation
+			signatures...
+
+					BEVERLY
+			Worf, we're on pretty shaky ground
+			as it is... we can't just start --
+
+	Suddenly Picard, Riker, Narik, and TWO N.D. Mercenaries
+	MATERIALIZE in the shuttlebay. They all have phasers
+	out and Riker quickly FIRES at a N.D. Enterprise
+	Crewmember in the bay. The Crewmember falls to the
+	ground, stunned. Worf automatically reaches for his
+	phaser, but Picard levels his weapon at a shocked Worf.
+
+					PICARD
+			Don't.
+
+	Riker points at one of the Mercenaries.
+
+					RIKER
+			Watch that door.
+
+	The Mercenary moves to stand near the door to the
+	Corridor. Picard, Narik, and Riker move to the Klingon
+	shuttle, keeping their weapons trained on Worf and
+	Beverly, who don't quite know how to react to this
+	sudden invasion by their supposedly dead captain and
+	former first officer.
+
+					WORF
+			What is going on?
+
+					NARIK
+			Keep your mouth shut, Klingon.
+
+	Picard pulls out a tricorder and quickly scans the
+	shuttle.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     37.
+
+28   CONTINUED: (2)
+
+					RIKER
+				(to Beverly)
+			Surprised to see me, Doctor?
+
+					BEVERLY
+			You could say that.
+
+					RIKER
+			I decided to make a career
+			change...
+
+					PICARD
+				(closes tricorder)
+			It's not in here.
+				(to Worf)
+			Where's the artifact?
+
+					WORF
+			I... don't know what you're
+			talking about.
+
+	Riker reaches out and pushes the phaser away.
+
+					RIKER
+				(to Picard)
+			Use your brain. They wouldn't be
+			down here searching the shuttle if
+			they'd already found it. Koral
+			must have it with him.
+				(to Beverly)
+			Where's the Klingon pilot?
+
+	Beverly gives him a long look... Riker nods his head
+	ever so slightly and then she answers.
+
+					BEVERLY
+			He's in the Observation Lounge
+			with Data and Troi.
+
+					NARIK
+				(to Riker)
+			How far is that?
+
+					RIKER
+			It's twelve decks away.
+
+					WORF
+			Security will not allow you to get
+			that far.
+
+	Riker looks over at a large Enterprise shuttle in the
+	bay.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     38.
+
+28   CONTINUED: (3)
+
+					RIKER
+			They won't get the chance. We can
+			use the transporter in that
+			shuttle and beam directly to the
+			Observation Lounge.
+
+	Riker points his phaser at Beverly and Worf.
+
+					RIKER
+				(to Beverly and Worf)
+			Sorry about this...
+
+	He FIRES his phaser at them both, and they both fall to
+	the ground, stunned. Riker heads for the Enterprise
+	shuttle.
+
+                                             CUT TO:
+
+29   INT. OBSERVATION LOUNGE (OPTICAL)
+
+	Data, Troi, and Koral as seen before.
+
+					DATA
+			Koral, if you could tell us
+			something about the nature of your
+			mission --
+
+	Riker, Picard, Narik and the N.D. Mercenaries suddenly
+	MATERIALIZE in the room. Data leaps up, but the
+	Mercenaries have the drop on them all and there's
+	nothing he can do.
+
+					KORAL
+				(outraged)
+			What is this?
+
+					RIKER
+			Quiet.
+				(to Picard)
+			Does he have it?
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     39.
+
+29   CONTINUED:
+
+	Picard quickly scans Koral with his tricorder... then
+	reaches into a pocket on Koral's uniform and pulls out
+	a small ARTIFACT which is similar in shape and design
+	to the artifact identified by Picard in the Mercenary
+	cargo hold.
+
+					PICARD
+			This is it.
+
+					NARIK
+				(to Picard)
+			Are you sure, Galen?
+
+					PICARD
+			Yes, I recognize the inscription
+			pattern from the first artifact.
+
+	Data and Troi have been quietly watching all this,
+	trying to figure out just what to do. Data finally
+	decides that the obvious thing to say is probably the
+	correct one.
+
+					DATA
+			Commander Riker, by taking this
+			action you risk charges of
+			assault, theft, piracy, and
+			treason.
+
+					RIKER
+			Really? Then I guess adding one
+			more charge wouldn't hurt.
+
+	With that, Riker turns and points his phaser at Picard,
+	but Picard is faster and he jumps out of the way as
+	Riker FIRES. The shot MISSES and Picard rolls out of
+	the way and FIRES at Riker, catching him in the chest.
+	Riker goes down. Everyone is shocked as Picard picks
+	himself off the deck. Troi quickly moves to Riker and
+	checks his pulse.
+
+					PICARD
+			Is he dead?
+
+	Troi looks at him for a beat, and then gives him the
+	answer she hopes he wants to hear.
+
+					TROI
+			Yes.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     40.
+
+29   CONTINUED: (2)
+
+					PICARD
+			Good.
+				(to Narik)
+			Activate the transporter.
+				(to Data)
+			Good-bye.
+
+					DATA
+			Good-bye.
+
+	The Mercenaries all DEMATERIALIZE.
+
+					DATA
+				(to com)
+			Security alert. Emergency medical
+			team to the Observation Lounge.
+			Data to Bridge, raise shields and
+			begin sensor sweeps for the
+			mercenary ship.
+
+					GIUSTI'S COM VOICE
+			Aye, sir.
+
+	Data bends down to examine Riker.
+
+					TROI
+				(to Data)
+			He's all right. He's just
+			stunned.
+
+					DATA
+			I must admit I am experiencing the
+			same sensation.
+
+	Riker begins to come to on the deck. He looks up at
+	them and tries to blink away the cobwebs.
+
+					RIKER
+			This is going to take some time to
+			explain...
+
+                                             CUT TO:
+
+30   INT. MERCENARY - BRIDGE
+
+	Baran in command, Tallera, and Vekor at their stations.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     41.
+
+30   CONTINUED:
+
+					BARAN
+				(to Con)
+			Set course three one zero mark two
+			one five, warp six.
+
+	Picard, Narik, and the other N.D. Mercenaries ENTER the
+	Bridge. Picard strides right up to Baran, his face set
+	in anger, but Baran regards him coolly.
+
+					BARAN
+			Where is it?
+
+	Picard pulls out the artifact and tosses it to Baran.
+
+					PICARD
+			Oh, I do have something else for
+			you...
+
+	Baran looks up and then Picard suddenly PUNCHES Baran
+	right in the mouth, knocking him back off his feet.
+	Everything on the Bridge comes to a stop as people turn
+	to watch this turn of events. Picard faces the Bridge
+	crew, his tone and bearing flushed with anger.
+
+					PICARD
+			Tell them what happened, Narik.
+
+					NARIK
+			Riker turned on us... he tried to
+			kill Galen before we beamed back.
+
+					PICARD
+			He might have killed all of us.
+			And I believe he was acting on the
+			direct orders of Baran.
+				(looks at Baran)
+			You betrayed us.
+
+	Baran gets back on his feet, rage flickering behind his
+	eyes... but he warily glances around at the faces of
+	his crew, trying to read their expressions -- who will
+	they support? Picard rushes on, not giving Baran a
+	chance to rebut him.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     42.
+
+30   CONTINUED: (2)
+
+					PICARD
+				(continuing)
+			I say this has gone on long
+			enough. It's time for a new
+			commander... someone who will
+			lead us to the profits we've been
+			promised.
+
+					BARAN
+			And who would that be? You,
+			Galen?
+				(to all)
+			He's plotted this all along...
+			opposed me at every turn...
+			endangered all of us with his
+			stubborn refusal to follow orders.
+
+					PICARD
+			A refusal to follow your orders...
+			the orders of a small man trying
+			to fill a role too big for him.
+
+					BARAN
+			I have kept this crew alive... I
+			am about to bring us more profits
+			than any of --
+
+					PICARD
+				(to all)
+			More promises of riches. More
+			excuses for Baran to fill his own
+			coffers while the rest of us go
+			begging. I say it's time for a
+			change. Who's with me?
+
+	A tense moment... then Tallera, Narik and two N.D.s
+	move to stand with Picard. Vekor hesitates, then goes
+	to Picard, along with one more N.D. Baran is alone...
+	he can see the writing on the wall and he feels
+	cornered.
+
+					PICARD
+				(quiet)
+			It's over, Baran.
+
+					BARAN
+			Not quite.
+
+	He pulls out the control device... everyone glances at
+	it with a sense of apprehension. The device is Baran's
+	trump card and they know it.
+
+     STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FOUR     43.
+
+30   CONTINUED: (3)
+
+					BARAN
+				(continuing)
+			As long as I have this, I'm still
+			in command.
+
+					PICARD
+			You can't kill us all... you need
+			us to run the ship more than we
+			need you to command it.
+
+					BARAN
+			I don't need to kill you all...
+			just you, Galen. Somehow I think
+			that watching you writhe in your
+			death throes may change a few
+			minds... and a few is all I need.
+
+	He lifts the device, sets it to kill and prepares to
+	press the button...
+
+                                             FADE OUT.
+
+                        END OF ACT FOUR                         
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      44.
+
+                           ACT FIVE                             
+
+	FADE IN:
+
+31   INT. MERCENARY BRIDGE (OPTICAL)
+
+	Continuous from Act Four. Baran presses the button on
+	the control device and then suddenly Baran grabs his
+	own neck in pain and drops to the floor, dead -- a
+	stunned look on his face. Everyone is shocked except
+	Picard, who moves to Baran's body and takes the control
+	device out of his limp hand. Tallera moves to him.
+
+					TALLERA
+			What happened?
+
+	Picard's expression is grim... he regrets this, but
+	felt he had no choice.
+
+					PICARD
+			I switched our transponder codes.
+			It seemed like a prudent, if
+			regrettable step.
+
+					TALLERA
+			Baran was nothing. We have a
+			mission to complete...
+				(with meaning)
+			... and the crew needs a leader.
+
+	Picard turns away from Baran and faces the Bridge crew
+	who are all looking to him. He looks down at the
+	control device in his hand... then deliberately sets it
+	on the deck, pulls his weapon and DESTROYS it with a
+	phaser blast.
+
+					PICARD
+			There'll be no more "punishment"
+			on this ship. Do your duties and
+			I'll see to it that we complete
+			our mission... and get our
+			payment.
+
+	A long beat as the crew looks at him... they glance at
+	each other... then finally return to their places on
+	the Bridge. Tallera picks up the artifact from where
+	Baran dropped it.
+
+					TALLERA
+				(to Narik, re: Baran's
+				 body)
+			Remove that.
+
+	Narik begins dragging Baran's body off the Bridge.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      45.
+
+31   CONTINUED:
+
+					VEKOR
+				(to Picard)
+			Orders?
+
+					PICARD
+			Maintain course and speed for now.
+			I'm going to find out where and
+			when we're supposed to deliver our
+			cargo.
+
+					VEKOR
+			Aye... Captain.
+
+	It's been a while since anyone called Picard that and
+	he can't help but smile a little at the irony... then
+	he and Tallera EXIT.
+
+                                             CUT TO:
+
+32   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+	(FOMERLY SCENE 33)
+
+	at impulse.
+
+33   INT. READY ROOM (OPTICAL)
+	(FORMERLY SCENE 34)
+
+	Riker working on a PADD.
+
+					WORF'S COM VOICE
+			Worf to Commander Riker. Minister
+			Satok of Vulcan Security is
+			standing by on a secure channel.
+
+					RIKER
+			Put it through in here.
+
+	The desktop MONITOR is activated, and we see the image
+	of SATOK -- a middle-aged Vulcan male, appear on the
+	screen.
+
+					SATOK
+			Greetings, Commander. How may I
+			be of service?
+
+					RIKER
+			Minister, I wanted to let you know
+			that the mercenary ship which has
+			been raiding planets in the Taugan
+			sector is probably on its way to
+			Vulcan right now.
+
+					SATOK
+			I do not understand.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      46.
+
+33   CONTINUED:
+
+					RIKER
+			I'm sorry. It's been a difficult
+			couple of days.
+				(beat)
+			I know that one of your operatives
+			has been investigating the
+			assembly of the psionic resonator
+			on a mercenary ship for several
+			months. I didn't want someone to
+			make a mistake and start firing at
+			them when they approach your
+			planet.
+
+	A long beat as Satok thinks. He looks at Riker with a
+	puzzled expression.
+
+					SATOK
+			Commander, I believe there is a
+			problem.
+				(beat)
+			We have no operative aboard a
+			mercenary ship.
+
+	Riker looks blankly at the screen for a moment... then
+	he starts to realize. OFF Riker's shocked reaction...
+
+                                             CUT TO:
+
+34   INT. BARAN'S QUARTERS
+
+	Picard and Tallera are at the computer console which
+	has a great deal of text information on the screen.
+	The two pieces of the resonator are sitting on a nearby
+	table.
+
+					PICARD
+				(off monitor)
+			According to Baran's logs, the two
+			artifacts are supposed to be
+			delivered... to the T'Karath
+			Sanctuary on Vulcan.
+
+					TALLERA
+			I know that place. It was an
+			underground stronghold for one of
+			the factions during the last civil
+			war. It's been abandoned for
+			centuries.
+
+	Picard hits his combadge.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE         47.
+
+34   CONTINUED:
+
+					PICARD
+				(to com)
+			Galen to Bridge. Alter course for
+			Vulcan.
+
+					VEKOR'S COM VOICE
+			Understood.
+
+	Picard sits back and his gaze is drawn to the two
+	pieces of the resonator on the table. His curiosity is
+	piqued and he carefully examines them...
+
+					PICARD
+				(to Tallera)
+			Perhaps you can help me with
+			something... I've been able to
+			translate most of the writing on
+			these pieces...
+
+34A  INSERT - ON RESONATOR PIECES
+
+	Picard picks up the two pieces together and runs his
+	fingers over the intricate inscriptions.
+
+					PICARD'S VOICE
+			For the most part, they're just
+			warnings of death and destruction
+			for those who oppose the
+			resonator...
+
+34B  RESUME SCENE
+
+	As before. Picard turns the large piece over and shows
+	Tallera the bottom of the base piece.
+
+					PICARD
+			But this hieroglyph on the
+			anterior has me a bit puzzled.
+
+34C  INSERT - ON BASE PIECE
+
+	The bottom of the base has TWO large SYMBOLS -- one an
+	intricate series of circles and lines, the other a more
+	abstract drawing of heroic Vulcan figure. There is a
+	large NOTCH missing from the base at the point where
+	the third piece is supposed to fit into it. PART of a
+	jagged LINE borders the area of the missing piece --
+	it's incomplete, suggesting yet another symbol on the
+	other piece.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      48.
+
+34C  CONTINUED:
+
+					PICARD'S VOICE
+			This is clearly the Vulcan god of
+			war... and this is the god of
+			death...
+
+34D  RESUME SCENE
+
+	Picard indicates the point where the missing piece
+	would fit.
+
+					PICARD
+			But if you look closely you can
+			see that there is a third symbol
+			missing -- which should be on the
+			final piece. The odd thing is
+			that typically, the gods of war
+			and death would stand alone on an
+			artifact... they would never be
+			combined with a third glyph.
+
+	Tallera looks it over for a moment.
+
+					TALLERA
+			Fascinating. But I am not an
+			archaeological expert.
+
+					PICARD
+			Hmmmm. I'm anxious to see the
+			final artifact... it may provide
+			a new insight into Vulcan
+			mythology.
+
+	Picard continues to look at the pieces. Tallera brings
+	them back to the business at hand.
+
+					TALLERA
+			When we arrive at Vulcan, I will
+			take these pieces to a secure
+			holding area before going to the
+			Sanctuary. I prefer to go
+			alone... it will arouse less
+			suspicion among the isolationists.
+
+					PICARD
+				(nods agreement)
+			We shouldn't have any problems
+			entering orbit.
+					(MORE)
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE     48A.
+
+34D  CONTINUED:
+
+					PICARD (Cont'd)
+			I told Commander Riker to contact
+			the Vulcan authorities from the
+			Enterprise and warn them of our
+			approach.
+
+	Tallera is caught off-guard by this and her face
+	momentarily registers surprise.
+
+					PICARD
+				(off her reaction)
+			I didn't want to risk a
+			misunderstanding... someone might
+			have mistaken this for an actual
+			raid...
+
+	Picard trails off... he saw the quick look of shock on
+	Tallera's face... he's beginning to feel that something
+	is definitely not right here.
+
+					TALLERA
+				(covering)
+			It was a wise precaution.
+
+	A beat. Picard's suspicions have been raised by this
+	quick look of surprise... he begins to probe around a
+	bit, watching her reactions carefully.
+
+					PICARD
+			Perhaps I should contact the
+			Enterprise... have them meet us
+			at Vulcan in case these
+			isolationists try to escape.
+
+					TALLERA
+			Your offer is appreciated... but
+			our security forces are more than
+			adequate.
+
+					PICARD
+			I see.
+				(beat)
+			Are you sure it's wise for you to
+			go to the Sanctuary alone? After
+			all, they're expecting Baran to
+			show up, not you. If I
+			accompanied you, it may seem more
+			plausible that --
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE        48B.
+
+34D  CONTINUED: (2)
+
+					TALLERA
+			Captain, I understand your human
+			emotional need to be there at the
+			final moment... but this is a
+			Vulcan matter.
+
+	Tallera has given him perfectly valid answers to all
+	his questions... he smiles in agreement, but there is
+	still something bothering him at the back of his mind.
+
+					PICARD
+			Of course.
+
+					TALLERA
+			Thank you.
+
+	She picks up the two pieces of the resonator and EXITS.
+	Picard looks after her for a moment... then follows.
+
+                                             CUT TO:
+
+       STAR TREK: "Gambit, Part II" - REV. 08/11/93 - ACT FIVE      49.
+
+35   EXT. SPACE - MERCENARY SHIP AND VULCAN (OPTICAL)
+
+	The Mercenary ship enters orbit around the planet
+	Vulcan.
+
+36   INT. MERCENARY SHIP - BRIDGE
+
+	Picard in command, Tallera, Vekor, and Narik at their
+	stations.
+
+					VEKOR
+			We have entered orbit of Vulcan.
+
+	Tallera takes the two pieces of the resonator and moves
+	toward the transporter pad. But Picard stops her.
+
+					PICARD
+			Tallera... I've decided on a
+			change of plan. Leave one
+			artifact here for now. Take the
+			other... and once we have our
+			payment in hand, we'll complete
+			the delivery.
+
+	Tallera looks at him, trying to gauge what he's up to.
+	This is a delicate game being played out in full view
+	of the mercenary crew.
+
+					TALLERA
+			That was not the agreement.
+
+					PICARD
+			I realize that. But it would be
+			safer for all concerned if we kept
+			one piece here.
+
+					TALLERA
+			They will not pay us until they
+			get both pieces.
+
+					PICARD
+			They've waited a long time for
+			this. They won't take any risks
+			at this stage. Take the piece and
+			beam down.
+
+	Tallera holds his gaze for a moment. After a beat, she
+	decides on a bolder move. She moves to him,
+	confronting Picard directly. Again her words are meant
+	for the benefit of the crew, who are watching them both
+	closely.
+
+					TALLERA
+			That is all I was waiting for.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      50.
+
+36   CONTINUED:
+
+	She turns and faces the rest of the crew.
+
+					TALLERA
+				(to Vekor)
+			Go to the navigational computer
+			and check file one-three-seven-slash-omega.
+			You'll find a
+			message secretly transmitted to
+			the Enterprise, containing our
+			entire flight plan.
+
+	There are shocked reactions around the Bridge. Vekor
+	goes to the navigational console and works for a
+	moment. Picard knows she has him dead to rights and he
+	can't deny it.
+
+					VEKOR
+				(shocked, off monitor)
+			She's right.
+
+					TALLERA
+			That message was sent by Galen...
+			he's a Starfleet officer.
+
+	The crew reacts with dismay. Narik grabs a phaser and
+	points it at Picard.
+
+					NARIK
+				(to Tallera)
+			Why didn't you tell us before?
+
+					TALLERA
+			I wasn't sure until he tried to
+			stop me from taking the artifacts
+			to the surface. Then I knew he
+			was intentionally obstructing our
+			plans to keep us from being paid.
+
+	Picard's mind races... looking for a counter move.
+
+					PICARD
+			Tallera's right, I am a Starfleet
+			officer... but what she's not
+			telling you is that those
+			artifacts in her hand are part of
+			an incredibly powerful weapon.
+			There's no reward waiting for you
+			down on the surface. Tallera will
+			take the artifacts and leave you
+			here, to be captured by Starfleet.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE     50A.
+
+36   CONTINUED: (2)
+
+	Everyone looks at Tallera, who has to think fast. She
+	looks at them.
+
+					TALLERA
+			I've served on this ship for
+			almost a year now... fought by
+			your sides... protected you from
+			Baran when I could... and now I've
+			exposed a spy in our midst.
+				(beat)
+			I think I've proven my loyalty.
+
+					PICARD
+				(to others)
+			You know Tallera... you know she's
+			a woman of great patience. She's
+			bided her time and waited for this
+			moment. All she cares about is
+			assembling that weapon. If she
+			leaves this ship you'll never see
+			her again.
+
+	There's a beat as they consider this.
+
+					VEKOR
+				(to Tallera)
+			I don't care what it is you want,
+			Tallera. I don't care if that's
+			a weapon for your private use or
+			if you're really just making a
+			delivery as planned. All I care
+			about is my money.
+				(beat)
+			So I propose a compromise. Narik
+			and I will go with you to the
+			surface to guarantee we receive
+			payment. After that, you can go
+			wherever you want.
+
+					TALLERA
+			Agreed.
+				(re: Picard)
+			Bring him as well. We can use him
+			as a hostage if Starfleet
+			arrives... if not we'll kill him
+			on the surface.
+
+	Picard has little choice in the matter as Narik nods
+	and roughly shoves him toward the pad.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE         51.
+
+37   INT. VULCAN CAVERN (OPTICAL)
+
+	This used to be a hideaway for Vulcan soldiers over two
+	thousand years ago -- think of the catacombs where
+	Christians used to hide from the Romans. The cavern
+	itself is dark and gloomy, and there are remnants of
+	decaying Vulcan artifacts lying around... some cracked
+	and peeling glyphs on the walls... a very old and dusty
+	place. A crude stone altar dominates the room. In
+	front of the altar is a modern storage CONTAINER.
+
+	Tallera, Vekor, Narik, and Picard MATERIALIZE next to
+	the altar and look around. Tallera indicates the
+	storage container.
+
+					TALLERA
+			There. Your reward as promised.
+
+	Vekor heads for the storage container while Narik
+	guards Picard. Tallera moves to the altar and picks up
+	the third piece of the resonator and begins to link it
+	to the other two.
+
+37A  ON PICARD
+
+	as he reacts to something with puzzlement...
+
+37B  POV PICARD - CLOSE ON THIRD PIECE
+
+	The underside of the third piece has a unique Vulcan
+	symbol on it. As Tallera assembles the resonator, this
+	symbol falls neatly into place with the other two
+	symbols we have seen earlier.
+
+37C  RESUME SCENE
+
+	as Vekor OPENS the storage container and examines the
+	bars of gold-pressed latinum within.
+
+					NARIK
+			Is it all there?
+
+					VEKOR
+			No. This is less than half of
+			what we were promised.
+				(to Tallera)
+			Where is the rest of it?
+
+	Tallera never takes her eyes off the resonator -- it's
+	fully assembled now.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE        51A.
+
+37C  CONTINUED:
+
+					TALLERA
+			That is all I could manage. I
+			suggest you take it and leave.
+
+	Narik stands and points his phaser directly at Tallera.
+
+					NARIK
+			I did not come this far to be
+			cheated. I want it all. Now.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE         52.
+
+37C  CONTINUED: (2)
+
+	Tallera turns to him and a DISSONANT CHORD can be heard
+	in the room... it quickly increases in volume and there
+	is a sense of growing power in the room.
+
+					TALLERA
+			Very well. You will get what you
+			deserve.
+
+38   ON NARIK (OPTICAL)
+
+	As a DISTORTION suddenly appears in the air in front of
+	him... he gives it a puzzled look for a moment, and
+	then a LOUD CRACKLE of energy BLOWS him backwards
+	across the cavern as if by an unseen hand... he falls
+	to the floor, dead.
+
+39   VEKOR (OPTICAL)
+
+	Reacts to Narik's death and points her phaser at
+	Tallera, but she's too late -- the DISTORTION appears
+	in front of her and then Vekor is also killed.
+
+40   WIDER
+
+	As Picard faces Tallera alone in the silent cavern.
+	His eyes automatically drop to one of the phasers lying
+	nearby on the ground -- but it will do him little good
+	in these circumstances.
+
+					TALLERA
+			Go ahead, Captain. Pick up the
+			phaser. See what good it will do.
+
+					PICARD
+			You can't win, Tallera. Starfleet
+			won't stand by while you tear
+			apart one of the founding worlds
+			of the Federation.
+
+					TALLERA
+			How little you understand what you
+			are facing, Captain.
+
+	She takes a few steps toward him... a cat toying with
+	her prey.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      53.
+
+40   CONTINUED:
+
+					TALLERA
+				(continuing)
+			You are used to fighting enemies
+			like yourself... people on ships
+			with energy weapons, defense
+			shields, warp drives... but this
+			is unlike anything you have ever
+			faced. This is the power of the
+			mind.
+				(beat)
+			Pick up the phaser, Captain.
+
+	A tense beat... then suddenly:
+
+41   NEW ANGLE (OPTICAL)
+
+	As Riker, Worf, and TWO N.D. SECURITY GUARDS
+	MATERIALIZE in the cavern. Tallera whirls around to
+	deal with this new threat, but Picard makes a sudden
+	realization and shouts to his officers...
+
+					PICARD
+			Drop your weapons! Do it!
+
+	Riker and the others respond instinctively to Picard's
+	command and they drop their weapons.
+
+					PICARD
+				(continuing)
+			Make no aggressive movements. The
+			resonator amplifys violent
+			thoughts and emotions.
+
+	The officers do as they're told. Tallera concentrates
+	on them and the DISSONANT CHORD is heard building in
+	the room.
+
+					PICARD
+				(to Tallera)
+			That's why you wanted me to take
+			the phaser -- and why you were
+			able to kill Narik and Vekor. It
+			wasn't until I saw the image on
+			the last artifact... that I
+			realized what the message on the
+			resonator was.
+				(beat)
+			The third image is the Vulcan
+			symbol for peace... that symbol is
+			positioned between the symbols for
+			war and death.
+					(MORE)
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE     53A.
+
+41   CONTINUED:
+
+					PICARD (Cont'd)
+			It's a warning... that the
+			resonator's power can be overcome
+			by peace.
+
+					TALLERA
+			You're about to see how wrong you
+			are.
+
+	The DISSONANT CHORD grows in volume.
+
+       STAR TREK: "Gambit, Part II" - REV. 08/11/93 - ACT FIVE      54.
+
+41   CONTINUED: (2)
+
+					PICARD
+				(to officers)
+			Clear your minds of all aggressive
+			thoughts...
+
+	Tallera concentrates... clearly this is a great effort
+	for her.
+
+42   ON RIKER (OPTICAL)
+
+	As the DISTORTION forms in front of him. He steels
+	himself... tries to ignore it... closes his eyes...
+	and then the distortion PASSES DIRECTLY THROUGH HIM
+	without harm.
+
+43   TALLERA
+
+	Reacts... the effort tired her.
+
+					TALLERA
+				(shocked)
+			No...
+
+					PICARD
+			Think, Tallera -- two thousand
+			years ago, your people were being
+			consumed by war... then they found
+			the way of peace and logic.
+			During the same period, the
+			resonator was dismantled... don't
+			you see the connection?
+				(beat)
+			When peace came to Vulcan, the
+			resonator became useless. That is
+			why it was dismantled.
+
+	Tallera summons her strength and tries one more time.
+
+44   WORF (OPTICAL)
+
+	keeps himself calm... as a DISTORTION forms and passes
+	THROUGH HIM.
+
+45   NEW ANGLE
+
+	Tallera sags to one knee... sweat pouring down her
+	forehead... the effort is exhausting her.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE        54A.
+
+45   CONTINUED:
+
+					PICARD
+				(quiet)
+			You were right... the resonator
+			cannot be stopped with phasers or
+			shields. But like every other
+			form of violence... it can be
+			stopped with peace.
+
+	Tallera glares up at him... makes one final effort...
+	but the DISSONANT CHORD only briefly grows in volume...
+	then fades away completely. Tallera drops the
+	resonator to the ground.
+
+	Picard quietly moves to the resonator... picks it up...
+	and carefully removes the pieces. It's finally over.
+	OFF his expression...
+
+                                             CUT TO:
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE      55.
+
+46   EXT. SPACE - THE ENTERPRISE (OPTICAL)
+
+	The ship in orbit around Vulcan.
+
+					PICARD (V.O.)
+			Captain's Log: Stardate 47169.2.
+			Security Minister Satok has taken
+			Tallera into custody and begun a
+			search for the rest of the
+			isolationists.
+
+47   INT. CORRIDOR
+
+	Picard, Riker and Data are walking through the
+	Corridor. Picard is still dressed in his Mercenary
+	outfit. Mid-conversation.
+
+					RIKER
+			Once we realized you weren't on
+			the mercenary ship, we scanned the
+			surface for your neural implant...
+			and tracked the signal to the
+			cavern.
+
+	Picard nods in understanding.
+
+					DATA
+			What will happen to the resonator?
+
+					PICARD
+			Satok assured me that all three
+			pieces will be destroyed.
+
+					DATA
+			It is unfortunate that it cannot
+			be studied. The resonator is a
+			key artifact from a remarkable
+			period of history.
+
+					PICARD
+			Normally, I would be the first to
+			agree with you... but perhaps
+			there are some things best left in
+			the past.
+
+					RIKER
+			What's going to happen to the
+			mercenaries?
+
+					PICARD
+			They have been detained by the
+			Vulcan authorities, for the
+			moment.
+					(MORE)
+
+       STAR TREK: "Gambit, Part II" - REV. 08/10/93 - ACT FIVE     55A.
+
+47   CONTINUED:
+
+					PICARD (Cont'd)
+			But they're also facing charges
+			from the Klingons, the
+			Cardassians, the Ferengi, and
+			about seven other worlds. We
+			won't be hearing from them for
+			quite some time.
+
+	They stop outside Picard's quarters.
+
+					PICARD
+			Number One, set course for
+			Starbase two-twenty-seven. I'll
+			be on the Bridge shortly.
+
+         STAR TREK: "Gambit, Part II" - 08/06/93 - ACT FIVE         56.
+
+47   CONTINUED: (2)
+
+					RIKER
+				(with humor)
+			Wait a minute... You were declared
+			dead, remember? You can't give
+			orders around here.
+
+	Picard smiles at the joke, but Data misses the humor
+	and thinks for a moment.
+
+					DATA
+				(to Riker)
+			If we are to adhere to the exact
+			letter of Starfleet regulations,
+			then technically sir, you have
+			been declared a renegade. In
+			fact, I believe you are facing
+			twelve counts of court martial
+			offenses. You cannot give orders
+			either.
+
+	Picard is quick to jump on this.
+
+					PICARD
+				(to Data)
+			Quite right. I'm going to get
+			some sleep. In the meantime I
+			suggest you escort Commander Riker
+			to the brig.
+
+					DATA
+			Yes, sir.
+
+	Picard EXITS to his quarters and Data takes Riker by
+	the arm.
+
+					DATA
+			This way, sir...
+
+					RIKER
+			Data, he was just joking... you
+			know that, right? Data?
+
+	As they head off down the Corridor...
+
+                                             FADE OUT.
+
+                        END OF ACT FIVE                         
+
