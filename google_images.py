@@ -22,6 +22,9 @@ def find_image(query):
 
   BASE_PATH = path
 
+  if os.path.exists(BASE_PATH + '/' + query + '.jpg'):
+    print "Reusing cached image..."
+    return cv2.imread(BASE_PATH + '/' + query + '.jpg')
   if not os.path.exists(BASE_PATH):
     os.makedirs(BASE_PATH)
 
@@ -66,6 +69,11 @@ def find_character(query):
   BASE_PATH = path
   keywords_i = 0
 
+  if os.path.exists(BASE_PATH + '/' + query + '.jpg'):
+    print "Reusing cached image..."
+    img = cv2.imread(BASE_PATH + '/' + query + '.jpg')
+    results = fd.detect_face(img)
+    return (results, img)
   if not os.path.exists(BASE_PATH):
     os.makedirs(BASE_PATH)
 
