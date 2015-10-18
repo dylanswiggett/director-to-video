@@ -4,6 +4,7 @@ import subprocess
 import numpy
 import cv2
 import copy
+import re
 
 import star_trek_parse
 
@@ -144,29 +145,31 @@ def create_video(script):
         for line in scene.directions:
             if not isinstance(line, Dialog):
                 continue
-            text, character = line.text, line.character
+            text_full, character = line.text, line.character
+            for text in re.split(r"[.,!:;?]+", text_full):
+                if len(text) > 0:
+                    # Begin hax to make voices line up
+                    mouths = voice.generate_line(character.voice, text)
+                    off = float(totalframes) / 24.0 - audioManager.curlen()
+                    starttime = audioManager.curlen() + off
+                    if off < 0: off = 0
+                    audioManager.addAudio('tmp/tmp.wav', off)
+                    length = audioManager.curlen() - starttime
+                    dialogframes = float(len(mouths)) / 24.0
+        #            if length != 0:
+        #                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
+                    # End hax
 
-            # Begin hax to make voices line up
-            mouths = voice.generate_line(character.voice, text)
-            off = float(totalframes) / 24.0 - audioManager.curlen()
-            starttime = audioManager.curlen() + off
-            if off < 0: off = 0
-            audioManager.addAudio('tmp/tmp.wav', off)
-            length = audioManager.curlen() - starttime
-            dialogframes = float(len(mouths)) / 24.0
-#            if length != 0:
-#                mouths = voice.generate_line(character.voice, text, scale=length/dialogframes)
-            # End hax
-
-            for mouth in mouths:
-                frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
-                pipe.stdin.write(frame.tostring())
-                totalframes += 1
-            while (float(totalframes) / 24.0 - audioManager.curlen()) < .5:
-                frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
-                pipe.stdin.write(frame.tostring())
-                totalframes += 1
-            first_line = False
+                    for mouth in mouths:
+                        frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
+                        cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0))
+                        pipe.stdin.write(frame.tostring())
+                        totalframes += 1
+                    while (float(totalframes) / 24.0 - audioManager.curlen()) < .5:
+                        frame = draw_scene(setting_image, scene.characters, character, mouths[-1], first_line)
+                        pipe.stdin.write(frame.tostring())
+                        totalframes += 1
+                    first_line = False
     pipe.stdin.close()
     pipe.wait()
     audioManager.combineWith('tmp/out.mp4', 'movie.mkv')

@@ -15,7 +15,7 @@ import pipes
 voices = [
   ("en1", "50", "2"),
   ("us1", "50", "1"),
-  ("us2", "50", "2"),
+  ("us2", "50", "1"),
   ("us3", "50", "2")
 ]
 
@@ -48,6 +48,7 @@ def generate_mouths(voice_num, phones, fps=24, scale=1.0):
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
 def generate_line(voice_num, line, scale=1.0):
     voice, pitch, volume = voices[voice_num]
+    line = line.replace("'", "")
     phonemes = subprocess.check_output(["./voice.sh", voice, pitch, volume, pipes.quote(line)])
 
     lines = phonemes.split("\n")

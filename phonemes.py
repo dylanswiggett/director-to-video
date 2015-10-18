@@ -58,6 +58,7 @@ phonemes = {
     'A:': O, # ?
     'A@': CDG, # ?
     'E': E,
+    '{': E,
     'e@': CDG, # ?
     'I': AI,
     'I2': AI,
