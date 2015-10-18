@@ -7,18 +7,22 @@
 import star_trek_parse as parser
 import google_images as gi
 import ffmpeg_create_video as ffcv
+import cv2
 
 TESTFILE_PATH = "the-defector.txt"
 
 def main():
   script = parser.parse(TESTFILE_PATH)
   scene = script.scenes[0]
-  scene.setting.image = gi.find_image(setting)
+  scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
+  print(scene.setting.image)
   print "Casting..."
   for character in scene.characters:
-    print(character)
+    print("We have a character " + character)
     character_data = gi.find_character(character.name)
-    character.loc, character.name = character_data
+    loc, image = character_data
+    character.loc = loc
+    character.image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
   ffcv.create_video(script)
 if __name__=="__main__":
     main()    

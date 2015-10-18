@@ -6,7 +6,12 @@ import subprocess
 #
 #
 
-voices = [("en1", "50", "2")]
+voices = [
+  ("en1", "50", "2"),
+  ("us1", "50", "1"),
+  ("us2", "50", "2"),
+  ("us3", "50", "2")
+]
 
 # Given a voice number and a line of dialog, returns an array of tuples phoneme, length (ms)
 def generate_line(voice_num, line):
@@ -24,4 +29,4 @@ def generate_line(voice_num, line):
   return phones
     
  
-generate_line(0, "Data says I am incapable of any feeling")
+generate_line(1, "Space... The final frontier. These are the voyages of the starship Enterprise. It's continuing mission, to explore strange new worlds. To seek out new life and new civilizations. To boldly go where no one has gone before.")
