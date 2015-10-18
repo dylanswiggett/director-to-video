@@ -39,7 +39,7 @@ class Scene:
     def addDirection(self, direction):
         self.directions.append(direction)
 
-        if type(direction) is Dialog:
+        if isinstance(direction, Dialog):
             self.characters.add(direction.character)
 
     def setSetting(self, setting):
