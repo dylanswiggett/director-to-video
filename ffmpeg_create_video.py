@@ -97,7 +97,7 @@ def draw_scene(background, characters, speaking, mouth, first_line):
     speaking_index = character_list.index(speaking)
     n_characters = len(character_list)
     dx = HORIZONTAL_RESOLUTION / n_characters
-    if first_line or (n_characters <= 2):
+    if (first_line and n_characters > 1) or (n_characters == 2):
         for i in range(n_characters):
             character = character_list[i]
             c_img = speaking_img if i == speaking_index else character.image
@@ -105,11 +105,11 @@ def draw_scene(background, characters, speaking, mouth, first_line):
             draw_character(c_img, background, dx * i, background_space, dx - 20, VERTICAL_RESOLUTION - background_space)
     else:
         speaking_x = 0
-        if speaking_index < (n_characters / 2):
-            speaking_x = HORIZONTAL_RESOLUTION / 3
+        if n_characters == 1 or speaking_index < (n_characters / 2):
+            speaking_x = int(0.2 * HORIZONTAL_RESOLUTION)
         else:
-            speaking_x = 2 * HORIZONTAL_RESOLUTION / 3
-        speaking_width = HORIZONTAL_RESOLUTION / 3
+            speaking_x = int(0.8 * HORIZONTAL_RESOLUTION)
+        speaking_width = int(0.38 * HORIZONTAL_RESOLUTION)
         fit_image = fit_character(speaking_img, speaking_width, VERTICAL_RESOLUTION)
         fit_height, fit_width = fit_image.shape[0:2]
         y_offset = VERTICAL_RESOLUTION - fit_height
@@ -126,12 +126,13 @@ def create_video(script):
         script.characters[character].voice = i % 4
         i += 1
 
-    first_line = True
+
     for scene in script.scenes[:5]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
 
+        first_line = True
         for line in scene.directions:
             if not isinstance(line, Dialog):
                 continue
