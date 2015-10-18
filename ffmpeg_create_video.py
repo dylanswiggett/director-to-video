@@ -138,7 +138,7 @@ def create_video(script):
         i += 1
 
 
-    for scene in script.scenes[:5]:
+    for scene in script.scenes[:1]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
@@ -165,7 +165,10 @@ def create_video(script):
 
                     for mouth in mouths:
                         frame = draw_scene(setting_image, scene.characters, character, mouth, first_line)
-                        cv2.putText(frame, text, (5, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0))
+                        # supertitles
+                        text_size = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, 1.0, 2)
+                        text_point = ((HORIZONTAL_RESOLUTION - text_size[0][0])/2, 50)
+                        cv2.putText(frame, text, text_point, cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0), 2)
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
                     while (float(totalframes) / 24.0 - audioManager.curlen()) < .1:
