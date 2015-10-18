@@ -18,9 +18,9 @@ voices = [
   ("us3", "50", "2")
 ]
 
-def generate_mouths(voice_num, line, fps=24, scale=1.0):
-  phones = generate_line(voice_num, line)
+mouth_images = dict()
 
+def generate_mouths(voice_num, phones, fps=24, scale=1.0):
   framelen = 1000.0 / fps # ms
   
   totaloffset = 0
@@ -30,7 +30,6 @@ def generate_mouths(voice_num, line, fps=24, scale=1.0):
 
   for phone in phones:
     p, dur = phone
-    print p
     dur *= scale
     if p in ph.phonemes:
       face = ph.phonemes[p]
@@ -60,29 +59,25 @@ def generate_line(voice_num, line):
       continue
     p, time = phon[0], phon[1]
     phones.append((p, int(time)))
-  return phones
-    
+
+  mouths = generate_mouths(voice_num, phones)
+  mouth_img_list = []
+  for mouth in mouths:
+    if not mouth in mouth_images:
+      path = "mouths/" + mouth
+      mouth_images[mouth] = v.load_image(path)
+    mouth_img_list.append(mouth_images[mouth])
+  return mouth_img_list
+
 if __name__ == "__main__":
   text = "Data says I am incapable of any feeling. I do not think that that is a correct statement, but the matter will require further analysis. Now I am simply talking for a long time, because I do not care if I experience emotion. I am rather more interested in whether or not my lips sync properly with my audio, since I do try to act human if possible."
   au = a.OutputAudio()
   au.addAudio("tmp/tmp.wav", 0)
 
-#  scale = au.curlen() / 
-  mouths = generate_mouths(0, text)
-#  scale = au.curlen() / (len(mouths) / 24.0)
-#  if abs(scale - 1.0) > .001: # Error correct
-#    mouths = generate_mouths(0, text, scale=scale)
-
-  mouth_images = dict()
-  for mouth in mouths:
-    if not mouth in mouth_images:
-      path = "mouths/" + mouth
-      print path
-      mouth_images[mouth] = v.load_image(path)
+  mouth_images = generate_line(0, text)
   pipe = subprocess.Popen(v.ffmpeg_create_video_command, stdin = subprocess.PIPE)
-  for m in mouths:
-    img = mouth_images[m]
-    pipe.stdin.write(v.as_background_image(img).tostring())
+  for m in mouth_images:
+    pipe.stdin.write(v.as_background_image(m).tostring())
   pipe.stdin.close()
 
   au.combineWith("out.mp4", "final.mkv")
