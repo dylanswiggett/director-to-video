@@ -71,7 +71,8 @@ def generate_line(voice_num, line, length=None):
         if not mouth in mouth_images:
             path = "mouths/" + mouth
             mask_path = "mouths/mask_" + mouth
-            mouth_images[mouth] = (v.load_image(path), v.load_image(mask_path))
+            mask2_path = "mouths/mask2_" + mouth
+            mouth_images[mouth] = (v.load_image(path), v.load_image(mask_path), v.load_image(mask2_path))
         mouth_img_list.append(mouth_images[mouth])
     if len(mouth_img_list) == 0:
         mouth_img_list.append(mouth_images["Rest.jpg"])

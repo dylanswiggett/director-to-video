@@ -69,12 +69,14 @@ def draw_character(char, scene, x, y, width, height):
 def draw_mouth(mouth, character, x, y, width, height):
     fit_image = fit_character(mouth[0], width, height)
     fit_mask = fit_character(mouth[1], width, height)
+    fit_mask2 = fit_character(mouth[2], width, height)
     fit_height, fit_width = fit_image.shape[0:2]
     y_offset = y + fit_height / 6
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
     fit_mask = numpy.float32(fit_mask) / 255.0
+    fit_mask2 = numpy.float32(fit_mask2) / 255.0
     char_region = numpy.float32(character[y0:y1,x0:x1])
     inverse_fit_mask = fit_mask * -1 + 1.0
     mul = cv2.multiply(char_region, fit_mask)
@@ -85,6 +87,7 @@ def draw_mouth(mouth, character, x, y, width, height):
     g = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[1]
     b = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[2]
     rgb = cv2.merge((r,g,b))
+    rgb += (rgb * -1.0 + 0.8) * fit_mask2
     fit_image = cv2.multiply(numpy.float32(fit_image), rgb)
     fit_image = cv2.multiply(fit_image, inverse_fit_mask)
     character[y0:y1,x0:x1] = numpy.uint8(mul + fit_image)
@@ -143,7 +146,7 @@ def create_video(script):
         script.characters[character].voice = pv.pick_voice(script, character)
         i += 1
 
-    for scene in script.scenes[:4]:
+    for scene in script.scenes[:1]:
         characters_on_stage = list(scene.characters)
         characters_on_stage = sorted(characters_on_stage, key=lambda character: character.name)
         characters_in_background = list()
