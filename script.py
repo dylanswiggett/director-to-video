@@ -1,14 +1,19 @@
 #!/usr/bin/python
 
+from difflib import SequenceMatcher
+
+def similar(a, b):
+        return SequenceMatcher(None, a, b).ratio()
+
 class Dialog:
-    def __init__(self, character, text, modifier):
+    def __init__(self, character, text):
         self.character = character
         self.text = text
-        self.modifier = modifier
 
 class StageDirection:
-    def __init__(self, text):
+    def __init__(self, text, character=None):
         self.text = text
+        self.character = character
 
 class Character:
     def __init__(self, name):
@@ -34,16 +39,34 @@ class Scene:
         if type(direction) is Dialog:
             self.characters.add(direction.character)
 
+    def setSetting(self, setting):
+        self.setting = setting
+
 class Script:
     def __init__(self):
         self.scenes = []
         self.characters = dict()
+        self.settings = dict()
         
     def addScene(self, scene):
         self.scenes.append(scene)
 
+    def addSetting(self, name):
+        if name in self.settings:
+            return False
+        self.settings[name] = Setting(name)
+        return True
+
+    def getSetting(self, name):
+        sims = [(similar(name,n),self.settings[n]) for n in self.settings]
+        return max(sims)[1]
+
     def addCharacter(self, name):
-        self.characters[name] = Character(name)
+        char = Character(name)
+        names = name.split("/")
+        for subname in names:
+            self.characters[subname] = char
 
     def getCharacter(self, name):
-        return self.characters[name]
+        sims = [(similar(name,n),self.characters[n]) for n in self.characters]
+        return max(sims)[1]
