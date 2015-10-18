@@ -148,7 +148,7 @@ def create_video(script):
         script.characters[character].voice = pv.pick_voice(script, character)
         i += 1
 
-    for scene in script.scenes:
+    for scene in script.scenes[:4]:
         characters_on_stage = list(scene.characters)
         characters_on_stage = sorted(characters_on_stage, key=lambda character: character.name)
         characters_in_background = list()
