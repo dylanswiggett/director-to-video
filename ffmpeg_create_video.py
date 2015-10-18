@@ -156,17 +156,17 @@ def create_video(script):
                 stage_direction = line
                 for action, character in stage_direction.actions:
                     if action == EXIT:
-                        characters_on_stage.remove(character)
-                        characters_in_background.remove(character)
+                        if character in characters_on_stage:
+                            characters_on_stage.remove(character)
+                        if character in characters_in_background:
+                            characters_in_background.remove(character)
                     elif action == ENTER:
                         if not character in characters_on_stage:
                             if character in characters_in_background:
                                 characters_in_background.remove(character)
                             characters_on_stage.append(character)
                     elif action == BACKGROUND:
-                        if not character in characters_in_background:
-                            if character in characters_on_stage:
-                                characters_on_stage.remove(character)
+                        if not character in characters_in_background and not character in characters_on_stage:
                             characters_in_background.append(character)
                 continue
             elif not isinstance(line, Dialog):
