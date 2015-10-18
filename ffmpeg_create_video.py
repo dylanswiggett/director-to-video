@@ -74,7 +74,20 @@ def draw_mouth(mouth, character, x, y, width, height):
     x_offset = x + (width - fit_width) / 2
     y0, y1 = y_offset, (y_offset+fit_height)
     x0, x1 = x_offset, (x_offset+fit_width)
-    character[y0:y1,x0:x1] = cv2.bitwise_and(character[y0:y1,x0:x1], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
+    fit_mask = numpy.float32(fit_mask) / 255.0
+    char_region = numpy.float32(character[y0:y1,x0:x1])
+    inverse_fit_mask = fit_mask * -1 + 1.0
+    mul = cv2.multiply(char_region, fit_mask)
+    m1 = cv2.mean(mul)
+    m2 = cv2.mean(fit_mask)
+    avg = numpy.float32(map(lambda x, y: x/(y * 255.0) if y else 0.0, m1, m2))
+    r = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[0]
+    g = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[1]
+    b = numpy.ones((fit_width,fit_height),numpy.float32)  * avg[2]
+    rgb = cv2.merge((r,g,b))
+    fit_image = cv2.multiply(numpy.float32(fit_image), rgb)
+    fit_image = cv2.multiply(fit_image, inverse_fit_mask)
+    character[y0:y1,x0:x1] = numpy.uint8(mul + fit_image * 1.2)
 
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
@@ -113,7 +126,7 @@ def draw_scene(background, characters_fg, characters_bg, speaking, mouth, first_
         background_space = int(0.4 * VERTICAL_RESOLUTION)
         draw_character(c_img, background, dx_bg * (i * 2), 0, dx_bg, background_space)
     # place characters in foreground
-    dx_fg = HORIZONTAL_RESOLUTION / len(characters_fg)
+    dx_fg = HORIZONTAL_RESOLUTION / max(1, len(characters_fg))
     for i in range(len(characters_fg)):
         character = characters_fg[i]
         c_img = speaking_img if character == speaking else character.image
@@ -141,14 +154,20 @@ def create_video(script):
         for line in scene.directions:
             if isinstance(line, StageDirection):
                 stage_direction = line
-                if EXIT in stage_direction.actions:
-                    characters_on_stage.remove(stage_direction.character)
-                    characters_in_background.remove(stage_direction.character)
-                elif ENTER in stage_direction.actions:
-                    if BACKGROUND in stage_direction.actions:
-                        characters_in_background.append(stage_direction.character)
-                    else:
-                        characters_on_stage.append(stage_direction.character)
+                for action, character in stage_direction.actions:
+                    if action == EXIT:
+                        characters_on_stage.remove(character)
+                        characters_in_background.remove(character)
+                    elif action == ENTER:
+                        if not character in characters_on_stage:
+                            if character in characters_in_background:
+                                characters_in_background.remove(character)
+                            characters_on_stage.append(character)
+                    elif action == BACKGROUND:
+                        if not character in characters_in_background:
+                            if character in characters_on_stage:
+                                characters_on_stage.remove(character)
+                            characters_in_background.append(character)
                 continue
             elif not isinstance(line, Dialog):
                 raise Exception('Line is not dialog or stage direction')
