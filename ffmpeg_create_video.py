@@ -146,10 +146,8 @@ def create_video(script):
             if not isinstance(line, Dialog):
                 continue
             text_full, character = line.text, line.character
-            for text in re.split(r"[.,!:;]+", text_full):
+            for text in re.split(r"([.,!:;?]+)", text_full):
                 if len(text) > 0:
-                    text, character = line.text, line.character
-
                     # Begin hax to make voices line up
                     mouths = voice.generate_line(character.voice, text)
                     off = float(totalframes) / 24.0 - audioManager.curlen()
