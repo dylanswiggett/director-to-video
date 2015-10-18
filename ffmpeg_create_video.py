@@ -47,7 +47,10 @@ def as_background_image(img):
 		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, int(HORIZONTAL_RESOLUTION / ratio)))
 	else:
 		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION))
-	return background_image[0:VERTICAL_RESOLUTION, 0:HORIZONTAL_RESOLUTION]
+	height, width = background_image.shape[0:2]
+	y_offset = (height - VERTICAL_RESOLUTION) / 2
+	x_offset = (width - HORIZONTAL_RESOLUTION) / 2
+	return background_image[y_offset:y_offset+VERTICAL_RESOLUTION, x_offset:x_offset+HORIZONTAL_RESOLUTION]
 
 def create_video(script):
 	setting_images = dict()
