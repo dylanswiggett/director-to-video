@@ -41,6 +41,22 @@ def draw_image(src, dst, x, y, width=0, height=0):
         else:
 	  dst[y:(y+height), x:(x+width)] = cv2.resize(src, (width, height))
 
+def draw_character(char, scene, x, y, width, height):
+	char_height, char_width = char.shape[0:2]
+	char_ratio = float(char_width) / float(char_height)
+	fit_ratio = float(width) / float(height)
+	fit_image = None
+	if char_ratio > fit_ratio:
+		fit_image = cv2.resize(char, (width, int(width / char_ratio)))
+	elif char_ratio < fit_ratio:
+		fit_image = cv2.resize(char, (int(height * char_ratio), height))
+	else:
+		fit_image = cv2.resize(char, (width, height))
+	fit_height, fit_width = fit_image.shape[0:2]
+	y_offset = y + (height - fit_height)
+	x_offset = x + (width - fit_width) / 2
+	scene[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = fit_image
+
 def fit_dimensions(img, fit_width, fit_height):
 	image_height, image_width = img.shape[0:2]
 	image_ratio = float(image_width) / float(image_height)
@@ -68,11 +84,9 @@ def create_video(script):
         dx = HORIZONTAL_RESOLUTION/nchars
         i = 0
         for character in scene.characters:
-                char_img = fit_dimensions(character.image, dx-10, VERTICAL_RESOLUTION)
-                print(type(char_img))
-                draw_image(char_img, setting_image, dx*i, 0)
-                i += 1
-                
+			draw_character(character.image, setting_image, dx*i, 0, dx, VERTICAL_RESOLUTION)
+			i += 1
+
         for j in range(24):
                 pipe.stdin.write(setting_image.tostring())
 	pipe.stdin.close()
