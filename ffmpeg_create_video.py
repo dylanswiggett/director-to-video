@@ -37,29 +37,33 @@ def load_image(filename):
 def draw_image(src, dst, x, y, width, height):
 	dst[y:(y+height), x:(x+width)] = cv2.resize(src, (width, height))
 
-def as_background_image(img):
-	height, width = img.shape[0:2]
-	ratio = float(width) / float(height)
+def fit_dimensions(img, fit_width, fit_height):
+	image_height, image_width = img.shape[0:2]
+	image_ratio = float(image_width) / float(image_height)
+	fit_ratio = float(fit_width) / float(fit_height)
 	background_image = None
-	if ratio > ASPECT_RATIO:
-		background_image = cv2.resize(img, (int(VERTICAL_RESOLUTION * ratio), VERTICAL_RESOLUTION))
-	elif ratio < ASPECT_RATIO:
-		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, int(HORIZONTAL_RESOLUTION / ratio)))
+	if image_ratio > fit_ratio:
+		fit_image = cv2.resize(img, (int(fit_height * image_ratio), fit_height))
+	elif image_ratio < fit_ratio:
+		fit_image = cv2.resize(img, (fit_width, int(fit_width / image_ratio)))
 	else:
-		background_image = cv2.resize(img, (HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION))
+		fit_image = cv2.resize(img, (fit_width, fit_height))
 	height, width = background_image.shape[0:2]
-	y_offset = (height - VERTICAL_RESOLUTION) / 2
-	x_offset = (width - HORIZONTAL_RESOLUTION) / 2
-	return background_image[y_offset:y_offset+VERTICAL_RESOLUTION, x_offset:x_offset+HORIZONTAL_RESOLUTION]
+	y_offset = (height - fit_height) / 2
+	x_offset = (width - fit_width) / 2
+	return background_image[y_offset:y_offset+fit_height, x_offset:x_offset+fit_width]
+
+def as_background_image(image):
+	return fit_size(image, HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION)
 
 def create_video(script):
-	setting_images = dict()
-	for setting in script.settings:
-		setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
+        setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 	for scene in script.scenes:
 		setting_image = setting_images[scene.setting.name]
-		for j in range(24):
+		for character in scene.characters:
+
+                for j in range(24):
 			pipe.stdin.write(setting_image.tostring())
 	pipe.stdin.close()
 

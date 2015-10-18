@@ -6,19 +6,19 @@
 
 import star_trek_parse as parser
 import google_images as gi
-
+import ffmpeg_create_video as ffcv
 
 TESTFILE_PATH = "the-defector.txt"
 
 def main():
   script = parser.parse(TESTFILE_PATH)
-  print "Designing sets..."
-  for setting in script.settings:
-    print(setting)
-    setting_image = gi.find_image(setting)
-  for character in script.characters:
+  scene = script.scenes[0]
+  scene.setting.image = gi.find_image(setting)
+  print "Casting..."
+  for character in scene.characters:
     print(character)
-    character_data = gi.find_character(character)
-   
+    character_data = gi.find_character(character.name)
+    character.loc, character.name = character_data
+  ffcv.create_video(script)
 if __name__=="__main__":
     main()    

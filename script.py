@@ -18,6 +18,8 @@ class StageDirection:
 class Character:
     def __init__(self, name):
         self.name = name
+        self.image = None
+        self.loc = None
 
     def setImage(self, image):
         self.image = image
@@ -25,6 +27,7 @@ class Character:
 class Setting:
     def __init__(self, name):
         self.name = name
+        self.image = None
 
 class Scene:
     def __init__(self, description):
