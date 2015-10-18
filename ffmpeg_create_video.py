@@ -26,7 +26,8 @@ ffmpeg_create_video_command = ['ffmpeg',
 	'-r', '%d' % FRAME_RATE,
 	'-i', '-',
 	'-an',
-	'-vcodec', 'mpeg4',
+	'-b:v', '4M',
+        '-vcodec', 'mpeg4',
 	'%s.mp4' % VIDEO_FILENAME
 	]
 

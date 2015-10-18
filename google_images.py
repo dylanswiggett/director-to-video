@@ -9,6 +9,7 @@ from requests.exceptions import ConnectionError
 import numpy as np
 import cv2
 import face_detect as fd
+import time
 
 def find_image(query):
   """Download full size images from Google image search.
@@ -17,7 +18,7 @@ def find_image(query):
   """
   path = 'tmp/scenes'
   BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
-             'v=1.0&q=' + query + '+star+trek&start=%d'
+             'v=1.0&q=' + query + '+star+trek&start=%d&userip=69.91.178.167'
 
   BASE_PATH = path
 
@@ -27,6 +28,8 @@ def find_image(query):
   start = 0 # Google's start query string parameter for pagination.
   while True:
     r = requests.get(BASE_URL % start)
+    time.sleep(1)
+    print r.text
     for image_info in json.loads(r.text)['responseData']['results']:
       url = image_info['unescapedUrl']
       try:
@@ -43,8 +46,6 @@ def find_image(query):
         arr = np.asarray(bytearray(image_r.content), dtype=np.uint8)
         img = cv2.imdecode(arr,-1) # 'load it as it is'
         # save a copy of the image
-        results = fd.detect_face(img)
-        print(results)
         Image.open(StringIO(image_r.content)).save(file)
         return img
       except IOError, e:
@@ -56,23 +57,27 @@ def find_image(query):
     start += 4
 
  
-
+character_lookup_keywords = ['', 'character', 'face', 'profile', 'head']
 def find_character(query):
   """Download full size images from Google image search.
   Don't print or republish images without permission.
   I used this to train a learning algorithm.
   """
   path = 'tmp/characters'
-  BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
-             'v=1.0&q=' + query + '+character&start=%d'
-
   BASE_PATH = path
+  keywords_i = 0
 
   if not os.path.exists(BASE_PATH):
     os.makedirs(BASE_PATH)
 
   start = 0 # Google's start query string parameter for pagination.
   while True:
+    if start > 8:
+      keywords_i += 1
+      start = 0  
+    print "Searching for " + query + " " + character_lookup_keywords[keywords_i] + " " + str(start)
+    BASE_URL = 'https://ajax.googleapis.com/ajax/services/search/images?'\
+             'v=1.0&q=' + query + '+' + character_lookup_keywords[keywords_i] + '&start=%d'
     r = requests.get(BASE_URL % start)
     for image_info in json.loads(r.text)['responseData']['results']:
       url = image_info['unescapedUrl']
