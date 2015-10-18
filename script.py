@@ -44,12 +44,19 @@ class Scene:
         self.description = description
         self.directions = []
         self.characters = set()
+        self.entering = set()
         self.setting = None
 
     def addDirection(self, direction):
         self.directions.append(direction)
 
-        if isinstance(direction, Dialog):
+        if isinstance(direction, StageDirection):
+            for action in direction.actions:
+                action, char = action
+                if action == ENTER and not char in self.characters:
+                    self.entering.add(char)
+
+        if isinstance(direction, Dialog) and not direction.character in self.entering:
             self.characters.add(direction.character)
 
     def setSetting(self, setting):
