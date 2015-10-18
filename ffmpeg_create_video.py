@@ -8,6 +8,9 @@ import copy
 import star_trek_parse
 
 import google_images as gi
+import ffmpeg_add_audio as ffaa
+import voice
+from script import Dialog
 
 ASPECT_RATIO = 16.0 / 9.0
 VERTICAL_RESOLUTION = 720
@@ -76,20 +79,47 @@ def fit_dimensions(img, fit_width, fit_height):
 def as_background_image(image):
 	return fit_dimensions(image, HORIZONTAL_RESOLUTION, VERTICAL_RESOLUTION)
 
+def draw_scene(background, characters, speaking, mouth):
+        print speaking.name + " is speaking"
+        background = copy.copy(background)
+        speaking_img = copy.copy(speaking.image)
+        if not speaking.loc:
+          print "Error, could not find mouth location"
+          x, y, w, h = 0, 0, 100, 100
+        else:
+          x, y, w, h = speaking.loc['mouth'] 
+        draw_character(mouth, speaking_img, x, y, w, h)
+        nchars = len(characters) + 2
+        dx = HORIZONTAL_RESOLUTION/nchars
+        i = 0
+        for character in characters:
+            c_img = speaking_img if character == speaking else character.image
+            draw_character(c_img, background, dx * i, 0, dx - 10, VERTICAL_RESOLUTION)
+            i += 1
+        return background
+
 def create_video(script):
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
-	scene = script.scenes[0]
+	scene = script.scenes[10]
+        audioManager = ffaa.OutputAudio()
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
         i = 0
         for character in scene.characters:
-			draw_character(character.image, setting_image, dx*i, 0, dx, VERTICAL_RESOLUTION)
-			i += 1
-
-        for j in range(24):
-                pipe.stdin.write(setting_image.tostring())
+            character.voice = i % 4 
+            i += 1
+        for line in scene.directions:
+            if not isinstance(line, Dialog):
+                    continue
+            text, character = line.text, line.character
+            mouths = voice.generate_line(character.voice, text)
+            for mouth in mouths:
+                frame = draw_scene(setting_image, scene.characters, character, mouth)
+                pipe.stdin.write(frame.tostring())
+            audioManager.addAudio('tmp/tmp.wav', 0)
 	pipe.stdin.close()
+        audioManager.combineWith('tmp/out.mp4', 'movie.mkv')
 
 if __name__=="__main__":
 	script = star_trek_parse.parse('the-defector.txt')

@@ -20,6 +20,7 @@ class Character:
         self.name = name
         self.image = None
         self.loc = None
+        self.voice = 0
 
     def setImage(self, image):
         self.image = image
