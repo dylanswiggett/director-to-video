@@ -87,7 +87,8 @@ def draw_scene(background, characters, speaking, mouth):
           x, y, w, h = 0, 0, 100, 100
         else:
           x, y, w, h = speaking.loc['mouth'] 
-        draw_character(mouth, speaking_img, x, y, w, h)
+          scale = 2
+        draw_character(mouth, speaking_img, x-w/scale, y-w/scale, w*scale, h*scale)
         nchars = len(characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
         i = 0
