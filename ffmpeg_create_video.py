@@ -112,7 +112,7 @@ def draw_scene(background, characters_fg, characters_bg, speaking, mouth, first_
         background_space = int(0.4 * VERTICAL_RESOLUTION)
         draw_character(c_img, background, dx_bg * (i * 2), 0, dx_bg, background_space)
     # place characters in foreground
-    dx_fg = HORIZONTAL_RESOLUTION / len(characters_fg)
+    dx_fg = HORIZONTAL_RESOLUTION / max(1, len(characters_fg))
     for i in range(len(characters_fg)):
         character = characters_fg[i]
         c_img = speaking_img if character == speaking else character.image
@@ -140,14 +140,20 @@ def create_video(script):
         for line in scene.directions:
             if isinstance(line, StageDirection):
                 stage_direction = line
-                if EXIT in stage_direction.actions:
-                    characters_on_stage.remove(stage_direction.character)
-                    characters_in_background.remove(stage_direction.character)
-                elif ENTER in stage_direction.actions:
-                    if BACKGROUND in stage_direction.actions:
-                        characters_in_background.append(stage_direction.character)
-                    else:
-                        characters_on_stage.append(stage_direction.character)
+                for action, character in stage_direction.actions:
+                    if action == EXIT:
+                        characters_on_stage.remove(character)
+                        characters_in_background.remove(character)
+                    elif action == ENTER:
+                        if not character in characters_on_stage:
+                            if character in characters_in_background:
+                                characters_in_background.remove(character)
+                            characters_on_stage.append(character)
+                    elif action == BACKGROUND:
+                        if not character in characters_in_background:
+                            if character in characters_on_stage:
+                                characters_on_stage.remove(character)
+                            characters_in_background.append(character)
                 continue
             elif not isinstance(line, Dialog):
                 raise Exception('Line is not dialog or stage direction')
