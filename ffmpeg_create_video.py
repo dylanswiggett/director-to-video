@@ -54,7 +54,7 @@ def create_video(script):
 		setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 	for scene in script.scenes:
-		setting_image = setting_images[scene.setting]
+		setting_image = setting_images[scene.setting.name]
 		for j in range(24):
 			pipe.stdin.write(setting_image.tostring())
 	pipe.stdin.close()
