@@ -29,7 +29,6 @@ def find_image(query):
   while True:
     r = requests.get(BASE_URL % start)
     time.sleep(1)
-    print r.text
     for image_info in json.loads(r.text)['responseData']['results']:
       url = image_info['unescapedUrl']
       try:

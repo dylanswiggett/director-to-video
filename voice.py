@@ -11,7 +11,12 @@ import ffmpeg_add_audio as a
 #
 #
 
-voices = [("en1", "50", "2")]
+voices = [
+  ("en1", "50", "2"),
+  ("us1", "50", "1"),
+  ("us2", "50", "2"),
+  ("us3", "50", "2")
+]
 
 def generate_mouths(voice_num, line, fps=24, scale=1.0):
   phones = generate_line(voice_num, line)
@@ -81,5 +86,3 @@ if __name__ == "__main__":
   pipe.stdin.close()
 
   au.combineWith("out.mp4", "final.mkv")
-
-  
