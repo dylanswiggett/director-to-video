@@ -32,13 +32,17 @@ def detect_face(img):
     x1 = f[0]
     x2 = f[0] + f[2]
     the_mouth = None
+    the_mouth_size = 0
     for m in mouths:
         if m[0] + 15 < x1 or m[0] + m[2] > x2 + 15:
-            return False
+            continue
         if m[1] + 15 < y1 or m[1] + m[3] > y2 + 15:
-            return False
-        the_mouth = m
-        break
+            continue
+        if the_mouth_size < m[2]:
+            the_mouth = m
+            the_mouth_size = m[2]
+    if the_mouth == None:
+        return False
     return {
       'face': f,
       'mouth': the_mouth
