@@ -50,13 +50,13 @@ def as_background_image(img):
 	return background_image[0:VERTICAL_RESOLUTION, 0:HORIZONTAL_RESOLUTION]
 
 def create_video(script):
-	setting_images = dict()
-	for setting in script.settings:
-		setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
+        setting_images[setting] = as_background_image(cv2.cvtColor(gi.find_image(setting), cv2.COLOR_BGR2RGB))
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 	for scene in script.scenes:
 		setting_image = setting_images[scene.setting.name]
-		for j in range(24):
+		for character in scene.characters:
+                           
+                for j in range(24):
 			pipe.stdin.write(setting_image.tostring())
 	pipe.stdin.close()
 
