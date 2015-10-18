@@ -57,7 +57,8 @@ def parse(path):
     for line in f:
         if line.strip() == "THE END" or re.match("^\d+.*$", line):
             if "CONTINUED" in line or "ANGLE" in line or \
-               not ("INT." in line or "EXT." in line):
+               not ("INT." in line or "EXT." in line or "OMITTED" in line):
+                print ":::", line
                 curscene[0] = scenetexts[-1][0]
             scenetexts.append(curscene)
             curscene = []
