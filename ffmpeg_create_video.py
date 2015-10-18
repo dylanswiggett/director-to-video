@@ -64,6 +64,14 @@ def draw_character(char, scene, x, y, width, height):
     x_offset = x + (width - fit_width) / 2
     scene[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = fit_image
 
+def draw_mouth(mouth, character, x, y, width, height):
+    fit_image = fit_character(mouth[0], width, height)
+    fit_mask = fit_character(mouth[1], width, height)
+    fit_height, fit_width = fit_image.shape[0:2]
+    y_offset = y + (height - fit_height)
+    x_offset = x + (width - fit_width) / 2
+    character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)] = cv2.bitwise_and(character[y_offset:(y_offset+fit_height), x_offset:(x_offset+fit_width)], fit_mask) + cv2.bitwise_and(fit_image, cv2.bitwise_not(fit_mask))
+
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
     image_ratio = float(image_width) / float(image_height)
@@ -92,7 +100,7 @@ def draw_scene(background, characters, speaking, mouth, first_line):
     else:
         x, y, w, h = speaking.loc['mouth']
         scale = 2
-    draw_character(mouth, speaking_img, x-w/scale, y-w/scale, w*scale, h*scale)
+    draw_mouth(mouth, speaking_img, x-w/scale, y-w/scale, w*scale, h*scale)
     character_list = list(characters)
     speaking_index = character_list.index(speaking)
     n_characters = len(character_list)
@@ -127,7 +135,7 @@ def create_video(script):
         i += 1
 
 
-    for scene in script.scenes[:5]:
+    for scene in script.scenes[:1]:
         setting_image = as_background_image(scene.setting.image)
         nchars = len(scene.characters) + 2
         dx = HORIZONTAL_RESOLUTION/nchars
