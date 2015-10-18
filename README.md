@@ -1,1 +1,1 @@
-Read me? No, read *you*!
+Read me? No, read *u*!
