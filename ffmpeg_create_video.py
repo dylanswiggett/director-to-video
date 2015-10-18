@@ -87,7 +87,7 @@ def draw_mouth(mouth, character, x, y, width, height):
     rgb = cv2.merge((r,g,b))
     fit_image = cv2.multiply(numpy.float32(fit_image), rgb)
     fit_image = cv2.multiply(fit_image, inverse_fit_mask)
-    character[y0:y1,x0:x1] = numpy.uint8(mul + fit_image * 1.2)
+    character[y0:y1,x0:x1] = numpy.uint8(mul + fit_image)
 
 def fit_dimensions(img, fit_width, fit_height):
     image_height, image_width = img.shape[0:2]
