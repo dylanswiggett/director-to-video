@@ -15,7 +15,7 @@ HORIZONTAL_RESOLUTION = int(VERTICAL_RESOLUTION * ASPECT_RATIO)
 
 FRAME_RATE = 24
 
-VIDEO_FILENAME = 'out'
+VIDEO_FILENAME = 'tmp/out'
 
 ffmpeg_create_video_command = ['ffmpeg',
 	'-y', # overwrite file if it exists
@@ -64,10 +64,14 @@ def create_video(script):
 	pipe = subprocess.Popen(ffmpeg_create_video_command, stdin=subprocess.PIPE)
 	scene = script.scenes[0]
         setting_image = as_background_image(scene.setting.image)
+        nchars = len(scene.characters) + 2
+        dx = HORIZONTAL_RESOLUTION/nchars
+        i = 0
         for character in scene.characters:
-                char_img = fit_dimensions(character.image, 300, 300)
+                char_img = fit_dimensions(character.image, dx-10, VERTICAL_RESOLUTION)
                 print(type(char_img))
-                draw_image(char_img, setting_image, 0, 0)
+                draw_image(char_img, setting_image, dx*i, 0)
+                i += 1
                 
         for j in range(24):
                 pipe.stdin.write(setting_image.tostring())

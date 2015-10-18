@@ -9,16 +9,15 @@ import google_images as gi
 import ffmpeg_create_video as ffcv
 import cv2
 
-TESTFILE_PATH = "the-defector.txt"
+TESTFILE_PATH = "clues.txt"
 
 def main():
   script = parser.parse(TESTFILE_PATH)
   scene = script.scenes[0]
   scene.setting.image = cv2.cvtColor(gi.find_image(scene.setting.name), cv2.COLOR_BGR2RGB)
-  print(scene.setting.image)
   print "Casting..."
   for character in scene.characters:
-    print("We have a character " + character)
+    print(character.name)
     character_data = gi.find_character(character.name)
     loc, image = character_data
     character.loc = loc
