@@ -190,9 +190,21 @@ def create_video(script):
                     for mouth in mouths:
                         frame = draw_scene(setting_image, characters_on_stage, characters_in_background, character, mouth, first_line)
                         # supertitles
-                        text_size = cv2.getTextSize(text, cv2.FONT_HERSHEY_SIMPLEX, 1.0, 2)
-                        text_point = ((HORIZONTAL_RESOLUTION - text_size[0][0])/2, 50)
-                        cv2.putText(frame, text, text_point, cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0), 2)
+                        supertitle_left = text
+                        supertitle_y = 0
+                        while len(supertitle_left) > 0:
+                            supertitle = supertitle_left
+                            while True:
+                                text_size = cv2.getTextSize(supertitle, cv2.FONT_HERSHEY_SIMPLEX, 1.0, 2)
+                                if text_size[0][0] > HORIZONTAL_RESOLUTION:
+                                    supertitle = supertitle.rsplit(' ', 1)[0]
+                                else:
+                                    break
+                            supertitle_y += 50
+                            text_point = ((HORIZONTAL_RESOLUTION - text_size[0][0])/2, supertitle_y)
+                            cv2.putText(frame, supertitle, text_point, cv2.FONT_HERSHEY_SIMPLEX, 1.0, (255, 255, 0), 2)
+                            supertitle_left = supertitle_left[len(supertitle):]
+                        # write out frame
                         pipe.stdin.write(frame.tostring())
                         totalframes += 1
                     while (float(totalframes) / 24.0 - audioManager.curlen()) < .1:
