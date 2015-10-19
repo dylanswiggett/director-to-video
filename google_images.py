@@ -24,7 +24,6 @@ def find_image(query):
     BASE_PATH = path
 
     if os.path.exists(BASE_PATH + '/' + query + '.jpg'):
-        print "Reusing cached image..."
         return cv2.imread(BASE_PATH + '/' + query + '.jpg')
     if not os.path.exists(BASE_PATH):
         os.makedirs(BASE_PATH)
